@@ -11,6 +11,7 @@ If you spot any mistakes, please open an issue or submit a pull request to help 
 - **`en-US.yml`** (English): ✔️ **Reviewed by humans**
 - **`es-ES.yml`** (Spanish): ✔️ **Reviewed by humans**
 - **`fr.yml`** (French): ❌ **AI-generated only**
+- **`ca-ES.yml`** (Catalan): ❌ **AI-generated only**
 
 ## Bot Translations
 
