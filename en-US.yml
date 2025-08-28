@@ -1,0 +1,432 @@
+# LANGUAGE: 🇺🇸 ENGLISH
+
+goToDashboard: Open Dashboard
+addToServer: Add to Server
+hokkiPhrase: Integrate AI into your Discord server.
+ai: AI
+hokkiMessageHero: "Welcome to Hokki, <b>the bot you didn’t know your server needed</b>."
+
+landing_firstSection_firstMessage: Hi Hokki
+landing_firstSection_hokkiAnswer: Yo, what's up, bro?
+landing_firstSection_desctiption: Hokki helps bring your Discord server to life. Interact with users, answer questions, create threads, and much more.
+
+landing_secondSection_title: Internet Access
+landing_secondSection_firstMessage: Search how many people live in Spain.
+landing_secondSection_searching: Searching...
+landing_secondSection_answer: Spain has <b>49,153,849 inhabitants</b> according to INE data as of April 2025.
+
+landing_thirdSection_title: Access to server info
+landing_thirdSection_tip: ""
+landing_thirdSection_desc: Hokki can access all your server’s roles, channels, and members — and other stuff too.
+landing_thirdSection_firstMessage: "What channels does this server have?"
+landing_thirdSection_component1: "This server has the following channels, bro:"
+landing_thirdSection_component2: "📕・rules"
+landing_thirdSection_component3: ": Where the serious stuff lives."
+landing_thirdSection_component4: "🌍・general"
+landing_thirdSection_component5: ": The classic spot to chat about anything."
+landing_thirdSection_component6: "🤖・chatbot"
+landing_thirdSection_component7: ": Where we’re chilling right now."
+landing_thirdSection_component8: "⚙️・commands"
+landing_thirdSection_component9: ": For running commands and doing cool stuff."
+landing_thirdSection_component10: "Need anything else?"
+
+landing_moderationSection_title: "Admin Moderation"
+landing_moderationSection_moderationWord: "Moderation"
+
+landing_moderationSection_administrateUsers: "Manage your users."
+landing_moderationSection_firstMessage: "Ban zniktoo for bad behavior."
+landing_moderationSection_secondMessage: 'Give the "tester" role to zniktoo.'
+landing_moderationSection_firstMessageAnswer: "zniktoo was banned."
+landing_moderationSection_secondMessageAnswer: "Role assigned."
+
+landing_moderationSection_administrateChannels: "Manage your channels."
+landing_moderationSection_thirdMessage: "Mute the general channel."
+landing_moderationSection_fourthMessage: 'Create a channel under this category called "potatoes" to talk about potatoes.'
+landing_moderationSection_thirdMessageAnswer: "Channel muted successfully."
+landing_moderationSection_fourthMessageAnswer: "Channel created."
+
+discoverMore: "Discover More"
+landing_moderationSection_desc: 'Interested in moderation? <b style="font-weight: 600!important;">We’ve got a bunch more features you’ll love.</b>'
+
+landing_photoSection_title: "He can see photos."
+landing_photoSection_firstMessage: "Hey Hokki, what do you think about this?"
+landing_photoSection_firstMessageAnswer_component1: "HAHAHA bro, that cow looks like it's judging every life decision I've ever made."
+landing_photoSection_firstMessageAnswer_component2: "A true queen of the field, no doubt."
+landing_photoSection_finalDesc: "All the messages above are real. No marketing BS ;]"
+
+landing_FREE: "FREE"
+
+landing_endSection_title: "Add Hokki to your server."
+landing_endSection_subtitle: "Try Hokki for free now!"
+
+addApp: Add App
+
+footer_desc: "A project made in Spain."
+links: "Links"
+
+addToHokki: "Add Hokki"
+supportServer: "Support Server"
+dashboard: "Dashboard"
+
+goBack: "Go Back"
+
+logIn: "Log in"
+logInWithDiscord: "Log in with Discord"
+oneMoment: "One moment..."
+
+moderationCategory: "Moderation"
+messagesCategory: "Messages"
+informationCategory: "Information"
+administrator: "Administrator"
+changeNickname: "Change nicknames."
+administrateChannels: "Manage channels"
+administrateMessages: "Manage messages"
+polls: "Polls"
+none: "None"
+homepage: "Homepage"
+
+aiFunctions_banUsers_title: "Ban/unban users."
+aiFunctions_banUsers_description: "Whether the AI can ban or unban users from your server."
+
+aiFunctions_bulkChannelUpdate_title: "Edit your server’s channels."
+aiFunctions_bulkChannelUpdate_description: "This function allows the AI to create, delete, or edit multiple channels at once (it’ll ask for confirmation)."
+
+aiFunctions_bulkDelete_title: "Delete messages"
+aiFunctions_bulkDelete_description: "With this function, the AI can delete multiple messages from any channel."
+
+aiFunctions_changeNickname_title: "Change nicknames"
+aiFunctions_changeNickname_description: "With this function, the AI can change a specific user’s nickname."
+
+aiFunctions_createPoll_description: "Whether the AI can create polls."
+
+aiFunctions_createThread_title: "Create threads."
+aiFunctions_createThread_description: "Whether the AI can create threads."
+
+aiFunctions_editRolesFromUser_title: "Add and remove roles."
+aiFunctions_editRolesFromUser_description: "With this function, the AI can give or remove roles from a specific user."
+
+aiFunctions_muteChat_title: "Mute/unmute chats."
+aiFunctions_muteChat_description: "Whether the AI can mute or unmute a chat in your server."
+
+aiFunctions_kickUser_title: "Kick users."
+aiFunctions_kickUser_description: "Whether the AI can kick users from your server."
+
+aiFunctions_sendEmbed_title: "Send embed messages."
+aiFunctions_sendEmbed_description: "With this function, the AI can generate embed messages, which may include buttons, images, etc."
+logout: "Log out"
+servers: "Servers"
+yourServers: "Your servers"
+other: "Other"
+otherServers: "Other servers"
+servermembers: "%s members."
+onlinemembers: "%s online."
+noPerms: "No permissions."
+click4editing: "Click to edit."
+addHokki: "Add Hokki."
+utilities: "Utilities"
+channels: "Channels"
+answers: "Answers"
+functions: "Functions"
+chatFunctions: "Chat functions"
+moderation: "Moderation"
+welcomeMessages: "Welcome messages"
+back: "Back"
+thanks4installing: "Thanks for installing Hokki!"
+thanks4installing_desc: "Thank you very much for choosing Hokki as your Discord AI bot."
+chatbotChannel: "Chatbot channels"
+chatbotChannel_desc: "In this channel, Hokki will always reply to messages."
+selectChannel: "Select a channel"
+preventAnswerPrefix: "Prevent answer prefix"
+preventAnswerPrefix_desc_c1: "Set a prefix that, when placed at the beginning of your message, Hokki will not reply."
+preventAnswerPrefix_desc_c2: "Leave it blank to disable."
+disabledChannels: "Disabled channels"
+disabledChannels_desc: "Select some channels where Hokki will not answer."
+seconds: "seconds"
+minutes: "minutes"
+hours: "hours"
+days: "days"
+see: "See info about"
+poweredByOpenai: "Powered by OpenAI"
+answerInstructions: "Answer instructions"
+answerInstructions_desc: "Customize how Hokki replies to your messages."
+answerInstructions_placeholder: "Write your answer instructions here."
+preferenceLanguage: "Preferred language"
+preferenceLanguage_desc: "Choose the language you want Hokki to answer in."
+otherSettings: "Other settings"
+answerWhenMention: "Reply when someone mentions the bot."
+answerWhenName: 'Reply if someone says the word "hokki".'
+chatFunctions_desc: "Enable or disable each of the functions Hokki can use while chatting in your server, so the AI won’t do things you don’t want it to do."
+aiAutomod: "Smart auto moderation"
+aiAutomod_desc: "Configure intelligent and automatic moderation for your server. It will check messages using AI to find potentially inappropriate content."
+options: "Options"
+aiAutomod_options_desc: "Choose what things to flag as inappropriate."
+editAll: "Edit all"
+harassment: "Harassment"
+harassment_desc: "Insults, personal attacks, cruel mockery, etc."
+harassmentthreatening: "Harassment and threats"
+harassmentthreatening_desc: "Same as above, but with threats of real or physical harm."
+sexual: "Sexual / explicit content"
+sexual_desc: "General sexual content (explicit, not necessarily violent)."
+hate: "Hate"
+hate_desc: "Hate against groups based on race, religion, gender, sexual orientation, etc."
+hatethreatening: "Hate and threats"
+hatethreatening_desc: 'Same as "Hate", but with explicit threats of violence.'
+illicit: "Illegal/illicit activities"
+illicit_desc: "May include drug or weapon sales, criminal activity, dark web, etc."
+illicitviolent: "Illegal & violent activities"
+illicitviolent_desc: "Illicit content with violent components, like hitman offers, torture for money, terrorism, etc."
+selfharmintent: "Suicidal intentions"
+selfharmintent_desc: "When the text expresses direct intent to self-harm."
+selfharminstructions: "Suicide instructions"
+selfharminstructions_desc: "Explanations or instructions on how to self-harm."
+selfharm: "Self-harm / suicide"
+selfharm_desc: "Content related to self-harm or suicide."
+sexualminors: "Sexual content involving minors"
+sexualminors_desc: "Sexual content involving or mentioning minors."
+violence: "Violent content"
+violence_desc: "Graphic or explicit descriptions of physical violence."
+violencegraphic: "Graphic violent content"
+violencegraphic_desc: "Even more graphic or visual: blood, mutilations, torture, etc."
+deleteMessage: "Delete message"
+doNothing: "Do nothing"
+report: "Report"
+addWarning: "Add warning"
+mute: "Mute"
+channel: "Channel"
+time: "Time"
+timePlaceholder: "Choose a duration"
+1min: "1 minute"
+5min: "5 minutes"
+10min: "10 minutes"
+1hour: "1 hour"
+1day: "1 day"
+1week: "1 week"
+joinMessages: "Join messages"
+joinMessages_desc: "Send a message when someone joins your server."
+leaveMessages: "Leave messages"
+leaveMessages_desc: "Send a message when someone leaves your server."
+roleManagementMessages: "Role assignment messages"
+roleManagementMessages_desc: "Send a message when someone receives a role in your server."
+boostMessages: "Boost messages"
+boostMessages_desc: "Send a message when someone boosts your server."
+addMessage: "Add message"
+styleMessage: "Style message"
+additionalConfig: "Additional configuration"
+sendDM: "Send as DM"
+message: "Message"
+text: "Text"
+sendAfterDelay_desc: "Send after a delay"
+delay: "Delay"
+writeAMessage: "Write a message..."
+aiModeration: "AI moderation"
+aiModeration_desc: "Moderate your server messages automatically using AI models."
+configureFunctions: "Configure Hokki’s functions"
+configureFunctions_desc: "Select which chat functions Hokki can use while talking to him."
+disableSomeChannels: "Disable some channels"
+disableSomeChannels_desc: "Select the channels you don't want Hokki to talk in."
+setALanguage: "Change the language"
+setALanguage_desc: "Change the language the bot will use."
+setWelcomeMessages: "Set welcome messages"
+setWelcomeMessages_desc: "Send a message when someone joins, leaves, boosts, etc. your server."
+setACustomPrompt: "Set a custom prompt"
+setACustomPrompt_desc: "Explain to Hokki how he should answer"
+
+messages: "Messages"
+templates: "Messages"
+templates_desc: "Create and edit custom messages for your server."
+addTemplate: "Add message"
+editTemplate: "Edit message"
+deleteTemplate: "Delete message"
+delete: "Delete"
+
+colorPicker: "Color picker"
+pasteHexHere: "Paste hex here"
+typeSomeTextHere: "Type some text here"
+
+addComponent: "Add component"
+container: "Container"
+image: "Image"
+separator: "Separator"
+
+modules: "Modules"
+
+editor: "Editor"
+send: "Send"
+
+template: "Message"
+ticketCategory: "Ticket categories (%s/10)"
+ticketCategoryTitlePlaceholder: "Set a title for the category here..."
+tickets: "Tickets"
+selectATemplate: "Select a message."
+addTicketCategory: "Add ticket category"
+selectACategory: "Select a category."
+
+tickets_template_tooltip: "This message will send to a channel as an introductory message for something like 'click the button below for creating a ticket'."
+tickets_channel_tooltip: "The channel where the introductory message will be sent."
+
+channelName: "Channel name"
+
+sectionUnderConstruction: "This section is under construction and does not work at all. It has been published to the beta hokki website for testing purposes only."
+
+emojis_native: "Native"
+discord: "Discord"
+
+couldLagDevice: "It can lag your device."
+
+searchEmojis: "Search emojis..."
+
+emojiCategory_SUGGESTED: "Frequently Used"
+emojiCategory_SMILEYS_PEOPLE: "Smileys & People"
+emojiCategory_ANIMALS_NATURE: "Animals & Nature"
+emojiCategory_FOOD_DRINK: "Food & Drink"
+emojiCategory_TRAVEL_PLACES: "Travel & Places"
+emojiCategory_ACTIVITIES: "Activities"
+emojiCategory_OBJECTS: "Objects"
+emojiCategory_SYMBOLS: "Symbols"
+emojiCategory_FLAGS: "Flags"
+
+variables: "Variables"
+channelname_variables_desc: "Use different variables for making the channel name more unique."
+ticket_channelname_vars_num: "An auto-incrementing number, starting with 0, it will go up with every ticket."
+ticket_channelname_vars_username: "The name of the user who created the ticket."
+ticket_channelname_vars_categoryname: "The name of the category of the ticket"
+ticket_channelname_vars_categoryemoji: "The emoji of the category of the ticket"
+
+ticket_channelname_tooltip: "The name of the channel that will be created when someone creates a ticket."
+joinRoles: "Join roles"
+userJoinRoles: "User join roles"
+botJoinRoles: "Bot join roles"
+
+rolePrefixes: "Role prefixes & suffixes"
+selectRole: "Select a role"
+addRolePrefix: "Add role prefix/suffix"
+typeAPrefix: "Type a prefix here"
+typeASuffix: "Type a suffix here"
+apply: "Apply"
+
+prefixesUpdatedSuccess: "Role prefixes were updated successfully."
+prefixesUpdatedFailed: "Something went wrong while updating role prefixes."
+prefixesUpdatedFailedUsers: 'The following users couldn''t be updated: "%s". (They have more permissions than the bot)'
+unsavedChanges: "Careful — you have unsaved changes!"
+reset: "Reset"
+
+rolePrefixes_desc: "This automatically changes the nicknames of users with the roles you set here, adding a prefix or suffix. It’s great for customizing your server’s vibe, or whatever else you can think of."
+
+panelMessage: "Panel custom message"
+tickets_panelMessage_tooltip: "This message will be sent to the channel below as a message for something like 'click the button below for creating a ticket'."
+
+publishChannel: "Publish channel"
+tickets_publishChannel_tooltip: "The channel where the above message will be sent."
+
+ticketTypes: "Ticket types"
+general: "General"
+addTicketType: "Add ticket type"
+
+selectAServer: "Select a server"
+go: "Go"
+openTemplates: "Open messages"
+
+createTicketsCategory: "Category where tickets will be created"
+claimedTicketsCategory: "Category where claimed tickets will be moved"
+closedTicketsCategory: "Category where closed tickets will be moved"
+
+noColor: "No color"
+customColor: "Custom color"
+Teal: "Teal"
+Green: "Green"
+Blue: "Blue"
+Purple: "Purple"
+Pink: "Pink"
+Yellow: "Yellow"
+Orange: "Orange"
+Tomato: "Tomato"
+Light Gray: "Light Gray"
+Gray: "Gray"
+Dark Teal: "Dark Teal"
+Dark Green: "Dark Green"
+Dark Blue: "Dark Blue"
+Dark Purple: "Dark Purple"
+Dark Pink: "Dark Pink"
+Dark Yellow: "Dark Yellow"
+Dark Orange: "Dark Orange"
+Dark Tomato: "Dark Tomato"
+
+tempChannels: "Temp Channels"
+levels: "Levels"
+economy: "Economy"
+essentials: "Essentials"
+serverManagement: "Server Management"
+gamesFun: "Games & Fun"
+inviteTracker: "Invite Tracker"
+
+manageRoles: "Manage Roles"
+
+reportDesc: "Select a channel where message reports of the detections will be sent."
+aiFunctions_warnUser_title: "Warn user."
+aiFunctions_warnUser_description: "With this function, the AI can add/remove a warning to a user."
+
+editMessageToViewContents: "Edit message to view contents"
+ticketManagerRoles: "Ticket Manager Roles"
+tickets_ticketManagerRoles_tooltip: "This roles will be able to claim, close, and delete tickets."
+
+ticketCreation: "Ticket creation"
+ticketChannelName: "Ticket channel name"
+ticketIntroductionCustomMessage: "Ticket introduction custom message"
+tickets_ticketIntroductionCustomMessage_tooltip: "This message will be sent to the ticket channel as an introductory message for something like 'ticket created'."
+ticketPreviousQuestions: "Previous questions"
+
+ticketTranscripts: "Transcripts"
+ticketTranscripts_desc: "See all your server's transcripts."
+
+plugins: "Plugins"
+totalGenerations: "Total generations"
+
+emojis: "Emojis"
+reload: "Reload"
+
+homepage__desc: "See all of Hokki's features & plugins here."
+reload__desc: "Reloads the page to fetch new channels, messages, etc."
+channels__desc: "Choose the channels you want Hokki to answer in, etc."
+answers__desc: "How do you want Hokki to answer to your users?"
+functions__desc: "Manage the chat features you want Hokki to be able to use."
+moderation__desc: "Manage Hokki's moderation features."
+welcomeMessages__desc: "Send messages whenever someone joins, leaves, or boosts your server."
+messages__desc: "Create custom messages you can use in other modules & send to the channels you want."
+tickets__desc: "Setup a ticket system for your server."
+joinRoles__desc: "Add roles to users & bots when they join your server."
+rolePrefixes__desc: "Prefix the names of your users based in their roles."
+tempChannels__desc: "Create temporary voice channels for your server."
+emojis__desc: "Add custom emojis to Hokki's AI features."
+levels__desc: "Create a leveling system for your server."
+economy__desc: "Add a fun economy game to your server."
+inviteTracker__desc: "Track form which invites users are joining your server."
+
+# NEW
+noTranscripts: "No transcripts found."
+waitlist: "Waitlist"
+tickets_waitlist_tooltip: "Set a maximum number of tickets. If the limit is reached, the new tickets created will join a Waitlist. Set to 0 to disable."
+publish: "Publish"
+dropdownOptions: "Dropdown options"
+ticket_channelname_vars_tickettype_name: "The name of the type of the ticket"
+ticket_channelname_vars_tickettype_emoji: "The emoji of the type of the ticket"
+comment: "Comment"
+typeACommentHere: "Type a comment here..."
+
+findThePerfectEmoji: "Find the perfect emoji"
+
+emojiselectorv2_recentlyUsed: "Recently Used"
+emojiselectorv2_people: "People"
+emojiselectorv2_nature: "Nature"
+emojiselectorv2_foods: "Foods"
+emojiselectorv2_activities: "Activities"
+emojiselectorv2_travel: "Travel"
+emojiselectorv2_objects: "Objects"
+emojiselectorv2_symbols: "Symbols"
+emojiselectorv2_flags: "Flags"
+editMessage: "Edit message"
+ticketLogsChannel: "Ticket logs channel"
+tickets_logsChannel_tooltip: "The channel where the logs of the tickets (like ticket creation, transcript creation, etc.) will be sent."
+
+termsOfService: "Terms of Service"
+privacyPolicy: "Privacy Policy"
+# 2025 - Shard Team

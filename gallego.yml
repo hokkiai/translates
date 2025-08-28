@@ -1,0 +1,450 @@
+# LANGUAGE: SPANISH/PORTUGUESE (GALICIAN)
+
+goToDashboard: Abre o panel, meu
+addToServer: Engade ó servidor
+hokkiMessageHero: "Benvido a Hokki, <b>o bot que nin sabías que che facía falta, meu</b>."
+
+hokkiPhrase: Integra IA no teu Discord, meu.
+ai: IA
+
+landing_firstSection_firstMessage: Ola Hokki, meu
+landing_firstSection_hokkiAnswer: ¡Eii meu! ¿Como vai iso? ¿Todo ben ou que?
+landing_firstSection_desctiption: Hokki axúdache a darlle vidilla ó teu servidor de Discord, meu. Fala coa peña, resolve cousas, crea fíos e todo o que fagas falta, meu.
+
+landing_secondSection_title: Ten acceso á internet, meu.
+landing_secondSection_firstMessage: Búscame na internet cantos habitantes ten España, meu.
+landing_secondSection_searching: Espera meu, que estou buscando…
+landing_secondSection_answer: España ten <b>49.153.849 habitantes</b>, meu, segundo o INE de abril de 2025. ¡Isto non para de medrar, meu!
+
+landing_thirdSection_title: Pode ver cousas do teu servidor, meu.
+landing_thirdSection_tip: "* e de ti tamén, meu"
+landing_thirdSection_desc: Hokki pode ver roles, canles e usuarios do servidor, meu, todo todo.
+landing_thirdSection_firstMessage: "Que canles hai neste servidor, meu?"
+landing_thirdSection_component1: "Mira meu, este servidor ten estas canles:"
+landing_thirdSection_component2: "📕・regras"
+landing_thirdSection_component3: ": Pa poñer as normas e poñerse serio, meu."
+landing_thirdSection_component4: "🌍・xeral"
+landing_thirdSection_component5: ": O típico pa falar de todo un pouco, meu."
+landing_thirdSection_component6: "🤖・chatbot"
+landing_thirdSection_component7: ": Aquí estamos agora mesmo, falando ti e máis eu, meu."
+landing_thirdSection_component8: "⚙️・comandos"
+landing_thirdSection_component9: ": Pa lanzar comandos e facer maxia, meu."
+landing_thirdSection_component10: "¿Queres algo máis ou xa estás servido, meu?"
+
+landing_moderationSection_title: "Moderación para os xefazos, meu."
+landing_moderationSection_moderationWord: "Moderación"
+
+landing_moderationSection_administrateUsers: "Administra á xente, meu."
+landing_moderationSection_firstMessage: "Banea ó zniktoo ese que está dando a vara, meu."
+landing_moderationSection_secondMessage: 'Pónlle o rol de "tester" ó zniktoo, meu.'
+landing_moderationSection_firstMessageAnswer: "Zniktoo baneado, meu. Sen piedade."
+landing_moderationSection_secondMessageAnswer: "Rol posto, meu."
+
+landing_moderationSection_administrateChannels: "Controla as canles, meu."
+landing_moderationSection_thirdMessage: "Silencia a canle xeral, que está a tope, meu."
+landing_moderationSection_fourthMessage: 'Crea unha canle chamada "patacas" nesta categoría, pa falar de patacas, meu.'
+landing_moderationSection_thirdMessageAnswer: "Canle silenciada, meu."
+landing_moderationSection_fourthMessageAnswer: "Canle creada, meu. Está feita."
+
+discoverMore: "Descubre máis cousas, meu"
+landing_moderationSection_desc: '¿Gústache o rollo da moderación, meu? <b style="font-weight: 600!important;">Pois temos moito máis que ofrecerche, meu.</b>'
+
+landing_photoSection_title: "Tamén ve fotos, meu."
+landing_photoSection_firstMessage: "eh hokki, que opinas disto, meu?"
+landing_photoSection_firstMessageAnswer_component1: "JAJAJA meu, esa vaca está xulgándome como a miña nai cando suspendo mates."
+landing_photoSection_firstMessageAnswer_component2: "Unha raíña do campo, sen dúbida, meu."
+landing_photoSection_finalDesc: "Todos estes mensaxes son reais, meu. Aquí non se inventa nada."
+
+landing_FREE: "DE BALDE, MEU"
+
+landing_endSection_title: "Engade a Hokki ó teu servidor, meu."
+landing_endSection_subtitle: "¡Proba a Hokki gratis, meu!"
+
+addApp: Engade a app, meu
+
+footer_desc: "Un proxecto feito en España, con cariño, meu."
+links: "Ligazóns e todo iso, meu"
+
+addToHokki: "Engade a Hokki, meu"
+supportServer: "Servidor de soporte, meu"
+dashboard: "O panel ese, meu"
+
+goBack: "Devolver, meu"
+
+logIn: "Inicio de sesión, meu"
+logInWithDiscord: "Iniciar sesión con Discord, meu"
+oneMoment: "Un momento, meu"
+
+moderationCategory: "Moderación, meu"
+messagesCategory: "Mensaxes, meu"
+informationCategory: "Información, meu"
+administrator: "Administrador, meu"
+changeNickname: "Cambia os alcumes, meu"
+administrateChannels: "Administra os canais, meu"
+administrateMessages: "Administra as mensaxes, meu"
+polls: "Enquisas, meu"
+none: "Ningún, meu"
+homepage: "Páxina principal, meu"
+
+aiFunctions_banUsers_title: "Banear ou desbanear xente, meu"
+aiFunctions_banUsers_description: "A IA pode botar ou deixar volver á xente no teu servidor, meu"
+
+aiFunctions_bulkChannelUpdate_title: "Editar os canais do servidor, meu"
+aiFunctions_bulkChannelUpdate_description: "A IA pode crear, borrar ou editar varios canais, pero vai pedir permiso, meu"
+
+aiFunctions_bulkDelete_title: "Borrar mensaxes, meu"
+aiFunctions_bulkDelete_description: "Con esta función, a IA pode limpar o chat que dá gusto, meu"
+
+aiFunctions_changeNickname_title: "Cambiar alcumes, meu"
+aiFunctions_changeNickname_description: "A IA ponlle un novo nome ao que ti queiras, meu"
+
+aiFunctions_createPoll_description: "A IA pode facer enquisas, meu"
+
+aiFunctions_createThread_title: "Crear fíos, meu"
+aiFunctions_createThread_description: "A IA monta un fío como se fose un debate no bar, meu"
+
+aiFunctions_editRolesFromUser_title: "Dar e quitar roles, meu"
+aiFunctions_editRolesFromUser_description: "A IA reparte roles como se fosen tapas, meu"
+
+aiFunctions_muteChat_title: "Silenciar ou activar chats, meu"
+aiFunctions_muteChat_description: "Se están armando moito balbordo, a IA pode calalos un chisco, meu"
+
+aiFunctions_kickUser_title: "Expulsar xente, meu"
+aiFunctions_kickUser_description: "Se hai algún pesado, a IA daille unha patada e fóra, meu"
+
+aiFunctions_sendEmbed_title: "Crear mensaxes con estilo, meu"
+aiFunctions_sendEmbed_description: "A IA pode mandar mensaxes con botóns, imaxes e todo o que faga falta, meu"
+logout: "Pecha sesión, meu"
+servers: "Servidores, meu"
+yourServers: "Os teus servidores, meu"
+other: "Outros, meu"
+otherServers: "Outros servidores, meu"
+
+servermembers: "%s xente no servidor, meu."
+onlinemembers: "%s conectados, meu."
+noPerms: "Sen permisos, meu."
+click4editing: "Preme pra editar, meu."
+addHokki: "Engade ó Hokki, meu."
+
+utilities: "Utilidades, meu"
+channels: "Canles, meu"
+answers: "Respostas, meu"
+functions: "Funcións, meu"
+chatFunctions: "Funcións de chat, meu"
+moderation: "Moderación, meu"
+welcomeMessages: "Mensaxes de benvida, meu"
+
+back: "Voltar atrás, meu"
+
+thanks4installing: "Grazas por instalar ó Hokki, meu!"
+thanks4installing_desc: "Moitas grazas por escoller ó Hokki como o bot de IA máis riquiño do teu Discord, meu."
+
+chatbotChannel: "Canles de conversa do Hokki, meu"
+chatbotChannel_desc: "Aquí Hokki responde sempre, meu."
+selectChannel: "Escolle unha canle, meu."
+
+preventAnswerPrefix: "Prefixo pra calar, meu"
+preventAnswerPrefix_desc_c1: "Se a mensaxe comeza con isto, Hokki cala a boquiña, meu."
+preventAnswerPrefix_desc_c2: "Se o deixas baleiro, fala igual, meu."
+
+disabledChannels: "Canles desactivadas, meu"
+disabledChannels_desc: "Aquí Hokki non di nin pío, meu."
+
+seconds: "segundiños, meu"
+minutes: "minutiños, meu"
+hours: "horiñas, meu"
+days: "díiños, meu"
+
+see: "Mira isto, meu"
+poweredByOpenai: "Funciona con OpenAI, meu"
+
+answerInstructions: "Instrucións pra responder, meu"
+answerInstructions_desc: "Configura como queres que responda o Hokki, meu."
+answerInstructions_placeholder: "Escribe aquí como queres que actúe o Hokki, meu."
+
+preferenceLanguage: "Lingua preferida, meu"
+preferenceLanguage_desc: "Escolle en que idioma queres que fale o Hokki, meu."
+
+otherSettings: "Outros axustes, meu"
+
+answerWhenMention: "Responder cando o mencionen, meu."
+answerWhenName: 'Responder se din "hokki", meu.'
+
+chatFunctions_desc: "Activa ou desactiva o que pode facer Hokki cando fala, meu."
+
+aiAutomod: "Moderación automática con IA, meu"
+aiAutomod_desc: "Deixa que a IA revise as mensaxes sospeitosas, meu."
+
+options: "Opcións, meu"
+aiAutomod_options_desc: "Escolle o que consideras tóxico, meu."
+
+editAll: "Editar todo xunto, meu"
+
+harassment: "Acoso, meu"
+harassment_desc: "Insultos, burla ou cousas feíñas, meu."
+
+harassmentthreatening: "Acoso con ameazas, meu"
+harassmentthreatening_desc: "Acoso pero con malas intencións, meu."
+
+sexual: "Contido sexual, meu"
+sexual_desc: "Cousas subidiñas de ton, sen pasarse, meu."
+
+hate: "Discurso de odio, meu"
+hate_desc: "Odio por raza, sexo, relixión, todo iso, meu."
+
+hatethreatening: "Odio con ameazas, meu"
+hatethreatening_desc: "Xa sabes, odio pero con mala leite, meu."
+
+illicit: "Ilegal, meu"
+illicit_desc: "Drogas, armas, cousas prohibidas, meu."
+
+illicitviolent: "Ilegal e violento, meu"
+illicitviolent_desc: "Asasinatos, terrorismo e cousas moi turbias, meu 💀."
+
+selfharmintent: "Intención de autolesión, meu"
+selfharmintent_desc: "Cando alguén fala de facerse dano, meu."
+
+selfharminstructions: "Instrucións de autolesión, meu"
+selfharminstructions_desc: "Cando alguén explica como facerse mal, meu."
+
+selfharm: "Autolesión ou suicidio, meu"
+selfharm_desc: "Mensaxes sobre facerse dano, meu 💀."
+
+sexualminors: "Contido sexual con menores, meu"
+sexualminors_desc: "💀 Aquí saltan todas as alarmas, meu."
+
+violence: "Violencia, meu"
+violence_desc: "Descricións de violencia física, meu."
+
+violencegraphic: "Violencia explícita, meu"
+violencegraphic_desc: "Gore, sangue, torturas, cousas brutas, meu 💀."
+
+deleteMessage: "Borra a mensaxe, meu"
+
+doNothing: "Non facer nada, meu"
+report: "Informar, meu"
+addWarning: "Avisar ó usuario, meu"
+mute: "Calar ó usuario, meu"
+channel: "Canle, meu"
+time: "Tempo, meu"
+timePlaceholder: "Elixe a duración, meu"
+1min: "1 minutiño, meu"
+5min: "5 minutiños, meu"
+10min: "10 minutiños, meu"
+1hour: "1 horiña, meu"
+1day: "1 diiño, meu"
+1week: "1 semaniña, meu"
+
+joinMessages: "Mensaxes ó entrar, meu"
+joinMessages_desc: "Envía unha mensaxe cando alguén entra, meu."
+
+leaveMessages: "Mensaxes ó saír, meu"
+leaveMessages_desc: "Envía algo cando alguén marcha, meu."
+
+roleManagementMessages: "Mensaxe ó recibir rol, meu"
+roleManagementMessages_desc: "Hokki avisa cando alguén recibe un rol, meu."
+
+boostMessages: "Mensaxe de boost, meu"
+boostMessages_desc: "Cando alguén boostea o servidor, celebrámolo, meu."
+
+addMessage: "Engadir mensaxe, meu"
+styleMessage: "Estiliza a mensaxe, meu"
+additionalConfig: "Configuración adicional, meu"
+
+sendDM: "Enviar por mensaxe directa, meu"
+message: "Mensaxe, meu"
+text: "Texto, meu"
+
+sendAfterDelay_desc: "Enviar despois dun tempo, meu"
+delay: "Retraso, meu"
+
+writeAMessage: "Escribe unha mensaxe aquí, meu..."
+
+aiModeration: "Moderación con IA, meu"
+aiModeration_desc: "Deixa que a intelixencia artificial faga o seu choio, meu."
+
+configureFunctions: "Configura o que pode facer o Hokki, meu"
+configureFunctions_desc: "Escolle os superpoderes do Hokki, meu."
+
+disableSomeChannels: "Desactiva canles específicas, meu"
+disableSomeChannels_desc: "Pra que o Hokki non diga nada alí, meu."
+
+setALanguage: "Configura o idioma, meu"
+setALanguage_desc: "Decide como queres que fale o Hokki, meu."
+
+setWelcomeMessages: "Configura as mensaxes de benvida, meu"
+setWelcomeMessages_desc: "Pra dar a benvida ou despedirse da peña, meu."
+
+setACustomPrompt: "Ensínalle ó Hokki como comportarse, meu"
+setACustomPrompt_desc: "Ti dislle como queres que fale, e el obedece, meu."
+messages: "Mensaxes, meu"
+templates: "Mensaxes meu"
+templates_desc: "Crear e editar mensaxes personalizadas para o teu servidor, meu."
+addTemplate: "Engadir unha mensaxe meu"
+editTemplate: "Editar a mensaxe meu"
+deleteTemplate: "Eliminar a mensaxe meu"
+delete: "Eliminar meu"
+
+colorPicker: "Selector de cor meu"
+pasteHexHere: "Pega o hex aquí meu"
+typeSomeTextHere: "Escribe algún texto aquí meu"
+
+addComponent: "Engadir compoñente meu"
+container: "Contedor meu"
+image: "Imaxe meu"
+separator: "Separador meu"
+
+modules: "Módulos meu"
+
+editor: "Editor meu"
+send: "Enviar meu"
+
+template: "Mensaxe meu"
+ticketCategory: "Categorías de tickets (%s/10) meu"
+ticketCategoryTitlePlaceholder: "Pon un título para a categoría aquí meu..."
+tickets: "Tickets meu"
+selectATemplate: "Selecciona unha mensaxe meu."
+addTicketCategory: "Engadir categoría de ticket meu"
+selectACategory: "Selecciona unha categoría meu."
+
+tickets_template_tooltip: "Esta mensaxe enviarase a un canal como mensaxe introductoria para algo como 'fai clic no botón de abaixo para crear un ticket', meu."
+tickets_channel_tooltip: "O canal onde se enviará a mensaxe introductoria, meu."
+
+channelName: "Nome do canal meu"
+
+sectionUnderConstruction: "Esta sección está en construción e non funciona nada meu. Publicouse no sitio web beta de hokki só para propósitos de proba."
+
+emojis_native: "Nativos meu"
+discord: "Discord meu"
+
+couldLagDevice: "Pode ralentizar o teu dispositivo meu."
+
+searchEmojis: "Buscar emojis meu..."
+
+emojiCategory_SUGGESTED: "Usados frecuentemente meu"
+emojiCategory_SMILEYS_PEOPLE: "Caritas e Persoas meu"
+emojiCategory_ANIMALS_NATURE: "Animais e Natureza meu"
+emojiCategory_FOOD_DRINK: "Comida e Bebida meu"
+emojiCategory_TRAVEL_PLACES: "Viaxes e Lugares meu"
+emojiCategory_ACTIVITIES: "Actividades meu"
+emojiCategory_OBJECTS: "Obxectos meu"
+emojiCategory_SYMBOLS: "Símbolos meu"
+emojiCategory_FLAGS: "Bandeiras meu"
+
+variables: "Variables meu"
+channelname_variables_desc: "Usa variables diferentes para facer o nome do canal máis único, meu."
+ticket_channelname_vars_num: "Un número que se incrementa automaticamente, empezando con 0, subirá con cada ticket meu."
+ticket_channelname_vars_username: "O nome do usuario que creou o ticket meu."
+ticket_channelname_vars_categoryname: "O nome da categoría do ticket meu"
+ticket_channelname_vars_categoryemoji: "O emoji da categoría do ticket meu"
+
+ticket_channelname_tooltip: "O nome do canal que se creará cando alguén cree un ticket meu."
+joinRoles: "Roles de entrada meu"
+userJoinRoles: "Roles de entrada de usuarios meu"
+botJoinRoles: "Roles de entrada de bots meu"
+
+rolePrefixes: "Prefixos e sufixos de roles meu"
+selectRole: "Seleccionar un rol meu"
+addRolePrefix: "Engadir prefixo/sufixo de rol meu"
+typeAPrefix: "Escribe un prefixo aquí meu"
+typeASuffix: "Escribe un sufixo aquí meu"
+apply: "Aplicar meu"
+
+prefixesUpdatedSuccess: "Os prefixos de roles actualizáronse correctamente meu."
+prefixesUpdatedFailed: "Algo saíu mal ao actualizar os prefixos de roles meu."
+prefixesUpdatedFailedUsers: 'Os seguintes usuarios non se puideron actualizar: "%s". (Teñen máis permisos que o bot) meu'
+unsavedChanges: "¡Coidado meu — tes cambios sen gardar!"
+reset: "Restablecer meu"
+
+rolePrefixes_desc: "Isto cambia automaticamente os alcumes dos usuarios cos roles que establezcas aquí, engadindo un prefixo ou sufixo meu. É xenial para personalizar o ambiente do teu servidor, ou calquera outra cousa que se te ocorra meu."
+
+panelMessage: "Mensaxe personalizada do panel meu"
+tickets_panelMessage_tooltip: "Esta mensaxe enviarase ao canal de abaixo como mensaxe para algo como 'fai clic no botón de abaixo para crear un ticket' meu."
+
+publishChannel: "Canal de publicación meu"
+tickets_publishChannel_tooltip: "O canal onde se enviará a mensaxe de arriba meu."
+
+ticketTypes: "Tipos de tickets meu"
+general: "Xeral meu"
+addTicketType: "Engadir tipo de ticket meu"
+
+selectAServer: "Seleccionar un servidor meu"
+go: "Ir meu"
+openTemplates: "Abrir mensaxes meu"
+
+createTicketsCategory: "Categoría onde se crearán os tickets meu"
+claimedTicketsCategory: "Categoría onde se moverán os tickets reclamados meu"
+closedTicketsCategory: "Categoría onde se moverán os tickets pechados meu"
+
+noColor: "Sen cor meu"
+customColor: "Cor personalizada meu"
+Teal: "Verde azulado meu"
+Green: "Verde meu"
+Blue: "Azul meu"
+Purple: "Morado meu"
+Pink: "Rosa meu"
+Yellow: "Amarelo meu"
+Orange: "Laranxa meu"
+Tomato: "Vermello tomate meu"
+Light Gray: "Gris claro meu"
+Gray: "Gris meu"
+Dark Teal: "Verde azulado escuro meu"
+Dark Green: "Verde escuro meu"
+Dark Blue: "Azul escuro meu"
+Dark Purple: "Morado escuro meu"
+Dark Pink: "Rosa escuro meu"
+Dark Yellow: "Amarelo escuro meu"
+Dark Orange: "Laranxa escuro meu"
+Dark Tomato: "Vermello tomate escuro meu"
+
+tempChannels: "Canais temporais meu"
+levels: "Niveis meu"
+economy: "Economía meu"
+essentials: "Esenciais meu"
+serverManagement: "Xestión do servidor meu"
+gamesFun: "Xogos e Diversión meu"
+inviteTracker: "Rastrexador de invitacións meu"
+
+manageRoles: "Xestionar roles meu"
+
+reportDesc: "Selecciona un canal onde se enviarán os informes de mensaxes das deteccións meu."
+aiFunctions_warnUser_title: "Advertir usuario meu."
+aiFunctions_warnUser_description: "Con esta función, a IA pode engadir/quitar unha advertencia a un usuario meu."
+
+editMessageToViewContents: "Editar mensaxe para ver contidos meu"
+ticketManagerRoles: "Roles de xestor de tickets meu"
+tickets_ticketManagerRoles_tooltip: "Estes roles poderán reclamar, pechar e eliminar tickets meu."
+
+ticketCreation: "Creación de tickets meu"
+ticketChannelName: "Nome do canal de tickets meu"
+ticketIntroductionCustomMessage: "Mensaxe personalizada de introdución do ticket meu"
+tickets_ticketIntroductionCustomMessage_tooltip: "Esta mensaxe enviarase ao canal do ticket como mensaxe introductoria para algo como 'ticket creado' meu."
+ticketPreviousQuestions: "Preguntas anteriores meu"
+
+ticketTranscripts: "Transcricións meu"
+ticketTranscripts_desc: "Ver todas as transcricións do teu servidor meu."
+
+plugins: "Complementos meu"
+totalGenerations: "Xeracións totais meu"
+
+emojis: "Emojis meu"
+reload: "Recargar meu"
+
+homepage__desc: "Ver todas as características e complementos de Hokki aquí meu."
+reload__desc: "Recarga a páxina para obter novos canais, mensaxes, etc. meu"
+channels__desc: "Escolle os canais onde queres que Hokki responda, etc. meu"
+answers__desc: "¿Como queres que Hokki lles responda aos teus usuarios meu?"
+functions__desc: "Xestiona as características de chat que queres que Hokki poida usar meu."
+moderation__desc: "Xestiona as características de moderación de Hokki meu."
+welcomeMessages__desc: "Envía mensaxes cada vez que alguén se una, marche ou impulse o teu servidor meu."
+messages__desc: "Crear mensaxes personalizadas que podes usar noutros módulos e enviar aos canais que queiras meu."
+tickets__desc: "Configurar un sistema de tickets para o teu servidor meu."
+joinRoles__desc: "Engadir roles a usuarios e bots cando se unan ao teu servidor meu."
+rolePrefixes__desc: "Prefixa os nomes dos teus usuarios baseándose nos seus roles meu."
+tempChannels__desc: "Crear canais de voz temporais para o teu servidor meu."
+emojis__desc: "Engadir emojis personalizados ás características de IA de Hokki meu."
+levels__desc: "Crear un sistema de niveis para o teu servidor meu."
+economy__desc: "Engadir un xogo de economía divertido ao teu servidor meu."
+inviteTracker__desc: "Rastrexar de que invitacións se están unindo os usuarios ao teu servidor meu."
+
+# 2025 - Shard Team

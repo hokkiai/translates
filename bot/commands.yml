@@ -1,0 +1,96 @@
+# /fun - commands
+fun:
+  description:
+    en-US: "Fun commands for entertainment"
+    es-ES: "Comandos divertidos para entretenimiento"
+    es-419: "Comandos divertidos para entretenimiento"
+  subcommands:
+    # /fun facts - commands
+    facts:
+      description:
+        en-US: "Get fun facts about animals"
+        es-ES: "Obtén hechos aleatorios sobre animales"
+        es-419: "Obtén hechos aleatorios sobre animales"
+      subcommands:
+        # /fun facts cat - command
+        cat:
+          description:
+            en-US: "🐈 Generates a random cat fact :3"
+            es-ES: "🐈 Genera un hecho aleatorio sobre gatos :3"
+            es-419: "🐈 Genera un hecho aleatorio sobre gatos :3"
+        # /fun facts duck - command
+        duck:
+          description:
+            en-US: "🦆 Generates a random duck fact :3"
+            es-ES: "🦆 Genera un hecho aleatorio sobre patos :3"
+            es-419: "🦆 Genera un hecho aleatorio sobre patos :3"
+        # /fun facts dog - command
+        dog:
+          description:
+            en-US: "🐕 Generates a random dog fact :3"
+            es-ES: "🐕 Genera un hecho aleatorio sobre perros :3"
+            es-419: "🐕 Genera un hecho aleatorio sobre perros :3"
+    # /fun text - commands
+    text:
+      description:
+        en-US: "Generates text with a specific style"
+        es-ES: "Genera texto con un estilo específico"
+        es-419: "Genera texto con un estilo específico"
+      # /fun text <textstyle> - Description for every textstyle.
+      subcommands_descriptions:
+        en-US: "Makes text look like this."
+        es-ES: "Hace que el texto se vea así."
+        es-419: "Hace que el texto se vea así."
+      # /fun text <textstyle> <text option> - Description for the text option
+      subcommands_textOption:
+        en-US: "The text to modify"
+        es-ES: "El texto a modificar"
+        es-419: "El texto a modificar"
+# /ai - commands
+ai:
+  description:
+    en-US: "AI commands for entertainment"
+    es-ES: "Comandos con IA para entretenimiento"
+    es-419: "Comandos con IA para entretenimiento"
+  subcommands:
+    # /ai search - command
+    search:
+      description:
+        en-US: "Search the internet and summarize the results with AI."
+        es-ES: "Busca en internet y resume los resultados con IA."
+        es-419: "Busca en internet y resume los resultados con IA."
+      queryParam:
+        en-US: "The search query you want to make."
+        es-ES: "Lo que quieres buscar."
+        es-419: "Lo que quieres buscar."
+    # /ai summarize - command
+    summarize:
+      description:
+        en-US: "Summarize the last 100 messages of a conversation with AI."
+        es-ES: "Resume los últimos 100 mensajes de una conversación con IA."
+        es-419: "Resume los últimos 100 mensajes de una conversación con IA."
+      channelParam:
+        en-US: "The channel you want to summarize."
+        es-ES: "El canal que quieres resumir."
+        es-419: "El canal que quieres resumir."
+    # /ai translate - command
+    translate:
+      description:
+        en-US: "Translate text with AI."
+        es-ES: "Traduce texto con IA."
+        es-419: "Traduce texto con IA."
+      queryParam:
+        en-US: "The text you want to translate."
+        es-ES: "El texto que quieres traducir."
+        es-419: "El texto que quieres traducir."
+      toParam:
+        en-US: "The language you want to translate to."
+        es-ES: "El idioma al que lo quieres traducir."
+        es-419: "El idioma al que lo quieres traducir."
+# /help - command
+help:
+  description:
+    en-US: "Displays some useful information about Hokki."
+    es-ES: "Muestra información útil sobre Hokki."
+    es-419: "Muestra información útil sobre Hokki."
+# -- SOME OTHER COMMANDS ARE ABOUT TO BE ADDED --
