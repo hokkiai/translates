@@ -352,7 +352,7 @@ apply: "Aplica nen"
 
 prefixesUpdatedSuccess: "Els prefixos de rols s'han actualitzat correctament nen."
 prefixesUpdatedFailed: "Alguna cosa ha anat malament actualitzant els prefixos de rols nen."
-prefixesUpdatedFailedUsers: 'Els següents usuaris no s\'han pogut actualitzar: "%s". (Tenen més permisos que el bot) nen'
+prefixesUpdatedFailedUsers: 'Els següents usuaris no s‘han pogut actualitzar: "%s". (Tenen més permisos que el bot) nen'
 unsavedChanges: "Compte nen — tens canvis sense desar!"
 reset: "Reinicia nen"
 
