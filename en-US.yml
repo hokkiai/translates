@@ -431,4 +431,6 @@ termsOfService: "Terms of Service"
 privacyPolicy: "Privacy Policy"
 
 allPlugins: "All plugins"
+premium: "Premium"
+premium__desc: "Manage your premium subscription and get to the next level of your Hokki experience."
 # 2025 - Shard Team
