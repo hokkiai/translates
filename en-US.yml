@@ -429,4 +429,6 @@ tickets_logsChannel_tooltip: "The channel where the logs of the tickets (like ti
 
 termsOfService: "Terms of Service"
 privacyPolicy: "Privacy Policy"
+
+allPlugins: "All plugins"
 # 2025 - Shard Team
