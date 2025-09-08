@@ -439,8 +439,6 @@ premium__desc: "Manage your premium subscription and get to the next level of yo
 features: Features
 resources: Resources
 deletedPluralMayus: DELETED
-privacyPolicy: Privacy Policy
-termsOfService: Terms of Service
 publicBeta: ">> PUBLIC BETA <<"
 landingv2_moderationSection_title: "The moderation bot you'll love."
 landingv2_moderationSection_titlehighlight: "you'll love"
