@@ -433,4 +433,89 @@ privacyPolicy: "Privacy Policy"
 allPlugins: "All plugins"
 premium: "Premium"
 premium__desc: "Manage your premium subscription and get to the next level of your Hokki experience."
+
+# LANDING V2
+
+features: Features
+resources: Resources
+deletedPluralMayus: DELETED
+privacyPolicy: Privacy Policy
+termsOfService: Terms of Service
+publicBeta: ">> PUBLIC BETA <<"
+landingv2_moderationSection_title: "The moderation bot you'll love."
+landingv2_moderationSection_titlehighlight: "you'll love"
+landingv2_moderationSection_automodDesc: "You can customize what you want the bot to detect, and what actions you want it to take if it detects something."
+landingv2_moderationSection_msg1: "I'll smash your stupid face, you worthless piece of shit"
+landingv2_moderationSection_msg2: "Got some coke here, hit me up on telegram and let's meet for sketchy shit"
+landingv2_moderationSection_disclaimer: "We are developing more features."
+
+landingv2_mee6Section_title: "The features that should be free, we have them."
+landingv2_mee6Section_titlehighlight: "should"
+landingv2_mee6Section_tableelem_tickets: "Tickets"
+landingv2_mee6Section_tableelem_customWelcomes: "Custom / AI welcomes"
+landingv2_mee6Section_tableelem_automod: "AI automod"
+landingv2_mee6Section_tableelem_rolePrefixes: "Role prefixes/suffixes"
+landingv2_mee6Section_tableelem_customMessages: "Custom messages with ComponentsV2"
+landingv2_mee6Section_workInProgress: "We are programming many more, we will update this list in the future."
+
+landingv2_integrateAIsection_title: "Surprise your friends by integrating AI into your server"
+landingv2_integrateAIsection_message2answer: "Spain has <b>49,153,849</b> inhabitants"
+landingv2_integrateAIsection_subtitle: "With some AI features that help a lot"
+landingv2_integrateAIsection_message3question: 'Hey Hokki, rename all channels to have the format "『emoji』name".'
+landingv2_integrateAIsection_message3answer_component1: "Channel update."
+landingv2_integrateAIsection_message3answer_component2: "Hokki has requested to apply these changes to your server:"
+landingv2_integrateAIsection_message3answer_component3: "Renamed"
+landingv2_integrateAIsection_message3answer_component4: "Deleted"
+landingv2_integrateAIsection_message3answer_component5: "Created"
+landingv2_integrateAIsection_slashUsedText: "has used"
+landingv2_integrateAIsection_message4answer_component1: "Conversation summary"
+
+landingv2_pricingSection_introduction: "Let's talk about"
+landingv2_pricingSection_title: "ᴏᴜʀ ᴘʀɪᴄᴇꜱ"
+landingv2_pricingSection_monthly: "Monthly"
+landingv2_pricingSection_annual: "Annual"
+landingv2_pricingSection_mostPopular: "Most popular"
+landingv2_pricingSection_hobbyPlan: "Hobby plan"
+landingv2_pricingSection_proPlan: "Pro plan"
+landingv2_pricingSection_ultraPlan: "Ultra plan"
+landingv2_pricingSection_free: "Free"
+landingv2_pricingSection_byYear: "/year"
+landingv2_pricingSection_byMonth: "/month"
+
+landingv2_pricingSection_hobbyPlan_callToAction: "Continue for free"
+landingv2_pricingSection_hobbyPlan_check1: "All main plugins"
+landingv2_pricingSection_hobbyPlan_cross2: "Customize AI's way of speaking"
+landingv2_pricingSection_hobbyPlan_cross3: "Access to advanced AI models"
+landingv2_pricingSection_hobbyPlan_cross4: "Custom branding"
+landingv2_pricingSection_hobbyPlan_disclaimer: "24 AI messages / month"
+
+landingv2_pricingSection_proPlan_text: "Everything in hobby plan, plus:"
+landingv2_pricingSection_proPlan_callToAction: "Get Pro"
+landingv2_pricingSection_proPlan_check1: "Customize AI's way of speaking"
+landingv2_pricingSection_proPlan_check2: "Access to advanced AI models"
+landingv2_pricingSection_proPlan_check3: "Fewer limitations"
+landingv2_pricingSection_proPlan_cross4: "Custom branding"
+landingv2_pricingSection_proPlan_disclaimer: "1000 AI messages / month\\n\\nNote: Once the limit is exceeded, charges will be applied for each additional message."
+
+landingv2_pricingSection_ultraPlan_callToAction: "Get Ultra"
+landingv2_pricingSection_ultraPlan_text: "Everything in pro plan, plus:"
+landingv2_pricingSection_ultraPlan_check1: "Unlimited messages"
+landingv2_pricingSection_ultraPlan_check2: "Custom branding"
+landingv2_pricingSection_ultraPlan_check3: "Fewer limitations"
+landingv2_pricingSection_ultraPlan_disclaimer: "20 image generations / month\\n\\nNote: Once the limit is exceeded, charges will be applied for each additional message."
+
+landingv2_switchToHokkiSection_title: "Switch to Hokki"
+landingv2_switchToHokkiSection_subtitle: "What are you waiting for? We have a lot to offer you."
+landingv2_switchToHokkiSection_inDevelopment: "(In development)"
+
+hokkiCharacteristics_Tickets: "Tickets"
+hokkiCharacteristics_Economy: "Economy"
+hokkiCharacteristics_WelcomeMessages: "Welcome messages (with AI)"
+hokkiCharacteristics_JoinRoles: "Welcome roles"
+hokkiCharacteristics_TempChannels: "Temporary channels"
+hokkiCharacteristics_RolePrefixes: "Role name prefixes"
+hokkiCharacteristics_ComponentsV2: "Components V2"
+hokkiCharacteristics_Warnings: "Warning system"
+hokkiCharacteristics_Levels: "Levels"
+hokkiCharacteristics_CustomCommands: "Customizable commands"
 # 2025 - Shard Team
