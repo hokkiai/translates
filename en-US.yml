@@ -496,7 +496,7 @@ landingv2_pricingSection_proPlan_disclaimer: "1000 AI messages / month\\n\\nNote
 landingv2_pricingSection_ultraPlan_callToAction: "Get Ultra"
 landingv2_pricingSection_ultraPlan_text: "Everything in pro plan, plus:"
 landingv2_pricingSection_ultraPlan_check1: "Unlimited messages"
-landingv2_pricingSection_ultraPlan_check2: "Custom branding"
+landingv2_pricingSection_ultraPlan_check2: "Custom branding (NOT AVILABLE RIGHT NOW)"
 landingv2_pricingSection_ultraPlan_check3: "Fewer limitations"
 landingv2_pricingSection_ultraPlan_disclaimer: "20 image generations / month\\n\\nNote: Once the limit is exceeded, charges will be applied for each additional message."
 
