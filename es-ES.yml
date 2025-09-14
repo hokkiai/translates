@@ -541,7 +541,7 @@ landingv2_pricingSection_proPlan_disclaimer: "1000 mensajes a la IA / mes\\n\\nN
 landingv2_pricingSection_ultraPlan_callToAction: "Conseguir Ultra"
 landingv2_pricingSection_ultraPlan_text: "Todo en el plan pro, más:"
 landingv2_pricingSection_ultraPlan_check1: "Mensajes ilimitados"
-landingv2_pricingSection_ultraPlan_check2: "Custom branding"
+landingv2_pricingSection_ultraPlan_check2: "Custom branding (NO DISPONIBLE ACTUALMENTE)"
 landingv2_pricingSection_ultraPlan_check3: "Menos limitaciones"
 landingv2_pricingSection_ultraPlan_disclaimer: "20 generaciones de imágenes / mes\\n\\nNota: Una vez excedido el límite se importarán cargos por cada mensaje adicional."
 
