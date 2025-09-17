@@ -475,7 +475,7 @@ tickets_logsChannel_tooltip: "El canal on s’enviaran els registres dels tiquet
 termsOfService: "Termes del servei, nen"
 privacyPolicy: "Política de privacitat, nen"
 
-allPlugins: "Tots els connectors, nen"
+allPlugins: "Tots els plugins, nen"
 premium: "Premium, nen"
 premium__desc: "Gestiona la teva subscripció premium i puja al següent nivell de l’experiència Hokki, nen."
 
@@ -563,7 +563,6 @@ hokkiCharacteristics_CustomCommands: "Comandes personalitzables, nen"
 premium_dashboardPage_title: "Porta el teu servidor al següent nivell, nen"
 premium_dashboardPage_subtitle: "Descobreix tot el que pots fer amb Hokki, nen"
 
-supportServer: "Servidor de suport, nen"
 
 learnMore: "Llegir més, nen"
 
