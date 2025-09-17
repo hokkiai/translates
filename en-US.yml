@@ -401,7 +401,6 @@ levels__desc: "Create a leveling system for your server."
 economy__desc: "Add a fun economy game to your server."
 inviteTracker__desc: "Track form which invites users are joining your server."
 
-# NEW FOR CATALAN & FRENCH
 noTranscripts: "No transcripts found."
 waitlist: "Waitlist"
 tickets_waitlist_tooltip: "Set a maximum number of tickets. If the limit is reached, the new tickets created will join a Waitlist. Set to 0 to disable."
