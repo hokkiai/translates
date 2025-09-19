@@ -529,6 +529,7 @@ dramatic: "Dramatic"
 friendly: "Friendly"
 
 learnMore: "Learn more"
+answerWhenReply: "Reply if someone replies to a bot's message"
 
 language: "Language"
 product: "Product"
