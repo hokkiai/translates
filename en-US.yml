@@ -520,6 +520,13 @@ premium_dashboardPage_subtitle: "Discover everything you can do with Hokki"
 talkingStyle: "Talking style"
 talkingStyle_desc: "Change the style of the AI chatbot."
 
+formal: "Formal"
+neutral: "Neutral"
+casual: "Casual"
+humorous: "Humorous"
+sarcastic: "Sarcastic"
+dramatic: "Dramatic"
+friendly: "Friendly"
 
 learnMore: "Learn more"
 # 2025 - Shard Team
