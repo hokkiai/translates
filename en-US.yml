@@ -535,4 +535,6 @@ product: "Product"
 policies: "Policies"
 socialMedia: "Social"
 
+allowMemorySaving: "Allow per-user memory saving"
+
 # 2025 - Shard Team
