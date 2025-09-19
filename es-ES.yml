@@ -581,6 +581,6 @@ language: "Idioma"
 product: "Producto"
 policies: "Políticas"
 socialMedia: "Redes sociales"
-
+answerWhenReply: "Responde si alguien responde a un mensaje del bot"
 allowMemorySaving: "Permitir que la IA guarde memoria por usuario."
 # 2025 - Shard Team
