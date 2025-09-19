@@ -53,6 +53,12 @@ ai:
     es-ES: "Comandos con IA para entretenimiento"
     es-419: "Comandos con IA para entretenimiento"
   subcommands:
+    # /ai speak - command
+    speak:
+      description:
+        en-US: "Use AI to turn text into audio."
+        es-ES: "Usa IA para pasar un texto a audio."
+        es-419: "Usa IA para pasar un texto a audio."
     # /ai search - command
     search:
       description:
