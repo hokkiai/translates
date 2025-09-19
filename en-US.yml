@@ -148,7 +148,7 @@ days: "days"
 see: "See info about"
 poweredByOpenai: "Powered by OpenAI"
 answerInstructions: "Answer instructions"
-answerInstructions_desc: "Customize how Hokki replies to your messages."
+answerInstructions_desc: "Add custom instructions on how you want the AI to communicate."
 answerInstructions_placeholder: "Write your answer instructions here."
 preferenceLanguage: "Preferred language"
 preferenceLanguage_desc: "Choose the language you want Hokki to answer in."
@@ -516,6 +516,9 @@ hokkiCharacteristics_CustomCommands: "Customizable commands"
 
 premium_dashboardPage_title: "Take your server to the next level"
 premium_dashboardPage_subtitle: "Discover everything you can do with Hokki"
+
+talkingStyle: "Talking style"
+talkingStyle_desc: "Change the style of the AI chatbot."
 
 
 learnMore: "Learn more"
