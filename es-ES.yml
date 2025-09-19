@@ -160,7 +160,7 @@ see: "Ver información sobre"
 poweredByOpenai: "Funciona con OpenAI"
 
 answerInstructions: "Instrucciones de respuesta"
-answerInstructions_desc: "Personaliza la forma en la que Hokki responde a tus mensajes."
+answerInstructions_desc: "Añade instrucciones personalizadas sobre como hablar a la IA."
 answerInstructions_placeholder: "Escribe aquí tus instrucciones de respuesta."
 
 preferenceLanguage: "Idioma de preferencia"
@@ -564,6 +564,9 @@ hokkiCharacteristics_CustomCommands: "Comandos personalizables"
 premium_dashboardPage_title: "Lleva tu servidor al siguiente nivel"
 premium_dashboardPage_subtitle: "Descubre todo lo que puedes hacer con Hokki"
 
+
+talkingStyle: "Estilo de comunicación"
+talkingStyle_desc: "Cambia el estilo de la IA."
 learnMore: "Ver más"
 
 # 2025 - Shard Team
