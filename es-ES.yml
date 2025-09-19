@@ -569,4 +569,12 @@ talkingStyle: "Estilo de comunicación"
 talkingStyle_desc: "Cambia el estilo de la IA."
 learnMore: "Ver más"
 
+formal: "Formal"
+neutral: "Neutro"
+casual: "Casual"
+humorous: "Humorístico"
+sarcastic: "Sarcástico"
+dramatic: "Dramático"
+friendly: "Amigable"
+
 # 2025 - Shard Team
