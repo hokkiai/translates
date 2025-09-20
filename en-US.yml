@@ -540,4 +540,6 @@ allowMemorySaving: "Allow per-user memory saving"
 voice: "Voice"
 voice__desc: "Customize Hokki AI's voice."
 
+selectAVoice: "Select a voice"
+
 # 2025 - Shard Team
