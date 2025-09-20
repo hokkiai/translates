@@ -537,5 +537,7 @@ policies: "Policies"
 socialMedia: "Social"
 
 allowMemorySaving: "Allow per-user memory saving"
+voice: "Voice"
+voice__desc: "Customize Hokki AI's voice."
 
 # 2025 - Shard Team
