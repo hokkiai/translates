@@ -539,6 +539,8 @@ socialMedia: "Social"
 allowMemorySaving: "Allow per-user memory saving"
 voice: "Voice"
 voice__desc: "Customize Hokki AI's voice."
+music: "Music"
+music__desc: "Enable a music system in your server. Listen to music free without ads in any voice channel."
 
 enable: "Enable"
 
