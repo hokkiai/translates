@@ -540,6 +540,12 @@ allowMemorySaving: "Allow per-user memory saving"
 voice: "Voice"
 voice__desc: "Customize Hokki AI's voice."
 
+enable: "Enable"
+
+enablePlugin: "Enable plugin"
+enablePlugin_text: "Do you want to enable the %s plugin?"
+cancel: "Cancel"
+
 pickAVoice: "Pick a voice"
 
 # 2025 - Shard Team
