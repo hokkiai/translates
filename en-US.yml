@@ -545,6 +545,7 @@ enable: "Enable"
 enablePlugin: "Enable plugin"
 enablePlugin_text: "Do you want to enable the %s plugin?"
 disablePlugin: "Disable plugin"
+disable: "Disable"
 disablePlugin_text: "Do you really want to disable the %s plugin? All the config will be deleted!"
 cancel: "Cancel"
 
