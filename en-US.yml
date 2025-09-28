@@ -550,6 +550,7 @@ disablePlugin: "Disable plugin"
 disable: "Disable"
 disablePlugin_text: "Do you really want to disable the %s plugin? All the config will be deleted!"
 cancel: "Cancel"
+randomMessage: "Random message"
 
 pickAVoice: "Pick a voice"
 
