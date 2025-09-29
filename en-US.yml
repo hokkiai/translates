@@ -565,7 +565,7 @@ youtubeAlert: "Youtube Alerts"
 youtubeAlert__desc: "Automatically alert your community every time you or your favorite YouTuber post a new video."
 
 xAlert: "X Alerts"
-xAlert__desc: "Every time you post a tweet, MEE6 will automatically send it to a pre-configured channel of your choice."
+xAlert__desc: "Every time you post a tweet, Hokki will automatically send it to a pre-configured channel of your choice."
 
 tiktokAlert: "Tiktok Alerts"
 tiktokAlert__desc: "Automatically alert your community every time you or your favorite TikToker posts a new video."
@@ -574,7 +574,7 @@ redditAlert: "Reddit Alerts"
 redditAlert__desc: "Set up alerts for specific subreddits and ensure that your members never miss new posts on Reddit."
 
 instagramAlert: "Instagram Alerts"
-instagramAlert__desc: "Building presence on the Instagram? With MEE6 you can easily show your members your new posts."
+instagramAlert__desc: "Building presence on the Instagram? With Hokki you can easily show your members your new posts."
 
 kickAlert: "Kick Alerts"
 kickAlert__desc: "Stay in the loop! Get notified when you or your favorite Kick streamer goes live."
