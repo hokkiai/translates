@@ -556,4 +556,30 @@ randomMessage: "Random message"
 
 pickAVoice: "Pick a voice"
 
+socialAlerts: "Social Alerts"
+
+twitchAlert: "Twitch Alerts"
+twitchAlert__desc: "By notifying your members in time you can increase the engagement under your livestreams on Twitch."
+
+youtubeAlert: "Youtube Alerts"
+youtubeAlert__desc: "Automatically alert your community every time you or your favorite YouTuber post a new video."
+
+xAlert: "X Alerts"
+xAlert__desc: "Every time you post a tweet, MEE6 will automatically send it to a pre-configured channel of your choice."
+
+tiktokAlert: "Tiktok Alerts"
+tiktokAlert__desc: "Automatically alert your community every time you or your favorite TikToker posts a new video."
+
+redditAlert: "Reddit Alerts"
+redditAlert__desc: "Set up alerts for specific subreddits and ensure that your members never miss new posts on Reddit."
+
+instagramAlert: "Instagram Alerts"
+instagramAlert__desc: "Building presence on the Instagram? With MEE6 you can easily show your members your new posts."
+
+kickAlert: "Kick Alerts"
+kickAlert__desc: "Stay in the loop! Get notified when you or your favorite Kick streamer goes live."
+
+rssAlert: "RSS Feeds"
+rssAlert__desc: "Stay updated on important stuff and follow channels that interest you and your members."
+
 # 2025 - Shard Team
