@@ -399,7 +399,7 @@ tempChannels__desc: "Create temporary voice channels for your server."
 emojis__desc: "Add custom emojis to Hokki's AI features."
 levels__desc: "Create a leveling system for your server."
 economy__desc: "Add a fun economy game to your server."
-inviteTracker__desc: "Track form which invites users are joining your server."
+inviteTracker__desc: "Track how many people your members invite to your community and rank them in a leaderboard."
 
 noTranscripts: "No transcripts found."
 waitlist: "Waitlist"
