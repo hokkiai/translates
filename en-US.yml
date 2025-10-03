@@ -582,4 +582,7 @@ kickAlert__desc: "Stay in the loop! Get notified when you or your favorite Kick 
 rssAlert: "RSS Feeds"
 rssAlert__desc: "Stay updated on important stuff and follow channels that interest you and your members."
 
+counter: "Counter"
+counter__desc: "Keep the streak alive! Users post numbers in order; if you mess up or double post, it resets."
+
 # 2025 - Shard Team
