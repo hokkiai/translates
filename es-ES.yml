@@ -595,7 +595,7 @@ enablePlugin: Activar plugin
 enablePlugin_text: ¿Quieres activar el plugin %s?
 disablePlugin: Desactivar plugin
 birthdays: Cumpleaños
-birthdays__desc: Asegúrate de que cada cumpleañero tenga su gorro y su rol
+birthdays__desc: Asegúrate de que cada cumpleañero tenga su mensaje y su rol
   especial en su día.
 disable: Desactivar
 disablePlugin_text: ¿De verdad quieres desactivar el plugin %s? ¡Toda la configuración se eliminará!
