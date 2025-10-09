@@ -608,4 +608,7 @@ ticketPanelConfigTexts_commands_closeDesc: "Close a ticket"
 ticketPanelConfigTexts_commands_deleteDesc: "Delete a ticket"
 ticketPanelConfigTexts_commands_reopenDesc: "Reopen a closed ticket"
 
+landingv2_herobuttons_addToDiscord: "Add to Discord"
+landingv2_herobuttons_seeFeatures: "See features"
+
 # 2025 - Shard Team
