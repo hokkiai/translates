@@ -585,4 +585,48 @@ answerWhenReply: "Responde si alguien responde a un mensaje del bot"
 allowMemorySaving: "Permitir que la IA guarde memoria por usuario."
 
 pickAVoice: "Elige una voz"
+voice: Voz
+voice__desc: Personaliza la voz de Hokki AI.
+music: Música
+music__desc: Activa un sistema de música en tu servidor. Escucha música gratis sin
+  anuncios en cualquier canal de voz.
+enable: Activar
+enablePlugin: Activar plugin
+enablePlugin_text: ¿Quieres activar el plugin %s?
+disablePlugin: Desactivar plugin
+birthdays: Cumpleaños
+birthdays__desc: Asegúrate de que cada cumpleañero tenga su gorro y su rol
+  especial en su día.
+disable: Desactivar
+disablePlugin_text: ¿De verdad quieres desactivar el plugin %s? ¡Toda la configuración se eliminará!
+cancel: Cancelar
+randomMessage: Mensaje aleatorio
+socialAlerts: Alertas sociales
+twitchAlert: Alertas de Twitch
+twitchAlert__desc: Avisando a tus miembros a tiempo puedes aumentar la
+  participación en tus directos de Twitch.
+youtubeAlert: Alertas de Youtube
+youtubeAlert__desc: Avisa automáticamente a tu comunidad cada vez que tú o tu
+  YouTuber favorito suba un nuevo vídeo.
+xAlert: Alertas de X
+xAlert__desc: Cada vez que publiques un tweet, Hokki lo enviará automáticamente a un
+  canal preconfigurado de tu elección.
+tiktokAlert: Alertas de Tiktok
+tiktokAlert__desc: Avisa automáticamente a tu comunidad cada vez que tú o tu
+  TikToker favorito publique un nuevo vídeo.
+redditAlert: Alertas de Reddit
+redditAlert__desc: Configura alertas para subreddits específicos y asegúrate de que tus
+  miembros no se pierdan nuevas publicaciones en Reddit.
+instagramAlert: Alertas de Instagram
+instagramAlert__desc: ¿Construyendo presencia en Instagram? Con Hokki puedes
+  mostrar fácilmente a tus miembros tus nuevas publicaciones.
+kickAlert: Alertas de Kick
+kickAlert__desc: ¡Mantente al tanto! Recibe una notificación cuando tú o tu streamer
+  favorito de Kick esté en directo.
+rssAlert: Feeds RSS
+rssAlert__desc: Mantente al día con cosas importantes y sigue canales que
+  interesen a ti y a tus miembros.
+counter: Contador
+counter__desc: ¡Mantén la racha viva! Los usuarios publican números en orden; si te equivocas
+  o publicas dos veces, se reinicia.
 # 2025 - Shard Team
