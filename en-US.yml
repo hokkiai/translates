@@ -611,4 +611,9 @@ ticketPanelConfigTexts_commands_reopenDesc: "Reopen a closed ticket"
 landingv2_herobuttons_addToDiscord: "Add to Discord"
 landingv2_herobuttons_seeFeatures: "See features"
 
+buttonVariants_primary: "Blue"
+buttonVariants_secondary: "Gray"
+buttonVariants_destructive: "Red"
+buttonVariants_success: "Green"
+
 # 2025 - Shard Team
