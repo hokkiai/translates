@@ -534,6 +534,7 @@ language: "Language"
 product: "Product"
 policies: "Policies"
 socialMedia: "Social"
+pickAVoice: "Pick a voice"
 
 allowMemorySaving: "Allow per-user memory saving"
 voice: "Voice"
@@ -547,13 +548,12 @@ enablePlugin: "Enable plugin"
 enablePlugin_text: "Do you want to enable the %s plugin?"
 disablePlugin: "Disable plugin"
 birthdays: "Birthdays"
-birthdays__desc: "Make sure every birthday-person has their birthday hat & role on their special day."
+birthdays__desc: "Make sure every birthday-person has their birthday message & role on their special day."
 disable: "Disable"
 disablePlugin_text: "Do you really want to disable the %s plugin? All the config will be deleted!"
 cancel: "Cancel"
 randomMessage: "Random message"
 
-pickAVoice: "Pick a voice"
 
 socialAlerts: "Social Alerts"
 
@@ -583,5 +583,29 @@ rssAlert__desc: "Stay updated on important stuff and follow channels that intere
 
 counter: "Counter"
 counter__desc: "Keep the streak alive! Users post numbers in order; if you mess up or double post, it resets."
+
+messageEditorv2_components_Text: "Text"
+messageEditorv2_components_Container: "Container (Embed)"
+messageEditorv2_components_Image: "Image"
+messageEditorv2_components_Separator: "Separator"
+messageEditorv2_components_Comment: "Comment"
+
+messageEditorv2_components_Text__desc: "A text block"
+messageEditorv2_components_Container__desc: "A box to group other components"
+messageEditorv2_components_Image__desc: "Add one or more images"
+messageEditorv2_components_Separator__desc: "A horizontal line to separate sections"
+messageEditorv2_components_Comment__desc: "A comment for your reference (it won't be visible)"
+
+ticketPanelConfigTexts_watchTutorial: "Watch tutorial"
+ticketPanelConfigTexts_panels: "Panels"
+ticketPanelConfigTexts_createPanel: "Create panel"
+ticketPanelConfigTexts_noTicketingPanels: "You have no ticketing panels yet"
+ticketPanelConfigTexts_notConfigured: "Not configured"
+ticketPanelConfigTexts_deletePanel: "Delete panel"
+ticketPanelConfigTexts_commands: "Commands"
+ticketPanelConfigTexts_commands_claimDesc: "Claim a ticket"
+ticketPanelConfigTexts_commands_closeDesc: "Close a ticket"
+ticketPanelConfigTexts_commands_deleteDesc: "Delete a ticket"
+ticketPanelConfigTexts_commands_reopenDesc: "Reopen a closed ticket"
 
 # 2025 - Shard Team
