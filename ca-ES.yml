@@ -1,569 +1,617 @@
-# LANGUAGE: CATALAN
+# LANGUAGE: 🇪🇸 CATALÀ
 
-goToDashboard: Obrir el dashboard
-addToServer: Afegir al servidor, nen
-hokkiMessageHero: "Benvingut a Hokki, <b>el bot que no sabies que el teu servidor necessitava, nen</b>."
-
-hokkiPhrase: Integra IA al teu servidor de Discord, nen.
+goToDashboard: Obrir Dashboard
+addToServer: Afegir al Servidor
+hokkiPhrase: Integra IA al teu servidor de Discord.
 ai: IA
+hokkiMessageHero: "Benvingut a Hokki, <b>el bot que no sabies que el teu servidor necessitava</b>."
 
-landing_firstSection_firstMessage: Hola Hokki, nen
-landing_firstSection_hokkiAnswer: Eeeeh nen! Què passa? Tot bé o què, nen?
-landing_firstSection_desctiption: Hokki et pot ajudar a donar vida al teu servidor de Discord, nen. Parlar amb la penya, respondre dubtes, fer una crema catalana, crear fils… el que vulguis, nen.
+landing_firstSection_firstMessage: Hola Hokki
+landing_firstSection_hokkiAnswer: Ei, què tal, tio?
+landing_firstSection_desctiption: Hokki ajuda a donar vida al teu servidor de Discord. Interactua amb els usuaris, respon preguntes, crea fils i molt més.
 
-landing_secondSection_title: Accés a internet, nen.
-landing_secondSection_firstMessage: Busca a internet quants habitants té Espanya, nen.
-landing_secondSection_searching: Buscant a internet, nen...
-landing_secondSection_answer: Espanya té <b>49.153.849 habitants</b> segons l’INE d’abril de 2025, nen. Anem creixent a poc a poc, nen!
+landing_secondSection_title: Accés a Internet
+landing_secondSection_firstMessage: Cerca quanta gent viu a Espanya.
+landing_secondSection_searching: Cercant...
+landing_secondSection_answer: Espanya té <b>49.153.849 habitants</b> segons dades de l'INE a data d'abril de 2025.
 
-landing_thirdSection_title: Pot veure info del teu servidor, nen.
-landing_thirdSection_tip: "* i de tu també"
-landing_thirdSection_desc: Hokki té accés a la llista de rols, canals i usuaris del teu servidor, nen.
-landing_thirdSection_firstMessage: "Quins canals hi ha en aquest servidor, nen?"
-landing_thirdSection_component1: "Nen, aquest servidor té aquests canals:"
-landing_thirdSection_component2: "📕・normes"
-landing_thirdSection_component3: ": Per posar-se seriós, nen."
+landing_thirdSection_title: Accés a la info del servidor
+landing_thirdSection_tip: ""
+landing_thirdSection_desc: Hokki pot accedir a tots els rols, canals i membres del teu servidor, i altres coses també.
+landing_thirdSection_firstMessage: "Quins canals té aquest servidor?"
+landing_thirdSection_component1: "Aquest servidor té els següents canals, tio:"
+landing_thirdSection_component2: "📕・regles"
+landing_thirdSection_component3: ": On viu la part seria."
 landing_thirdSection_component4: "🌍・general"
-landing_thirdSection_component5: ": El clàssic per parlar de tot una mica, nen."
-landing_thirdSection_component6: "🤖・xatbot"
-landing_thirdSection_component7: ": On estem ara mateix parlant tu i jo, nen."
+landing_thirdSection_component5: ": El lloc clàssic per xerrar de qualsevol cosa."
+landing_thirdSection_component6: "🤖・chatbot"
+landing_thirdSection_component7: ": On estem ara mateix."
 landing_thirdSection_component8: "⚙️・comandes"
-landing_thirdSection_component9: ": Per tirar comandes i flipar-ho, nen."
-landing_thirdSection_component10: "Necessites alguna cosa més o què, nen?"
+landing_thirdSection_component9: ": Per executar comandes i fer coses guais."
+landing_thirdSection_component10: "Necessites res més?"
 
-landing_moderationSection_title: "Moderació per als admins, nen."
+landing_moderationSection_title: "Moderació Admin"
 landing_moderationSection_moderationWord: "Moderació"
 
-landing_moderationSection_administrateUsers: "Administra la penya, nen."
-landing_moderationSection_firstMessage: "Banea en zniktoo perquè està donant pel sac, nen."
-landing_moderationSection_secondMessage: 'Posa-li el rol de "tester" al zniktoo, nen.'
-landing_moderationSection_firstMessageAnswer: "En zniktoo ha estat banejat, nen."
-landing_moderationSection_secondMessageAnswer: "Rol posat, nen."
+landing_moderationSection_administrateUsers: "Gestiona els teus usuaris."
+landing_moderationSection_firstMessage: "Baneja zniktoo per mal comportament."
+landing_moderationSection_secondMessage: 'Dona el rol "tester" a zniktoo.'
+landing_moderationSection_firstMessageAnswer: "zniktoo ha estat banejat."
+landing_moderationSection_secondMessageAnswer: "Rol assignat."
 
-landing_moderationSection_administrateChannels: "Administra els canals, nen."
-landing_moderationSection_thirdMessage: "Silencia el canal general, nen."
-landing_moderationSection_fourthMessage: 'Crea un canal que es digui "patates" per parlar de patates, nen.'
-landing_moderationSection_thirdMessageAnswer: "Canal silenciat, nen."
-landing_moderationSection_fourthMessageAnswer: "Canal creat, nen."
+landing_moderationSection_administrateChannels: "Gestiona els teus canals."
+landing_moderationSection_thirdMessage: "Silencia el canal general."
+landing_moderationSection_fourthMessage: 'Crea un canal sota aquesta categoria anomenat "patates" per parlar de patates.'
+landing_moderationSection_thirdMessageAnswer: "Canal silenciat amb èxit."
+landing_moderationSection_fourthMessageAnswer: "Canal creat."
 
-discoverMore: "Descobreix més, nen"
-landing_moderationSection_desc: 'T’agrada això de la moderació, nen? <b style="font-weight: 600!important;">Doncs tenim molt més per oferir-te, nen.</b>'
+discoverMore: "Descobreix Més"
+landing_moderationSection_desc: 'T\'interessa la moderació? <b style="font-weight: 600!important;">Tenim un munt de funcions més que t\'encantaran.</b>'
 
-landing_photoSection_title: "Pot veure fotos, nen."
-landing_photoSection_firstMessage: "ei hokki, què en penses d’això, nen?"
-landing_photoSection_firstMessageAnswer_component1: "JAJAJAJA nen, aquesta vaca em mira com la meva profe quan no faig els deures."
-landing_photoSection_firstMessageAnswer_component2: "Una reina de la granja, nen."
-landing_photoSection_finalDesc: "Tots els missatges dels exemples són reals, nen."
+landing_photoSection_title: "Pot veure fotos."
+landing_photoSection_firstMessage: "Ei Hokki, què et sembla això?"
+landing_photoSection_firstMessageAnswer_component1: "HAHAHA tio, aquesta vaca sembla que està jutjant cada decisió que he pres a la meva vida."
+landing_photoSection_firstMessageAnswer_component2: "Una veritable reina del camp, sens dubte."
+landing_photoSection_finalDesc: "Tots els missatges de dalt són reals. Sense bromes de màrqueting ;]"
 
-landing_FREE: "GRATUÏT, NEN"
+landing_FREE: "GRATIS"
 
-landing_endSection_title: "Afegeix a Hokki al teu servidor, nen."
-landing_endSection_subtitle: "Prova Hokki gratis ara mateix, nen!"
+landing_endSection_title: "Afegeix Hokki al teu servidor."
+landing_endSection_subtitle: "Prova Hokki gratis ara!"
 
-addApp: Afegeix l’app, nen
+addApp: Afegir App
 
-footer_desc: "Un projecte creat a Espanya, amb ulor a crema catalana, nen."
-links: "Enllaços, nen"
+footer_desc: "Un projecte fet a Espanya."
+links: "Enllaços"
 
-addToHokki: "Afegir a Hokki, nen"
-supportServer: "Servidor de suport, nen"
-dashboard: "Quadre de control, nen"
+addToHokki: "Afegir Hokki"
+supportServer: "Servidor de Suport"
+dashboard: "Dashboard"
 
 goBack: "Tornar"
 
-logIn: "Inici de sessió, nen"
-logInWithDiscord: "Iniciar sessión amb Discord, nen"
-oneMoment: "Espera una mica, nen"
-homepage: "Pàgina principal, nen"
-
-moderationCategory: "Moderació, nen"
-messagesCategory: "Missatges, nen"
-informationCategory: "Informació, nen"
-administrator: "Administrador, nen"
-changeNickname: "Canvia-li el malnom a aquell pringat, nen"
-administrateChannels: "Gestiona els canals, nen"
-administrateMessages: "Gestiona els missatges, nen"
-polls: "Enquestes, nen"
-none: "Cap, nen"
-
-aiFunctions_banUsers_title: "Banegem o desbanegem gent, nen"
-aiFunctions_banUsers_description: "La IA pot fer fora o tornar a deixar entrar a qui vulguis, nen"
-
-aiFunctions_bulkChannelUpdate_title: "Edita tots els canals de cop, nen"
-aiFunctions_bulkChannelUpdate_description: "La IA pot crear, borrar o editar canals, tot ben controladet, nen"
-
-aiFunctions_bulkDelete_title: "Esborra missatges, nen"
-aiFunctions_bulkDelete_description: "La IA fa neteja dels missatges com si fos ta mare fent dissabte, nen"
-
-aiFunctions_changeNickname_title: "Canvia malnoms, nen"
-aiFunctions_changeNickname_description: "La IA pot posar-li un nou nom al que vulguis, nen"
-
-aiFunctions_createPoll_description: "La IA pot fer enquestes, nen"
-
-aiFunctions_createThread_title: "Crea fils, nen"
-aiFunctions_createThread_description: "Per si vols començar un tema nou i liar-la una mica, nen"
-
-aiFunctions_editRolesFromUser_title: "Dona i treu rols, nen"
-aiFunctions_editRolesFromUser_description: "La IA reparteix rols com si fossin cromos, nen"
-
-aiFunctions_muteChat_title: "Silencia xats, nen"
-aiFunctions_muteChat_description: "La IA pot silenciar el canal si s'estan posant molt pesats, nen"
-
-aiFunctions_kickUser_title: "Expulsa usuaris, nen"
-aiFunctions_kickUser_description: "La IA els fa fora amb una puntada al cul virtual, nen"
-
-aiFunctions_sendEmbed_title: "Crea missatges guapos, nen"
-aiFunctions_sendEmbed_description: "La IA pot enviar missatges amb botons, fotos i tot el que faci falta, nen"
-logout: "Tanca sessió, nen"
-servers: "Servidors, nen"
-yourServers: "Els teus servidors, nen"
-other: "Altres, nen"
-otherServers: "Altres servidors, nen"
-
-servermembers: "%s col·legues al servidor, nen."
-onlinemembers: "%s connectats, nen."
-noPerms: "Sense permisos, nen."
-click4editing: "Fes-hi clic per editar-ho, nen."
-addHokki: "Afegeix en Hokki, nen."
-
-utilities: "Utilitats, nen"
-channels: "Canals, nen"
-answers: "Respostes, nen"
-functions: "Funcions, nen"
-chatFunctions: "Funcions del xat, nen"
-moderation: "Moderació, nen"
-welcomeMessages: "Missatges de benvinguda, nen"
-
-back: "Tira enrere, nen"
-
-thanks4installing: "Gràcies per instal·lar en Hokki, nen!"
-thanks4installing_desc: "Moltíssimes gràcies per escollir en Hokki com el bot d’IA més trempat pel teu Discord, nen."
-
-chatbotChannel: "Canals del Hokki xerraire, nen"
-chatbotChannel_desc: "Aquí en Hokki contesta segur, nen."
-selectChannel: "Selecciona un canal, nen."
-
-preventAnswerPrefix: "Prefix perquè calli, nen"
-preventAnswerPrefix_desc_c1: "Posa un prefix i si el missatge comença així, en Hokki es queda calladet, nen."
-preventAnswerPrefix_desc_c2: "Si ho deixes en blanc, parlarà igual, nen."
-
-disabledChannels: "Canals desactivats, nen"
-disabledChannels_desc: "Aquí en Hokki no piula ni una, nen."
-
-seconds: "segonets, nen"
-minutes: "minutets, nen"
-hours: "horetes, nen"
-days: "diades, nen"
-
-see: "Mira això, nen"
-poweredByOpenai: "Funciona amb OpenAI, nen"
-
-answerInstructions: "Instruccions per respondre, nen"
-answerInstructions_desc: "Configura com vols que respongui en Hokki, nen."
-answerInstructions_placeholder: "Escriu aquí què vols que faci en Hokki, nen."
-
-preferenceLanguage: "Llengua preferida, nen"
-preferenceLanguage_desc: "Escull en quin idioma vols que xerri en Hokki, nen."
-
-otherSettings: "Altres ajustos, nen"
-
-answerWhenMention: "Respondre si el mencionen, nen."
-answerWhenName: 'Respondre si diuen "hokki", nen.'
-
-chatFunctions_desc: "Activa o desactiva els poders de l’Hokki perquè no faci cap tonteria, nen."
-
-aiAutomod: "Moderació automàtica amb IA, nen"
-aiAutomod_desc: "Fes servir la IA per controlar els missatges raros al teu servidor, nen."
-
-options: "Opcions, nen"
-aiAutomod_options_desc: "Tria què consideres tòxic, nen."
-
-editAll: "Edita-ho tot de cop, nen"
-
-harassment: "Assetjament, nen"
-harassment_desc: "Insults, burles i males vibracions, nen."
-
-harassmentthreatening: "Assetjament amb amenaces, nen"
-harassmentthreatening_desc: "El mateix, però amb mala bava, nen."
-
-sexual: "Contingut pujat de to, nen"
-sexual_desc: "Coses sexuals, sense que siguin extremes, nen."
-
-hate: "Discursos d’odi, nen"
-hate_desc: "Odi per raça, religió, sexe i tot el que vulguis, nen."
-
-hatethreatening: "Odi amb amenaces, nen"
-hatethreatening_desc: "Igual que abans, però amb ganes de calenta-la, nen."
-
-illicit: "Coses il·legals, nen"
-illicit_desc: "Drogues, armes, dark web i merdes així, nen."
-
-illicitviolent: "Ilegal i violent, nen"
-illicitviolent_desc: "Assassinats, terrorisme i mogudes molt fosques, nen."
-
-selfharmintent: "Pensaments negatius, nen"
-selfharmintent_desc: "Quan algú vol fer-se mal a si mateix, nen."
-
-selfharminstructions: "Com fer-se mal, nen"
-selfharminstructions_desc: "Quan algú explica com autolesionar-se, nen."
-
-selfharm: "Autolesions o suïcidi, nen"
-selfharm_desc: "Missatges on la gent diu que es vol fer mal, nen."
-
-sexualminors: "Contingut sexual amb menors, nen"
-sexualminors_desc: "Això és molt greu, nen 💀."
-
-violence: "Violència, nen"
-violence_desc: "Descripcions de violència física, nen."
-
-violencegraphic: "Violència explícita, nen"
-violencegraphic_desc: "Gore, tortures i coses molt heavies, nen 💀."
-
-deleteMessage: "Esborra el missatge, nen"
-
-doNothing: "No facis res, nen"
-report: "Fes un xivatasso, nen"
-addWarning: "Avisa el col·lega, nen"
-mute: "Calla’l, nen"
-channel: "Canal, nen"
-time: "Temps, nen"
-timePlaceholder: "Tria la durada, nen"
-1min: "1 minutet, nen"
-5min: "5 minutets, nen"
-10min: "10 minutets, nen"
-1hour: "1 horeta, nen"
-1day: "1 dieta, nen"
-1week: "1 setmaneta, nen"
-
-joinMessages: "Missatges quan entra algú, nen"
-joinMessages_desc: "Envia un missatge quan entra gent nova, nen."
-
-leaveMessages: "Missatges quan se’n van, nen"
-leaveMessages_desc: "Quan algú surt, se’l despedeix, nen."
-
-roleManagementMessages: "Missatge quan rep un rol, nen"
-roleManagementMessages_desc: "Quan algú pilla un rol, l’Hokki ho diu, nen."
-
-boostMessages: "Missatge de boost, nen"
-boostMessages_desc: "Quan algú boosteja el server, se li fa la festa, nen."
-
-addMessage: "Afegeix un missatge, nen"
-styleMessage: "Decora’l, nen"
-additionalConfig: "Configuració extra, nen"
-
-sendDM: "Envia per MD, nen"
-message: "Missatge, nen"
-text: "Text, nen"
-
-sendAfterDelay_desc: "Envia després d’una estoneta, nen"
-delay: "Retard (delay), nen"
-
-writeAMessage: "Escriu un missatge aquí, nen..."
-
-aiModeration: "Moderació amb IA, nen"
-aiModeration_desc: "La IA controla que no hi hagi merders, nen."
-
-configureFunctions: "Configura els poders de l’Hokki, nen"
-configureFunctions_desc: "Tria què pot fer l’Hokki quan parla, nen."
-
-disableSomeChannels: "Desactiva alguns canals, nen"
-disableSomeChannels_desc: "Perquè l’Hokki no faci res allà, nen."
-
-setALanguage: "Tria un idioma, nen"
-setALanguage_desc: "Ajusta com vols que parli l’Hokki, nen."
-
-setWelcomeMessages: "Posa missatges de benvinguda, nen"
-setWelcomeMessages_desc: "Per saludar i acomiadar la penya, nen."
-
-setACustomPrompt: "Explica-li a l’Hokki com parlar, nen"
-setACustomPrompt_desc: "Tu li dius què vols i ell ho fa, nen."
-messages: "Missatges, nen"
-templates: "Missatges nen"
-templates_desc: "Crea i edita missatges personalitzats per al teu servidor, nen."
-addTemplate: "Afegeix un missatge nen"
-editTemplate: "Edita el missatge nen"
-deleteTemplate: "Elimina el missatge nen"
-delete: "Elimina nen"
-
-colorPicker: "Selector de color nen"
-pasteHexHere: "Enganxa el hex aquí nen"
-typeSomeTextHere: "Escriu algún text aquí nen"
-
-addComponent: "Afegeix component nen"
-container: "Contenidor nen"
-image: "Imatge nen"
-separator: "Separador nen"
-
-modules: "Mòduls nen"
-
-editor: "Editor nen"
-send: "Envia nen"
-
-template: "Missatge nen"
-ticketCategory: "Categories de tickets (%s/10) nen"
-ticketCategoryTitlePlaceholder: "Posa un títol per a la categoria aquí nen..."
-tickets: "Tickets nen"
-selectATemplate: "Selecciona un missatge nen."
-addTicketCategory: "Afegeix categoria de ticket nen"
-selectACategory: "Selecciona una categoria nen."
-
-tickets_template_tooltip: "Aquest missatge s'enviarà a un canal com a missatge introductori per alguna cosa com 'fes clic al botó de sota per crear un ticket', nen."
-tickets_channel_tooltip: "El canal on s'enviarà el missatge introductori, nen."
-
-channelName: "Nom del canal nen"
-
-sectionUnderConstruction: "Aquesta secció està en construcció i no funciona gens nen. S'ha publicat al lloc web beta de hokki només per a propòsits de prova."
-
-emojis_native: "Nadius nen"
-discord: "Discord nen"
-
-couldLagDevice: "Pot fer anar lent el teu dispositiu nen."
-
-searchEmojis: "Cerca emojis nen..."
-
-emojiCategory_SUGGESTED: "Usats freqüentment nen"
-emojiCategory_SMILEYS_PEOPLE: "Caretes i Persones nen"
-emojiCategory_ANIMALS_NATURE: "Animals i Natura nen"
-emojiCategory_FOOD_DRINK: "Menjar i Beguda nen"
-emojiCategory_TRAVEL_PLACES: "Viatges i Llocs nen"
-emojiCategory_ACTIVITIES: "Activitats nen"
-emojiCategory_OBJECTS: "Objectes nen"
-emojiCategory_SYMBOLS: "Símbols nen"
-emojiCategory_FLAGS: "Banderes nen"
-
-variables: "Variables nen"
-channelname_variables_desc: "Utilitza variables diferents per fer el nom del canal més únic, nen."
-ticket_channelname_vars_num: "Un número que s'incrementa automàticament, començant amb 0, pujarà amb cada ticket nen."
-ticket_channelname_vars_username: "El nom de l'usuari que va crear el ticket nen."
-ticket_channelname_vars_categoryname: "El nom de la categoria del ticket nen"
-ticket_channelname_vars_categoryemoji: "L'emoji de la categoria del ticket nen"
-
-ticket_channelname_tooltip: "El nom del canal que es crearà quan algú creï un ticket nen."
-joinRoles: "Rols d'entrada nen"
-userJoinRoles: "Rols d'entrada d'usuaris nen"
-botJoinRoles: "Rols d'entrada de bots nen"
-
-rolePrefixes: "Prefixos i sufixos de rols nen"
-selectRole: "Selecciona un rol nen"
-addRolePrefix: "Afegeix prefix/sufix de rol nen"
-typeAPrefix: "Escriu un prefix aquí nen"
-typeASuffix: "Escriu un sufix aquí nen"
-apply: "Aplica nen"
-
-prefixesUpdatedSuccess: "Els prefixos de rols s'han actualitzat correctament nen."
-prefixesUpdatedFailed: "Alguna cosa ha anat malament actualitzant els prefixos de rols nen."
-prefixesUpdatedFailedUsers: 'Els següents usuaris no s‘han pogut actualitzar: "%s". (Tenen més permisos que el bot) nen'
-unsavedChanges: "Compte nen — tens canvis sense desar!"
-reset: "Reinicia nen"
-
-rolePrefixes_desc: "Això canvia automàticament els sobrenoms dels usuaris amb els rols que estableixes aquí, afegint un prefix o sufix nen. És genial per personalitzar l'ambient del teu servidor, o qualsevol altra cosa que se t'acudeixi nen."
-
-panelMessage: "Missatge personalitzat del panell nen"
-tickets_panelMessage_tooltip: "Aquest missatge s'enviarà al canal de sota com a missatge per alguna cosa com 'fes clic al botó de sota per crear un ticket' nen."
-
-publishChannel: "Canal de publicació nen"
-tickets_publishChannel_tooltip: "El canal on s'enviarà el missatge de dalt nen."
-
-ticketTypes: "Tipus de tickets nen"
-general: "General nen"
-addTicketType: "Afegeix tipus de ticket nen"
-
-selectAServer: "Selecciona un servidor nen"
-go: "Ves-hi nen"
-openTemplates: "Obre missatges nen"
-
-createTicketsCategory: "Categoria on es crearan els tickets nen"
-claimedTicketsCategory: "Categoria on es mouran els tickets reclamats nen"
-closedTicketsCategory: "Categoria on es mouran els tickets tancats nen"
-
-noColor: "Sense color nen"
-customColor: "Color personalitzat nen"
-Teal: "Verd blavós nen"
-Green: "Verd nen"
-Blue: "Blau nen"
-Purple: "Porpra nen"
-Pink: "Rosa nen"
-Yellow: "Groc nen"
-Orange: "Taronja nen"
-Tomato: "Vermell tomàquet nen"
-Light Gray: "Gris clar nen"
-Gray: "Gris nen"
-Dark Teal: "Verd blavós fosc nen"
-Dark Green: "Verd fosc nen"
-Dark Blue: "Blau fosc nen"
-Dark Purple: "Porpra fosc nen"
-Dark Pink: "Rosa fosc nen"
-Dark Yellow: "Groc fosc nen"
-Dark Orange: "Taronja fosc nen"
-Dark Tomato: "Vermell tomàquet fosc nen"
-
-tempChannels: "Canals temporals nen"
-levels: "Nivells nen"
-economy: "Economia nen"
-essentials: "Essencials nen"
-serverManagement: "Gestió del servidor nen"
-gamesFun: "Jocs i Diversió nen"
-inviteTracker: "Rastrejador d'invitacions nen"
-
-manageRoles: "Gestiona rols nen"
-
-reportDesc: "Selecciona un canal on s'enviaran els informes de missatges de les deteccions nen."
-aiFunctions_warnUser_title: "Adverteix usuari nen."
-aiFunctions_warnUser_description: "Amb aquesta funció, la IA pot afegir/treure un advertiment a un usuari nen."
-
-editMessageToViewContents: "Edita el missatge per veure els continguts nen"
-ticketManagerRoles: "Rols de gestor de tickets nen"
-tickets_ticketManagerRoles_tooltip: "Aquests rols podran reclamar, tancar i eliminar tickets nen."
-
-ticketCreation: "Creació de tickets nen"
-ticketChannelName: "Nom del canal de tickets nen"
-ticketIntroductionCustomMessage: "Missatge personalitzat d'introducció del ticket nen"
-tickets_ticketIntroductionCustomMessage_tooltip: "Aquest missatge s'enviarà al canal del ticket com a missatge introductori per alguna cosa com 'ticket creat' nen."
-ticketPreviousQuestions: "Preguntes anteriors nen"
-
-ticketTranscripts: "Transcripcions nen"
-ticketTranscripts_desc: "Veu totes les transcripcions del teu servidor nen."
-
-plugins: "Complements nen"
-totalGenerations: "Generacions totals nen"
-
-emojis: "Emojis nen"
-reload: "Recarrega nen"
-
-homepage__desc: "Veu totes les característiques i complements de Hokki aquí nen."
-reload__desc: "Recarrega la pàgina per obtenir nous canals, missatges, etc. nen"
-channels__desc: "Tria els canals on vols que Hokki respongui, etc. nen"
-answers__desc: "Com vols que Hokki respongui als teus usuaris nen?"
-functions__desc: "Gestiona les característiques de xat que vols que Hokki pugui utilitzar nen."
-moderation__desc: "Gestiona les característiques de moderació de Hokki nen."
-welcomeMessages__desc: "Envia missatges cada vegada que algú s'uneixi, marxi o impulsi el teu servidor nen."
-messages__desc: "Crea missatges personalitzats que pots utilitzar en altres mòduls i enviar als canals que vulguis nen."
-tickets__desc: "Configura un sistema de tickets per al teu servidor nen."
-joinRoles__desc: "Afegeix rols a usuaris i bots quan s'uneixin al teu servidor nen."
-rolePrefixes__desc: "Prefixa els noms dels teus usuaris basant-se en els seus rols nen."
-tempChannels__desc: "Crea canals de veu temporals per al teu servidor nen."
-emojis__desc: "Afegeix emojis personalitzats a les característiques d'IA de Hokki nen."
-levels__desc: "Crea un sistema de nivells per al teu servidor nen."
-economy__desc: "Afegeix un joc d'economia divertit al teu servidor nen."
-inviteTracker__desc: "Rastreja de quines invitacions s'estan unint els usuaris al teu servidor nen."
-
-noTranscripts: "No s’ha trobat CAP transcripció, nen."
-waitlist: "Llista d’espera, nen"
-tickets_waitlist_tooltip: "Posa un màxim de tiquets, nen. Si arribes al límit, els nous tiquets s’aniran a la llista d’espera, nen. Posa-ho a 0 per desactivar-ho, nen."
-publish: "Publica, nen"
-dropdownOptions: "Opcions desplegables, nen"
-ticket_channelname_vars_tickettype_name: "El nom del tipus de tiquet, nen"
-ticket_channelname_vars_tickettype_emoji: "L’emoji del tipus de tiquet, nen"
-comment: "Comentari, nen"
-typeACommentHere: "Escriu un comentari aquí, nen..."
-
-findThePerfectEmoji: "Troba l’emoji perfecte, nen"
-
-emojiselectorv2_recentlyUsed: "Usats recentment, nen"
-emojiselectorv2_people: "Gent, nen"
-emojiselectorv2_nature: "Natura, nen"
-emojiselectorv2_foods: "Menjars, nen"
-emojiselectorv2_activities: "Activitats, nen"
-emojiselectorv2_travel: "Viatges, nen"
-emojiselectorv2_objects: "Objectes, nen"
-emojiselectorv2_symbols: "Símbols, nen"
-emojiselectorv2_flags: "Banderes, nen"
-editMessage: "Edita el missatge, nen"
-ticketLogsChannel: "Canal dels registres de tiquets, nen"
-tickets_logsChannel_tooltip: "El canal on s’enviaran els registres dels tiquets (com la creació o les transcripcions), nen."
-
-termsOfService: "Termes del servei, nen"
-privacyPolicy: "Política de privacitat, nen"
-
-allPlugins: "Tots els plugins, nen"
-premium: "Premium, nen"
-premium__desc: "Gestiona la teva subscripció premium i puja al següent nivell de l’experiència Hokki, nen."
-
-features: "Funcions, nen"
-resources: "Recursos, nen"
-deletedPluralMayus: "ELIMINATS NEN"
-publicBeta: ">> BETA PÚBLICA NEN <<"
-landingv2_moderationSection_title: "El bot de moderació que estimaràs, nen."
-landingv2_moderationSection_titlehighlight: "estimaràs, nen"
-landingv2_moderationSection_automodDesc: "Pots personalitzar què vols que el bot detecti i què vols que faci quan ho detecti, nen."
-landingv2_moderationSection_msg1: "<Text eliminat temporalment, nen>"
-landingv2_moderationSection_msg2: "<Text eliminat temporalment, nen>"
-landingv2_moderationSection_disclaimer: "Estem desenvolupant més funcions, nen."
-
-landingv2_mee6Section_title: "Les funcions que haurien de ser gratis, les tenim, nen."
+logIn: "Iniciar sessió"
+logInWithDiscord: "Iniciar sessió amb Discord"
+oneMoment: "Un moment..."
+
+moderationCategory: "Moderació"
+messagesCategory: "Missatges"
+informationCategory: "Informació"
+administrator: "Administrador"
+changeNickname: "Canviar sobrenoms."
+administrateChannels: "Gestionar canals"
+administrateMessages: "Gestionar missatges"
+polls: "Enquestes"
+none: "Cap"
+homepage: "Inici"
+
+aiFunctions_banUsers_title: "Banejar/desbanejar usuaris."
+aiFunctions_banUsers_description: "Si la IA pot banejar o desbanejar usuaris del teu servidor."
+
+aiFunctions_bulkChannelUpdate_title: "Editar els canals del teu servidor."
+aiFunctions_bulkChannelUpdate_description: "Aquesta funció permet a la IA crear, eliminar o editar múltiples canals alhora (demanarà confirmació)."
+
+aiFunctions_bulkDelete_title: "Eliminar missatges"
+aiFunctions_bulkDelete_description: "Amb aquesta funció, la IA pot eliminar múltiples missatges de qualsevol canal."
+
+aiFunctions_changeNickname_title: "Canviar sobrenoms"
+aiFunctions_changeNickname_description: "Amb aquesta funció, la IA pot canviar el sobrenom d'un usuari específic."
+
+aiFunctions_createPoll_description: "Si la IA pot crear enquestes."
+
+aiFunctions_createThread_title: "Crear fils."
+aiFunctions_createThread_description: "Si la IA pot crear fils."
+
+aiFunctions_editRolesFromUser_title: "Afegir i eliminar rols."
+aiFunctions_editRolesFromUser_description: "Amb aquesta funció, la IA pot donar o treure rols d'un usuari específic."
+
+aiFunctions_muteChat_title: "Silenciar/dessilenciar xats."
+aiFunctions_muteChat_description: "Si la IA pot silenciar o dessilenciar un xat al teu servidor."
+
+aiFunctions_kickUser_title: "Expulsar usuaris."
+aiFunctions_kickUser_description: "Si la IA pot expulsar usuaris del teu servidor."
+
+aiFunctions_sendEmbed_title: "Enviar missatges embed."
+aiFunctions_sendEmbed_description: "Amb aquesta funció, la IA pot generar missatges embed, que poden incloure botons, imatges, etc."
+logout: "Tancar sessió"
+servers: "Servidors"
+yourServers: "Els teus servidors"
+other: "Altres"
+otherServers: "Altres servidors"
+servermembers: "%s membres."
+onlinemembers: "%s en línia."
+noPerms: "Sense permisos."
+click4editing: "Clica per editar."
+addHokki: "Afegir Hokki."
+utilities: "Utilitats"
+channels: "Canals"
+answers: "Respostes"
+functions: "Funcions"
+chatFunctions: "Funcions de xat"
+moderation: "Moderació"
+welcomeMessages: "Missatges de benvinguda"
+back: "Enrere"
+thanks4installing: "Gràcies per instal·lar Hokki!"
+thanks4installing_desc: "Moltes gràcies per escollir Hokki com el teu bot d'IA de Discord."
+chatbotChannel: "Canals de chatbot"
+chatbotChannel_desc: "En aquest canal, Hokki sempre respondrà als missatges."
+selectChannel: "Selecciona un canal"
+preventAnswerPrefix: "Prevenir prefix de resposta"
+preventAnswerPrefix_desc_c1: "Estableix un prefix que, quan es col·loqui al principi del teu missatge, Hokki no respondrà."
+preventAnswerPrefix_desc_c2: "Deixa-ho en blanc per desactivar."
+disabledChannels: "Canals desactivats"
+disabledChannels_desc: "Selecciona alguns canals on Hokki no respondrà."
+seconds: "segons"
+minutes: "minuts"
+hours: "hores"
+days: "dies"
+see: "Veure info sobre"
+poweredByOpenai: "Impulsat per OpenAI"
+answerInstructions: "Instruccions de resposta"
+answerInstructions_desc: "Afegeix instruccions personalitzades sobre com vols que la IA es comuniqui."
+answerInstructions_placeholder: "Escriu les teves instruccions de resposta aquí."
+preferenceLanguage: "Idioma preferit"
+preferenceLanguage_desc: "Tria l'idioma en què vols que Hokki respongui."
+otherSettings: "Altres configuracions"
+answerWhenMention: "Respondre quan algú mencioni el bot."
+answerWhenName: 'Respondre si algú diu la paraula "hokki".'
+chatFunctions_desc: "Activa o desactiva cadascuna de les funcions que Hokki pot utilitzar mentre xateja al teu servidor, perquè la IA no faci coses que no vols."
+aiAutomod: "Auto moderació intel·ligent"
+aiAutomod_desc: "Configura la moderació intel·ligent i automàtica per al teu servidor. Comprovarà els missatges utilitzant IA per trobar contingut potencialment inapropiat."
+options: "Opcions"
+aiAutomod_options_desc: "Tria què marcar com inapropiat."
+editAll: "Editar tot"
+harassment: "Assetjament"
+harassment_desc: "Insults, atacs personals, burles cruels, etc."
+harassmentthreatening: "Assetjament i amenaces"
+harassmentthreatening_desc: "El mateix que dalt, però amb amenaces de dany real o físic."
+sexual: "Contingut sexual / explícit"
+sexual_desc: "Contingut sexual general (explícit, no necessàriament violent)."
+hate: "Odi"
+hate_desc: "Odi contra grups basant-se en raça, religió, gènere, orientació sexual, etc."
+hatethreatening: "Odi i amenaces"
+hatethreatening_desc: 'El mateix que "Odi", però amb amenaces explícites de violència.'
+illicit: "Activitats il·legals/il·lícites"
+illicit_desc: "Pot incloure venda de drogues o armes, activitat criminal, dark web, etc."
+illicitviolent: "Activitats il·legals i violentes"
+illicitviolent_desc: "Contingut il·lícit amb components violents, com ofertes de sicari, tortura per diners, terrorisme, etc."
+selfharmintent: "Intencions suïcides"
+selfharmintent_desc: "Quan el text expressa intenció directa d'autolesionar-se."
+selfharminstructions: "Instruccions de suïcidi"
+selfharminstructions_desc: "Explicacions o instruccions sobre com autolesionar-se."
+selfharm: "Autolesió / suïcidi"
+selfharm_desc: "Contingut relacionat amb autolesió o suïcidi."
+sexualminors: "Contingut sexual amb menors"
+sexualminors_desc: "Contingut sexual que impliqui o mencioni menors."
+violence: "Contingut violent"
+violence_desc: "Descripcions gràfiques o explícites de violència física."
+violencegraphic: "Contingut violent gràfic"
+violencegraphic_desc: "Encara més gràfic o visual: sang, mutilacions, tortura, etc."
+deleteMessage: "Eliminar missatge"
+doNothing: "No fer res"
+report: "Reportar"
+addWarning: "Afegir advertència"
+mute: "Silenciar"
+channel: "Canal"
+time: "Temps"
+timePlaceholder: "Tria una durada"
+1min: "1 minut"
+5min: "5 minuts"
+10min: "10 minuts"
+1hour: "1 hora"
+1day: "1 dia"
+1week: "1 setmana"
+joinMessages: "Missatges d'entrada"
+joinMessages_desc: "Envia un missatge quan algú s'uneix al teu servidor."
+leaveMessages: "Missatges de sortida"
+leaveMessages_desc: "Envia un missatge quan algú abandona el teu servidor."
+roleManagementMessages: "Missatges d'assignació de rols"
+roleManagementMessages_desc: "Envia un missatge quan algú rep un rol al teu servidor."
+boostMessages: "Missatges de boost"
+boostMessages_desc: "Envia un missatge quan algú fa boost al teu servidor."
+addMessage: "Afegir missatge"
+styleMessage: "Estil del missatge"
+additionalConfig: "Configuració addicional"
+sendDM: "Enviar com DM"
+message: "Missatge"
+text: "Text"
+sendAfterDelay_desc: "Enviar després d'un retard"
+delay: "Retard"
+writeAMessage: "Escriu un missatge..."
+aiModeration: "Moderació amb IA"
+aiModeration_desc: "Modera els missatges del teu servidor automàticament utilitzant models d'IA."
+configureFunctions: "Configura les funcions de Hokki"
+configureFunctions_desc: "Selecciona quines funcions de xat pot utilitzar Hokki mentre parla amb ell."
+disableSomeChannels: "Desactiva alguns canals"
+disableSomeChannels_desc: "Selecciona els canals on no vols que Hokki parli."
+setALanguage: "Canvia l'idioma"
+setALanguage_desc: "Canvia l'idioma que utilitzarà el bot."
+setWelcomeMessages: "Estableix missatges de benvinguda"
+setWelcomeMessages_desc: "Envia un missatge quan algú s'uneix, marxa, fa boost, etc. al teu servidor."
+setACustomPrompt: "Estableix un prompt personalitzat"
+setACustomPrompt_desc: "Explica a Hokki com hauria de respondre"
+
+messages: "Missatges"
+templates: "Missatges"
+templates_desc: "Crea i edita missatges personalitzats per al teu servidor."
+addTemplate: "Afegir missatge"
+editTemplate: "Editar missatge"
+deleteTemplate: "Eliminar missatge"
+delete: "Eliminar"
+
+colorPicker: "Selector de color"
+pasteHexHere: "Enganxa el hex aquí"
+typeSomeTextHere: "Escriu text aquí"
+
+addComponent: "Afegir component"
+container: "Contenidor (Embed)"
+image: "Imatge" 
+separator: "Separador"
+
+editor: "Editor"
+send: "Enviar"
+
+template: "Missatge"
+ticketCategory: "Categories de tickets (%s/10)"
+ticketCategoryTitlePlaceholder: "Estableix un títol per a la categoria aquí..."
+tickets: "Tickets"
+selectATemplate: "Selecciona un missatge."
+addTicketCategory: "Afegir categoria de ticket"
+selectACategory: "Selecciona una categoria."
+
+tickets_template_tooltip: "Aquest missatge s'enviarà a un canal com a missatge introductori per a quelcom com 'clica el botó de sota per crear un ticket'."
+tickets_channel_tooltip: "El canal on s'enviarà el missatge introductori."
+
+channelName: "Nom del canal"
+
+sectionUnderConstruction: "Aquesta secció està en construcció i no funciona gens. S'ha publicat al web beta de hokki només amb propòsits de prova."
+
+emojis_native: "Natius"
+discord: "Discord"
+
+couldLagDevice: "Pot fer anar lent el teu dispositiu."
+
+searchEmojis: "Cerca emojis..."
+
+emojiCategory_SUGGESTED: "Utilitzats Freqüentment"
+emojiCategory_SMILEYS_PEOPLE: "Cares i Persones"
+emojiCategory_ANIMALS_NATURE: "Animals i Natura"
+emojiCategory_FOOD_DRINK: "Menjar i Begudes"
+emojiCategory_TRAVEL_PLACES: "Viatges i Llocs"
+emojiCategory_ACTIVITIES: "Activitats"
+emojiCategory_OBJECTS: "Objectes"
+emojiCategory_SYMBOLS: "Símbols"
+emojiCategory_FLAGS: "Banderes"
+
+variables: "Variables"
+channelname_variables_desc: "Utilitza diferents variables per fer el nom del canal més únic."
+ticket_channelname_vars_num: "Un número auto-incremental, començant amb 0, pujarà amb cada ticket."
+ticket_channelname_vars_username: "El nom de l'usuari que ha creat el ticket."
+ticket_channelname_vars_categoryname: "El nom de la categoria del ticket"
+ticket_channelname_vars_categoryemoji: "L'emoji de la categoria del ticket"
+
+ticket_channelname_tooltip: "El nom del canal que es crearà quan algú creï un ticket."
+joinRoles: "Rols d'entrada"
+userJoinRoles: "Rols d'entrada d'usuaris"
+botJoinRoles: "Rols d'entrada de bots"
+
+rolePrefixes: "Prefixos i sufixos de rols"
+selectRole: "Selecciona un rol"
+addRolePrefix: "Afegir prefix/sufix de rol"
+typeAPrefix: "Escriu un prefix aquí"
+typeASuffix: "Escriu un sufix aquí"
+apply: "Aplicar"
+
+prefixesUpdatedSuccess: "Els prefixos de rols s'han actualitzat amb èxit."
+prefixesUpdatedFailed: "Alguna cosa ha anat malament en actualitzar els prefixos de rols."
+prefixesUpdatedFailedUsers: 'Els següents usuaris no s\'han pogut actualitzar: "%s". (Tenen més permisos que el bot)'
+unsavedChanges: "Compte — tens canvis sense desar!"
+reset: "Restablir"
+
+rolePrefixes_desc: "Això canvia automàticament els sobrenoms dels usuaris amb els rols que estableixis aquí, afegint un prefix o sufix. És genial per personalitzar l'ambient del teu servidor, o qualsevol altra cosa que se t'acudeixi."
+
+panelMessage: "Missatge personalitzat del panell"
+tickets_panelMessage_tooltip: "Aquest missatge s'enviarà al canal de sota com a missatge per a quelcom com 'clica el botó de sota per crear un ticket'."
+
+publishChannel: "Canal de publicació"
+tickets_publishChannel_tooltip: "El canal on s'enviarà el missatge de dalt."
+
+ticketTypes: "Tipus de tickets"
+general: "General"
+addTicketType: "Afegir tipus de ticket"
+
+selectAServer: "Selecciona un servidor"
+go: "Anar"
+openTemplates: "Obrir missatges"
+
+createTicketsCategory: "Categoria on es crearan els tickets"
+claimedTicketsCategory: "Categoria on es mouran els tickets reclamats"
+closedTicketsCategory: "Categoria on es mouran els tickets tancats"
+
+noColor: "Sense color"
+customColor: "Color personalitzat"
+Teal: "Verd Aigua"
+Green: "Verd"
+Blue: "Blau"
+Purple: "Morat"
+Pink: "Rosa"
+Yellow: "Groc"
+Orange: "Taronja"
+Tomato: "Vermell Tomàquet"
+Light Gray: "Gris Clar"
+Gray: "Gris"
+Dark Teal: "Verd Aigua Fosc"
+Dark Green: "Verd Fosc"
+Dark Blue: "Blau Fosc"
+Dark Purple: "Morat Fosc"
+Dark Pink: "Rosa Fosc"
+Dark Yellow: "Groc Fosc"
+Dark Orange: "Taronja Fosc"
+Dark Tomato: "Vermell Tomàquet Fosc"
+
+tempChannels: "Canals Temporals"
+levels: "Nivells"
+economy: "Economia"
+essentials: "Essencials"
+serverManagement: "Gestió del Servidor"
+gamesFun: "Jocs i Diversió"
+inviteTracker: "Seguiment d'Invitacions"
+
+manageRoles: "Gestionar Rols"
+
+reportDesc: "Selecciona un canal on s'enviaran els informes de missatges de les deteccions."
+aiFunctions_warnUser_title: "Advertir usuari."
+aiFunctions_warnUser_description: "Amb aquesta funció, la IA pot afegir/treure una advertència a un usuari."
+
+editMessageToViewContents: "Edita el missatge per veure el contingut"
+ticketManagerRoles: "Rols de Gestor de Tickets"
+tickets_ticketManagerRoles_tooltip: "Aquests rols podran reclamar, tancar i eliminar tickets."
+
+ticketCreation: "Creació de tickets"
+ticketChannelName: "Nom del canal de ticket"
+ticketIntroductionCustomMessage: "Missatge personalitzat d'introducció del ticket"
+tickets_ticketIntroductionCustomMessage_tooltip: "Aquest missatge s'enviarà al canal del ticket com a missatge introductori per a quelcom com 'ticket creat'."
+ticketPreviousQuestions: "Preguntes prèvies"
+
+ticketTranscripts: "Transcripcions"
+ticketTranscripts_desc: "Veure totes les transcripcions del teu servidor."
+
+plugins: "Plugins"
+totalGenerations: "Generacions totals"
+
+emojis: "Emojis"
+reload: "Recarregar"
+
+homepage__desc: "Veure totes les funcions i plugins de Hokki aquí."
+reload__desc: "Recarrega la pàgina per obtenir nous canals, missatges, etc."
+channels__desc: "Tria els canals on vols que Hokki respongui, etc."
+answers__desc: "Com vols que Hokki respongui als teus usuaris?"
+functions__desc: "Gestiona les funcions de xat que vols que Hokki pugui utilitzar."
+moderation__desc: "Gestiona les funcions de moderació de Hokki."
+welcomeMessages__desc: "Envia missatges sempre que algú s'uneixi, marxi o faci boost al teu servidor."
+messages__desc: "Crea missatges personalitzats que poden tenir embeds i pots enviar als canals que vulguis."
+tickets__desc: "Configura un sistema de tickets per al teu servidor."
+joinRoles__desc: "Afegeix rols als usuaris i bots quan s'uneixin al teu servidor."
+rolePrefixes__desc: "Prefixa els noms dels teus usuaris basant-te en els seus rols."
+tempChannels__desc: "Crea canals de veu temporals per al teu servidor."
+emojis__desc: "Afegeix emojis personalitzats a les funcions d'IA de Hokki."
+levels__desc: "Crea un sistema de nivells per al teu servidor."
+economy__desc: "Afegeix un joc d'economia divertit al teu servidor."
+inviteTracker__desc: "Rastreja quanta gent conviden els teus membres a la teva comunitat i classifica'ls en una taula de classificació."
+
+noTranscripts: "No s'han trobat transcripcions."
+waitlist: "Llista d'espera"
+tickets_waitlist_tooltip: "Estableix un nombre màxim de tickets. Si s'arriba al límit, els nous tickets creats s'uniran a una llista d'espera. Estableix a 0 per desactivar."
+publish: "Publicar"
+dropdownOptions: "Opcions desplegables"
+ticket_channelname_vars_tickettype_name: "El nom del tipus del ticket"
+ticket_channelname_vars_tickettype_emoji: "L'emoji del tipus del ticket"
+comment: "Comentari"
+typeACommentHere: "Escriu un comentari aquí..."
+
+findThePerfectEmoji: "Troba l'emoji perfecte"
+
+emojiselectorv2_recentlyUsed: "Utilitzats Recentment"
+emojiselectorv2_people: "Persones"
+emojiselectorv2_nature: "Natura"
+emojiselectorv2_foods: "Menjars"
+emojiselectorv2_activities: "Activitats"
+emojiselectorv2_travel: "Viatges"
+emojiselectorv2_objects: "Objectes"
+emojiselectorv2_symbols: "Símbols"
+emojiselectorv2_flags: "Banderes"
+editMessage: "Editar missatge"
+ticketLogsChannel: "Canal de registres de tickets"
+tickets_logsChannel_tooltip: "El canal on s'enviaran els registres dels tickets (com creació de tickets, creació de transcripcions, etc.)."
+
+termsOfService: "Termes del Servei"
+privacyPolicy: "Política de Privacitat"
+
+allPlugins: "Tots els plugins"
+premium: "Premium"
+premium__desc: "Gestiona la teva subscripció premium i porta la teva experiència amb Hokki al següent nivell."
+
+features: Funcions
+resources: Recursos
+deletedPluralMayus: ELIMINATS
+publicBeta: ">> BETA PÚBLICA <<"
+landingv2_moderationSection_title: "El bot de moderació que t'encantarà."
+landingv2_moderationSection_titlehighlight: "t'encantarà"
+landingv2_moderationSection_automodDesc: "Pots personalitzar què vols que el bot detecti, i quines accions vols que prengui si detecta alguna cosa."
+landingv2_moderationSection_msg1: "Missatge dolent aquí"
+landingv2_moderationSection_msg2: "Un altre missatge dolent dient coses dolentes aquí"
+landingv2_moderationSection_disclaimer: "Estem desenvolupant més funcions."
+
+landingv2_mee6Section_title: "Les funcions que haurien de ser gratuïtes, les tenim."
 landingv2_mee6Section_titlehighlight: "haurien"
-landingv2_mee6Section_tableelem_tickets: "Tiquets, nen"
-landingv2_mee6Section_tableelem_customWelcomes: "Benvingudes personalitzades / amb IA, nen"
-landingv2_mee6Section_tableelem_automod: "Automod d’IA, nen"
-landingv2_mee6Section_tableelem_rolePrefixes: "Prefixos/sufixos de rols, nen"
-landingv2_mee6Section_tableelem_customMessages: "Missatges personalitzats amb ComponentsV2, nen"
-landingv2_mee6Section_workInProgress: "Estem programant moltes més coses, nen. Actualitzarem la llista més endavant, nen."
+landingv2_mee6Section_tableelem_tickets: "Tickets"
+landingv2_mee6Section_tableelem_customWelcomes: "Benvingudes personalitzades / amb IA"
+landingv2_mee6Section_tableelem_automod: "Automod amb IA"
+landingv2_mee6Section_tableelem_rolePrefixes: "Prefixos/sufixos de rols"
+landingv2_mee6Section_tableelem_customMessages: "Missatges personalitzats amb Embeds"
+landingv2_mee6Section_workInProgress: "Estem programant moltes més, actualitzarem aquesta llista en el futur."
 
-landingv2_integrateAIsection_title: "Sorprèn els teus col·legues integrant IA al teu servidor, nen"
-landingv2_integrateAIsection_message2answer: "Espanya té <b>49.153.849</b> habitants, nen"
-landingv2_integrateAIsection_subtitle: "Amb algunes funcions d’IA que ajuden un munt, nen"
-landingv2_integrateAIsection_message3question: "Ei Hokki, renomena tots els canals perquè tinguin el format «『emoji』nom», nen."
-landingv2_integrateAIsection_message3answer_component1: "Canal actualitzat, nen."
-landingv2_integrateAIsection_message3answer_component2: "El Hokki ha demanat aplicar aquests canvis al teu servidor, nen:"
-landingv2_integrateAIsection_message3answer_component3: "Renombrat, nen"
-landingv2_integrateAIsection_message3answer_component4: "Eliminat, nen"
-landingv2_integrateAIsection_message3answer_component5: "Creat, nen"
-landingv2_integrateAIsection_slashUsedText: "ha usat"
-landingv2_integrateAIsection_message4answer_component1: "Resum de la conversa, nen"
+landingv2_integrateAIsection_title: "Sorprèn els teus amics integrant IA al teu servidor"
+landingv2_integrateAIsection_message2answer: "Espanya té <b>49.153.849</b> habitants"
+landingv2_integrateAIsection_subtitle: "Amb algunes funcions d'IA que ajuden molt"
+landingv2_integrateAIsection_message3question: 'Ei Hokki, renomena tots els canals per tenir el format "『emoji』nom".'
+landingv2_integrateAIsection_message3answer_component1: "Actualització de canals."
+landingv2_integrateAIsection_message3answer_component2: "Hokki ha sol·licitat aplicar aquests canvis al teu servidor:"
+landingv2_integrateAIsection_message3answer_component3: "Renomenat"
+landingv2_integrateAIsection_message3answer_component4: "Eliminat"
+landingv2_integrateAIsection_message3answer_component5: "Creat"
+landingv2_integrateAIsection_slashUsedText: "ha utilitzat"
+landingv2_integrateAIsection_message4answer_component1: "Resum de la conversa"
 
-landingv2_pricingSection_introduction: "Anem a parlar dels"
+landingv2_pricingSection_introduction: "Parlem de"
 landingv2_pricingSection_title: "ᴘʀᴇᴜꜱ"
 landingv2_pricingSection_monthly: "Mensual"
 landingv2_pricingSection_annual: "Anual"
-landingv2_pricingSection_mostPopular: "El més popular, nen"
+landingv2_pricingSection_mostPopular: "Més popular"
 landingv2_pricingSection_hobbyPlan: "Pla Hobby"
 landingv2_pricingSection_proPlan: "Pla Pro"
 landingv2_pricingSection_ultraPlan: "Pla Ultra"
-landingv2_pricingSection_free: "Gratis, nen"
+landingv2_pricingSection_free: "Gratis"
 landingv2_pricingSection_byYear: "/any"
 landingv2_pricingSection_byMonth: "/mes"
 
-landingv2_pricingSection_hobbyPlan_callToAction: "Continua gratis, nen"
-landingv2_pricingSection_hobbyPlan_check1: "Tots els connectors principals, nen"
-landingv2_pricingSection_hobbyPlan_cross2: "Personalitzar com parla la IA, nen"
-landingv2_pricingSection_hobbyPlan_cross3: "Accés a models avançats d’IA, nen"
-landingv2_pricingSection_hobbyPlan_cross4: "Marca personalitzada, nen"
-landingv2_pricingSection_hobbyPlan_disclaimer: "24 missatges d’IA / mes, nen"
+landingv2_pricingSection_hobbyPlan_callToAction: "Continuar gratis"
+landingv2_pricingSection_hobbyPlan_check1: "Tots els plugins principals"
+landingv2_pricingSection_hobbyPlan_cross2: "Personalitzar la manera de parlar de la IA"
+landingv2_pricingSection_hobbyPlan_cross3: "Accés a models avançats d'IA"
+landingv2_pricingSection_hobbyPlan_cross4: "Marca personalitzada"
+landingv2_pricingSection_hobbyPlan_disclaimer: "24 missatges d'IA / mes"
 
-landingv2_pricingSection_proPlan_text: "Tot el del pla hobby, més això, nen:"
-landingv2_pricingSection_proPlan_callToAction: "Aconsegueix Pro, nen"
-landingv2_pricingSection_proPlan_check1: "Personalitzar com parla la IA, nen"
-landingv2_pricingSection_proPlan_check2: "Accés a models avançats d’IA, nen"
-landingv2_pricingSection_proPlan_check3: "Menys limitacions, nen"
-landingv2_pricingSection_proPlan_cross4: "Marca personalitzada, nen"
-landingv2_pricingSection_proPlan_disclaimer: "1000 missatges d’IA / mes, nen\\n\\nNota: quan passis el límit, es cobraran missatges extra, nen."
+landingv2_pricingSection_proPlan_text: "Tot del pla hobby, més:"
+landingv2_pricingSection_proPlan_callToAction: "Obtenir Pro"
+landingv2_pricingSection_proPlan_check1: "Personalitzar la manera de parlar de la IA"
+landingv2_pricingSection_proPlan_check2: "Accés a models avançats d'IA"
+landingv2_pricingSection_proPlan_check3: "Menys limitacions"
+landingv2_pricingSection_proPlan_cross4: "Marca personalitzada"
+landingv2_pricingSection_proPlan_disclaimer: "1000 missatges d'IA / mes\\n\\nNota: Un cop superat el límit, s'aplicaran càrrecs per cada missatge addicional."
 
-landingv2_pricingSection_ultraPlan_callToAction: "Aconsegueix Ultra, nen"
-landingv2_pricingSection_ultraPlan_text: "Tot el del pla Pro, més això, nen:"
-landingv2_pricingSection_ultraPlan_check1: "Missatges il·limitats, nen"
-landingv2_pricingSection_ultraPlan_check2: "Marca personalitzada (ARA NO DISPONIBLE, nen)"
-landingv2_pricingSection_ultraPlan_check3: "Menys limitacions, nen"
-landingv2_pricingSection_ultraPlan_disclaimer: "20 generacions d’imatges / mes, nen\\n\\nNota: quan passis el límit, es cobraran missatges extra, nen."
+landingv2_pricingSection_ultraPlan_callToAction: "Obtenir Ultra"
+landingv2_pricingSection_ultraPlan_text: "Tot del pla pro, més:"
+landingv2_pricingSection_ultraPlan_check1: "Missatges il·limitats"
+landingv2_pricingSection_ultraPlan_check2: "Marca personalitzada (NO DISPONIBLE ARA MATEIX)"
+landingv2_pricingSection_ultraPlan_check3: "Menys limitacions"
+landingv2_pricingSection_ultraPlan_disclaimer: "20 generacions d'imatges / mes\\n\\nNota: Un cop superat el límit, s'aplicaran càrrecs per cada missatge addicional."
 
-landingv2_switchToHokkiSection_title: "Canvia a Hokki, nen"
-landingv2_switchToHokkiSection_subtitle: "A què esperes, nen? Tenim molt per oferir-te, nen."
-landingv2_switchToHokkiSection_inDevelopment: "(En desenvolupament, nen)"
+landingv2_switchToHokkiSection_title: "Canvia a Hokki"
+landingv2_switchToHokkiSection_subtitle: "Què estàs esperant? Tenim molt a oferir-te."
+landingv2_switchToHokkiSection_inDevelopment: "(En desenvolupament)"
 
-hokkiCharacteristics_Tickets: "Tiquets, nen"
-hokkiCharacteristics_Economy: "Economia, nen"
-hokkiCharacteristics_WelcomeMessages: "Missatges de benvinguda (amb IA, nen)"
-hokkiCharacteristics_JoinRoles: "Rols de benvinguda, nen"
-hokkiCharacteristics_TempChannels: "Canals temporals, nen"
-hokkiCharacteristics_RolePrefixes: "Prefixos de noms de rol, nen"
-hokkiCharacteristics_ComponentsV2: "Components V2, nen"
-hokkiCharacteristics_Warnings: "Sistema d’avisos, nen"
-hokkiCharacteristics_Levels: "Nivells, nen"
-hokkiCharacteristics_CustomCommands: "Comandes personalitzables, nen"
+hokkiCharacteristics_Tickets: "Tickets"
+hokkiCharacteristics_Economy: "Economia"
+hokkiCharacteristics_WelcomeMessages: "Missatges de benvinguda (amb IA)"
+hokkiCharacteristics_JoinRoles: "Rols de benvinguda"
+hokkiCharacteristics_TempChannels: "Canals temporals"
+hokkiCharacteristics_RolePrefixes: "Prefixos de noms de rols"
+hokkiCharacteristics_ComponentsV2: "Embeds"
+hokkiCharacteristics_Warnings: "Sistema d'advertències"
+hokkiCharacteristics_Levels: "Nivells"
+hokkiCharacteristics_CustomCommands: "Comandes personalitzables"
 
-premium_dashboardPage_title: "Porta el teu servidor al següent nivell, nen"
-premium_dashboardPage_subtitle: "Descobreix tot el que pots fer amb Hokki, nen"
+premium_dashboardPage_title: "Porta el teu servidor al següent nivell"
+premium_dashboardPage_subtitle: "Descobreix tot el que pots fer amb Hokki"
 
+talkingStyle: "Estil de conversa"
+talkingStyle_desc: "Canvia l'estil del chatbot d'IA."
 
-learnMore: "Llegir més, nen"
+formal: "Formal"
+neutral: "Neutral"
+casual: "Casual"
+humorous: "Humorístic"
+sarcastic: "Sarcàstic"
+dramatic: "Dramàtic"
+friendly: "Amigable"
+
+learnMore: "Aprèn més"
+answerWhenReply: "Respondre si algú respon a un missatge del bot"
+
+language: "Idioma"
+product: "Producte"
+policies: "Polítiques"
+socialMedia: "Social"
+pickAVoice: "Tria una veu"
+
+allowMemorySaving: "Permetre guardar memòria per usuari"
+voice: "Veu"
+voice__desc: "Personalitza la veu de la IA de Hokki."
+music: "Música"
+music__desc: "Activa un sistema de música al teu servidor. Escolta música gratis sense anuncis a qualsevol canal de veu."
+
+enable: "Activar"
+
+enablePlugin: "Activar plugin"
+enablePlugin_text: "Vols activar el plugin %s?"
+disablePlugin: "Desactivar plugin"
+birthdays: "Aniversaris"
+birthdays__desc: "Assegura't que cada persona que fa anys té el seu missatge d'aniversari i rol el seu dia especial."
+disable: "Desactivar"
+disablePlugin_text: "Realment vols desactivar el plugin %s? Tota la configuració s'eliminarà!"
+cancel: "Cancel·lar"
+randomMessage: "Missatge aleatori"
+
+socialAlerts: "Alertes Socials"
+
+twitchAlert: "Alertes de Twitch"
+twitchAlert__desc: "En notificar als teus membres a temps pots augmentar la participació sota els teus directes a Twitch."
+
+youtubeAlert: "Alertes de Youtube"
+youtubeAlert__desc: "Alerta automàticament a la teva comunitat cada vegada que tu o el teu YouTuber favorit publiqui un nou vídeo."
+
+xAlert: "Alertes de X"
+xAlert__desc: "Cada vegada que publiquis un tweet, Hokki l'enviarà automàticament a un canal preconfigurat de la teva elecció."
+
+tiktokAlert: "Alertes de Tiktok"
+tiktokAlert__desc: "Alerta automàticament a la teva comunitat cada vegada que tu o el teu TikToker favorit publiqui un nou vídeo."
+
+redditAlert: "Alertes de Reddit"
+redditAlert__desc: "Configura alertes per a subreddits específics i assegura't que els teus membres mai es perdin noves publicacions a Reddit."
+
+instagramAlert: "Alertes d'Instagram"
+instagramAlert__desc: "Construint presència a Instagram? Amb Hokki pots mostrar fàcilment als teus membres les teves noves publicacions."
+
+kickAlert: "Alertes de Kick"
+kickAlert__desc: "Mantén-te al corrent! Rep notificacions quan tu o el teu streamer favorit de Kick faci un directe."
+
+rssAlert: "Feeds RSS"
+rssAlert__desc: "Mantén-te actualitzat sobre coses importants i segueix canals que t'interessin a tu i als teus membres."
+
+counter: "Comptador"
+counter__desc: "Mantén la ratxa viva! Els usuaris publiquen números en ordre; si t'equivoques o publiques dos cops, es reinicia."
+
+messageEditorv2_components_Text: "Text"
+messageEditorv2_components_Container: "Contenidor (Embed)"
+messageEditorv2_components_Image: "Imatge"
+messageEditorv2_components_Separator: "Separador"
+messageEditorv2_components_Comment: "Comentari"
+
+messageEditorv2_components_Text__desc: "Un bloc de text"
+messageEditorv2_components_Container__desc: "Una caixa per agrupar altres components"
+messageEditorv2_components_Image__desc: "Afegeix una o més imatges"
+messageEditorv2_components_Separator__desc: "Una línia horitzontal per separar seccions"
+messageEditorv2_components_Comment__desc: "Un comentari per a la teva referència (no serà visible)"
+
+ticketPanelConfigTexts_watchTutorial: "Veure tutorial"
+ticketPanelConfigTexts_panels: "Panells"
+ticketPanelConfigTexts_createPanel: "Crear panell"
+ticketPanelConfigTexts_noTicketingPanels: "Encara no tens panells de tickets"
+ticketPanelConfigTexts_notConfigured: "No configurat"
+ticketPanelConfigTexts_deletePanel: "Eliminar panell"
+ticketPanelConfigTexts_commands: "Comandes"
+ticketPanelConfigTexts_commands_claimDesc: "Reclamar un ticket"
+ticketPanelConfigTexts_commands_closeDesc: "Tancar un ticket"
+ticketPanelConfigTexts_commands_deleteDesc: "Eliminar un ticket"
+ticketPanelConfigTexts_commands_reopenDesc: "Reobrir un ticket tancat"
+
+landingv2_herobuttons_addToDiscord: "Afegir a Discord"
+landingv2_herobuttons_seeFeatures: "Veure funcions"
+
+buttonVariants_primary: "Blau"
+buttonVariants_secondary: "Gris"
+buttonVariants_destructive: "Vermell"
+buttonVariants_success: "Verd"
 
 # 2025 - Shard Team
