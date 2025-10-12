@@ -303,7 +303,7 @@ apply: "Aplicar"
 
 prefixesUpdatedSuccess: "Els prefixos de rols s'han actualitzat amb èxit."
 prefixesUpdatedFailed: "Alguna cosa ha anat malament en actualitzar els prefixos de rols."
-prefixesUpdatedFailedUsers: 'Els següents usuaris no s\'han pogut actualitzar: "%s". (Tenen més permisos que el bot)'
+prefixesUpdatedFailedUsers: "Els següents usuaris no s'han pogut actualitzar: ''%s''. (Tenen més permisos que el bot)"
 unsavedChanges: "Compte — tens canvis sense desar!"
 reset: "Restablir"
 
