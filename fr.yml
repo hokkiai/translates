@@ -153,7 +153,7 @@ preferenceLanguage: "Langue préférée"
 preferenceLanguage_desc: "Choisissez la langue dans laquelle vous voulez que Hokki réponde."
 otherSettings: "Autres paramètres"
 answerWhenMention: "Répondre quand quelqu'un mentionne le bot."
-answerWhenName: 'Répondre si quelqu\'un dit le mot "hokki".'
+answerWhenName: "Répondre si quelqu'un dit le mot ''hokki''."
 chatFunctions_desc: "Activez ou désactivez chacune des fonctions que Hokki peut utiliser en discutant sur votre serveur, afin que l'IA ne fasse pas des choses que vous ne voulez pas qu'elle fasse."
 aiAutomod: "Auto-modération intelligente"
 aiAutomod_desc: "Configurez une modération intelligente et automatique pour votre serveur. Elle vérifiera les messages en utilisant l'IA pour trouver du contenu potentiellement inapproprié."
