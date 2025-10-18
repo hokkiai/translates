@@ -629,4 +629,38 @@ rssAlert__desc: Mantente al día con cosas importantes y sigue canales que
 counter: Contador
 counter__desc: ¡Mantén la racha viva! Los usuarios publican números en orden; si te equivocas
   o publicas dos veces, se reinicia.
+
+messageEditorv2_components_Text: Texto
+messageEditorv2_components_Container: Contenedor (Embed)
+messageEditorv2_components_Image: Imagen
+messageEditorv2_components_Separator: Separador
+messageEditorv2_components_Comment: Comentario
+
+messageEditorv2_components_Text__desc: Un bloque de texto
+messageEditorv2_components_Container__desc: Una caja para agrupar otros componentes
+messageEditorv2_components_Image__desc: Añade una o más imágenes
+messageEditorv2_components_Separator__desc: Una línea horizontal para separar secciones
+messageEditorv2_components_Comment__desc: Un comentario para tu referencia (no será visible)
+
+ticketPanelConfigTexts_watchTutorial: Ver tutorial
+ticketPanelConfigTexts_panels: Paneles
+ticketPanelConfigTexts_createPanel: Crear panel
+ticketPanelConfigTexts_noTicketingPanels: Aún no tienes paneles de tickets
+ticketPanelConfigTexts_notConfigured: No configurado
+ticketPanelConfigTexts_deletePanel: Eliminar panel
+
+ticketPanelConfigTexts_commands: Comandos
+ticketPanelConfigTexts_commands_claimDesc: Reclamar un ticket
+ticketPanelConfigTexts_commands_closeDesc: Cerrar un ticket
+ticketPanelConfigTexts_commands_deleteDesc: Eliminar un ticket
+ticketPanelConfigTexts_commands_reopenDesc: Reabrir un ticket cerrado
+
+landingv2_herobuttons_addToDiscord: Añadir a Discord
+landingv2_herobuttons_seeFeatures: Ver funciones
+
+buttonVariants_primary: Azul
+buttonVariants_secondary: Gris
+buttonVariants_destructive: Rojo
+buttonVariants_success: Verde
+
 # 2025 - Shard Team
