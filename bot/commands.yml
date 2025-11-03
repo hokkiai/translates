@@ -119,4 +119,35 @@ help:
     en-US: "Displays some useful information about Hokki."
     es-ES: "Muestra información útil sobre Hokki."
     es-419: "Muestra información útil sobre Hokki."
+# /ticket - conditional command
+ticket:
+  description:
+    en-US: "Commands of the ticketing plugin."
+    es-ES: "Comandos del plugin de tickets."
+    es-419: "Comandos del plugin de tickets."
+  subcommands:
+    # /ticket claim - command
+    claim:
+      description:
+        en-US: "Claims a ticket."
+        es-ES: "Reclama un ticket."
+        es-419: "Reclama un ticket."
+    # /ticket close - command
+    close:
+      description:
+        en-US: "Closes a ticket."
+        es-ES: "Cierra un ticket."
+        es-419: "Cierra un ticket."
+    # /ticket delete - command
+    delete:
+      description:
+        en-US: "Deletes the ticket channel."
+        es-ES: "Elimina el canal del ticket."
+        es-419: "Elimina el canal del ticket."
+    # /ticket reopen - command
+    reopen:
+      description:
+        en-US: "Opens a closed ticket."
+        es-ES: "Abre un ticket que ha sido cerrado."
+        es-419: "Abre un ticket que ha sido cerrado."
 # -- SOME OTHER COMMANDS ARE ABOUT TO BE ADDED --
