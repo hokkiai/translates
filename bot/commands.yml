@@ -79,6 +79,26 @@ ai:
         en-US: "The channel you want to summarize."
         es-ES: "El canal que quieres resumir."
         es-419: "El canal que quieres resumir."
+    # /ai imagine - command
+    imagine:
+      description:
+        en-US: "[ULTRA] · Generates an image using the best ai model for images."
+        es-ES: "[ULTRA] · Genera una imagen usando el mejor modelo de IA para imágenes."
+        es-419: "[ULTRA] · Genera una imagen usando el mejor modelo de IA para imágenes."
+      queryParam:
+        en-US: "The prompt for the image you want to generate."
+        es-ES: "El prompt de la imagen que quieres generar."
+        es-419: "El prompt de la imagen que quieres generar."
+    # /ai perplexity - command
+    perplexity:
+      description:
+        en-US: "[PRO] · Search with Perplexity Sonar Pro"
+        es-ES: "[PRO] · Busca usando Perplexity Sonar Pro"
+        es-419: "[PRO] · Busca usando Perplexity Sonar Pro"
+      queryParam:
+        en-US: "The query of the search you want to make with perplexity."
+        es-ES: "La solicitud que le quieres hacer a perplexity."
+        es-419: "La solicitud que le quieres hacer a perplexity."
     # /ai translate - command
     translate:
       description:
