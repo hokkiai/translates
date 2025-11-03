@@ -616,4 +616,7 @@ buttonVariants_secondary: "Gray"
 buttonVariants_destructive: "Red"
 buttonVariants_success: "Green"
 
+reactionRoles: "Reaction Roles"
+reactionRoles__desc: "Helps you create a message where users can react to add or remove roles for themselves."
+
 # 2025 - Shard Team
