@@ -150,4 +150,38 @@ ticket:
         en-US: "Opens a closed ticket."
         es-ES: "Abre un ticket que ha sido cerrado."
         es-419: "Abre un ticket que ha sido cerrado."
+    # /ticket add - command
+    add:
+      description:
+        en-US: "Adds a user or a role to a ticket."
+        es-ES: "Añade un usuario o un rol a un ticket."
+        es-419: "Añade un usuario o un rol a un ticket."
+      options:
+        user:
+          description:
+            en-US: "A user you want to add to a ticket."
+            es-ES: "Un usuario que quieres añadir a un ticket."
+            es-419: "Un usuario que quieres añadir a un ticket."
+        role:
+          description:
+            en-US: "A role you want to add to a ticket."
+            es-ES: "Un rol que quieres añadir a un ticket."
+            es-419: "Un rol que quieres añadir a un ticket."
+    # /ticket remove - command
+    remove:
+      description:
+        en-US: "Removes a user or a role from a ticket."
+        es-ES: "Elimina un usuario o un rol de un ticket."
+        es-419: "Elimina un usuario o un rol de un ticket."
+      options:
+        user:
+          description:
+            en-US: "A user you want to remove from a ticket."
+            es-ES: "Un usuario que quieres eliminar de un ticket."
+            es-419: "Un usuario que quieres eliminar de un ticket."
+        role:
+          description:
+            en-US: "A role you want to remove from a ticket."
+            es-ES: "Un rol que quieres eliminar de un ticket."
+            es-419: "Un rol que quieres eliminar de un ticket."
 # -- SOME OTHER COMMANDS ARE ABOUT TO BE ADDED --
