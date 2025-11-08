@@ -184,4 +184,34 @@ ticket:
             en-US: "A role you want to remove from a ticket."
             es-ES: "Un rol que quieres eliminar de un ticket."
             es-419: "Un rol que quieres eliminar de un ticket."
+    # /ticket info - command
+    info:
+      description:
+        en-US: "Show detailed information about this ticket."
+        es-ES: "Muestra información detallada sobre este ticket."
+        es-419: "Muestra información detallada sobre este ticket."
+    # /ticket assign - command
+    assign:
+      description:
+        en-US: "Assign ticket to a specific staff member."
+        es-ES: "Asigna un ticket a un específico miembro del staff."
+        es-419: "Asigna un ticket a un específico miembro del staff."
+      options:
+        user:
+          description:
+            en-US: "Staff member to assign this ticket to"
+            es-ES: "Miembro del staff al que asignarle este ticket"
+            es-419: "Miembro del staff al que asignarle este ticket."
+    # /ticket stats - command
+    stats:
+      description:
+        en-US: "View ticket statistics"
+        es-ES: "Ver estadísticas sobre los tickets."
+        es-419: "Ver estadísticas sobre los tickets."
+      options:
+        user:
+          description:
+            en-US: "View stats for specific user (optional)"
+            es-ES: "Ver estadísticas para un usuario específico (opcional)"
+            es-419: "Ver estadísticas para un usuario específico (opcional)"
 # -- SOME OTHER COMMANDS ARE ABOUT TO BE ADDED --
