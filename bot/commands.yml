@@ -99,6 +99,16 @@ ai:
         en-US: "The query of the search you want to make with perplexity."
         es-ES: "La solicitud que le quieres hacer a perplexity."
         es-419: "La solicitud que le quieres hacer a perplexity."
+    # /ai ask - command
+    ask:
+      description:
+        en-US: "Asks something to the AI"
+        es-ES: "Le pregunta algo a la IA"
+        es-419: "Le pregunta algo a la IA"
+      queryParam:
+        en-US: "The query of the message you want to send to the AI"
+        es-ES: "La solicitud del mensaje que le quieres mandar a la IA"
+        es-419: "La solicitud del mensaje que le quieres mandar a la IA"
     # /ai translate - command
     translate:
       description:
