@@ -641,8 +641,8 @@ ticketPanelConfigTexts_conf_previousQuestions_type_shortAnswer: "Short answer"
 ticketPanelConfigTexts_conf_previousQuestions_type_longAnswer: "Long answer"
 ticketPanelConfigTexts_conf_previousQuestions_required_label: "Required"
 
-ticketPanelConfigTexts_conf_previousQuestions_beta_warning_part1: "This feature is in BETA. If you encounter any issues, please report them in our"
-ticketPanelConfigTexts_conf_previousQuestions_beta_warning_part2: "support server"
+ticketPanelConfigTexts_betaWarning: "This feature is in BETA. If you encounter any issues, please report them in our"
+ticketPanelConfigTexts_betaWarning_reportThem: "support server"
 
 ticketPanelConfigTexts_conf_variables_ticketauthor_desc: "A mention to the author of the ticket"
 ticketPanelConfigTexts_conf_variables_tickettype_desc: "The type of the ticket"
@@ -798,6 +798,12 @@ chatFunctions_examples_sendEmbeds_sending: "Sending embed message..."
 chatFunctions_examples_sendEmbeds_embed_title: "Welcome"
 chatFunctions_examples_sendEmbeds_embed_desc: "Welcome to the server!"
 
+editor_editMode: "Edit mode"
+editor_separatorSpacingSize: "Separator spacing size"
+editor_separatorSpacingSize_small: "Small"
+editor_separatorSpacingSize_large: "Large"
+editor_showLine: "Show line"
+editor_color: "Color"
 
 reactionRoles: "Reaction Roles"
 reactionRoles__desc: "Helps you create a message where users can react to add or remove roles for themselves."
