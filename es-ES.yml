@@ -667,8 +667,8 @@ ticketPanelConfigTexts_conf_general: General
 ticketPanelConfigTexts_conf_ticketTypes: Tipos de tickets
 ticketPanelConfigTexts_conf_ticketTypes_buttons: Botones
 ticketPanelConfigTexts_conf_ticketTypes_dropdown: Menú
-ticketPanelConfigTexts_conf_ticketTypes_dropdownPlaceholder: Texto del menú
-ticketPanelConfigTexts_conf_ticketTypes_dropdownPlaceholder_placeholder: Escribe aquí un texto para el menú.
+ticketPanelConfigTexts_conf_ticketTypes_dropdownPlaceholder: Placeholder del menú
+ticketPanelConfigTexts_conf_ticketTypes_dropdownPlaceholder_placeholder: Escribe aquí un placeholder para el menú.
 ticketPanelConfigTexts_conf_ticketTypes_dropdownOptions: Opciones del menú
 ticketPanelConfigTexts_conf_ticketTypes_item_optionTitle_placeholder: Título de la opción
 ticketPanelConfigTexts_conf_ticketTypes_item_optionDesc_placeholder: Descripción de la opción
@@ -689,8 +689,8 @@ ticketPanelConfigTexts_conf_previousQuestions_clickToEdit: Haz clic para editar 
 ticketPanelConfigTexts_conf_previousQuestions_label_label: Etiqueta
 ticketPanelConfigTexts_conf_previousQuestions_label_desc: La etiqueta de la pregunta que se mostrará al usuario
 ticketPanelConfigTexts_conf_previousQuestions_label_placeholder: Ej. ¿Cuál es tu edad?
-ticketPanelConfigTexts_conf_previousQuestions_placeholder_label: Marcador de posición
-ticketPanelConfigTexts_conf_previousQuestions_placeholder_desc: El marcador de posición que se mostrará cuando el usuario aún no haya respondido
+ticketPanelConfigTexts_conf_previousQuestions_placeholder_label: Placeholder
+ticketPanelConfigTexts_conf_previousQuestions_placeholder_desc: El placeholder que se mostrará cuando el usuario aún no haya respondido
 ticketPanelConfigTexts_conf_previousQuestions_placeholder_placeholder: Ej. Escribe tu respuesta aquí...
 ticketPanelConfigTexts_conf_previousQuestions_type_label: Tipo
 ticketPanelConfigTexts_conf_previousQuestions_type_desc: El tipo de campo de entrada
