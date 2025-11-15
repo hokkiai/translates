@@ -823,4 +823,36 @@ editor_showLine: Mostrar línea
 editor_color: Color
 reactionRoles: Roles por Reacción
 reactionRoles__desc: Te ayuda a crear un mensaje donde los usuarios pueden reaccionar para agregar o eliminar roles por sí mismos.
+ticketPanelConfigTexts_var_answerToTheQuestion: Respuesta a la pregunta "%s".
+ticketPanelConfigTexts_var_ticketauthor_mention: Una mención al autor del ticket.
+ticketPanelConfigTexts_var_tickettype_description: La descripción del tipo de ticket.
+ticketPanelConfigTexts_conf_ticketCreationChannel: Canal de creación de tickets
+ticketPanelConfigTexts_conf_ticketCreationMessage: Mensaje de creación de ticket
+ticketPanelConfigTexts_conf_ticketCreationMessage_showManagementButtons: Mostrar botones de gestión
+ticketPanelConfigTexts_conf_ticketCreationMessage_showManagementButtons_desc: Si se deben mostrar los botones de gestión de tickets (Reclamar, Cerrar, etc.) en el mensaje de creación del ticket.
+ticketPanelConfigTexts_conf_waitlist: Lista de espera
+ticketPanelConfigTexts_conf_waitlist_desc: Si el número de tickets abiertos está en o por encima de este número, los nuevos tickets se pondrán en lista de espera en lugar de ser creados inmediatamente. Establecer en 0 para deshabilitar.
+ticketPanelConfigTexts_conf_ticketChannelName: Nombre del canal de ticket
+ticketPanelConfigTexts_conf_ticketChannelNameDesc: Cómo se nombrarán los nuevos tickets
+ticketPanelConfigTexts_conf_ticketTranscripts: Transcripciones de tickets
+ticketPanelConfigTexts_conf_ticketTranscripts_enable: Habilitar transcripciones
+ticketPanelConfigTexts_conf_ticketTranscripts_sendToCreator: Enviar transcripciones al creador del ticket
+ticketPanelConfigTexts_conf_ticketTranscripts_sendToCreator_desc: Si se deben enviar las transcripciones del ticket al creador del ticket por mensaje directo.
+ticketPanelConfigTexts_conf_ticketTranscripts_logsChannel: Canal de registros
+ticketPanelConfigTexts_conf_ticketTranscripts_logsChannel_desc: Un canal donde se registrarán las transcripciones de tickets.
+ticketPanelConfigTexts_conf_previousQuestions: Preguntas previas
+ticketPanelConfigTexts_conf_previousQuestions_disabled: (DESHABILITADO)
+ticketPanelConfigTexts_conf_previousQuestions_enable: Habilitar preguntas previas
+ticketPanelConfigTexts_conf_previousQuestions_questions: Preguntas
+ticketPanelConfigTexts_conf_previousQuestions_label_newQuestion: Nueva pregunta
+ticketPanelConfigTexts_conf_previousQuestions_label_newQuestionDesc: Una nueva pregunta
+ticketPanelConfigTexts_conf_variables: Variables
+ticketPanelConfigTexts_defaultPanelName: Nuevo panel
+ticketPanelConfigTexts_default_component1: ¿Cómo podemos ayudarte?
+ticketPanelConfigTexts_default_component2: Bienvenido a nuestro canal de tickets. Si tienes alguna pregunta o necesitas asistencia, por favor haz clic en el botón 'Abrir ticket' de abajo para contactar con el personal.
+ticketPanelConfigTexts_default_component3: Abrir ticket
+ticketPanelConfigTexts_default_component4: Abrir un nuevo ticket
+ticketPanelConfigTexts_default_component5: Ticket
+ticketPanelConfigTexts_default_component6: Tu ticket ha sido creado. El personal llegará pronto y te ayudará.
+letsGo: Vamos
 # 2025 - Shard Team
