@@ -699,7 +699,7 @@ ticketPanelConfigTexts_default_component2: "Welcome to our tickets channel. If y
 ticketPanelConfigTexts_default_component3: "Open ticket"
 ticketPanelConfigTexts_default_component4: "Open a new ticket"
 ticketPanelConfigTexts_default_component5: "Ticket"
-ticketPanelConfigTexts_default_component6: "Your ticket has been created. Staff will arrive soon and will help you."
+ticketPanelConfigTexts_default_component6: "Your ticket is now open. A staff member will be with you shortly to assist you."
 ticketPanelConfigTexts_panels: "Panels"
 ticketPanelConfigTexts_createPanel: "Create Panel"
 ticketPanelConfigTexts_noTicketingPanels: "No ticketing panels yet"
