@@ -628,8 +628,14 @@ ticketPanelConfigTexts_commands_addDesc: "Add a user to a ticket"
 ticketPanelConfigTexts_commands_removeDesc: "Remove a user from a ticket"
 ticketPanelConfigTexts_commands_infoDesc: "Get information about a ticket"
 
+ticketPanelConfigTexts_conf_previousQuestions: "Previous questions"
+ticketPanelConfigTexts_conf_previousQuestions_disabled: "(DISABLED)"
+ticketPanelConfigTexts_conf_previousQuestions_enable: "Enable previous questions"
+ticketPanelConfigTexts_conf_previousQuestions_questions: "Questions"
 ticketPanelConfigTexts_conf_previousQuestions_clickToEdit: "Click to edit question"
 ticketPanelConfigTexts_conf_previousQuestions_label_label: "Label"
+ticketPanelConfigTexts_conf_previousQuestions_label_newQuestion: "New question"
+ticketPanelConfigTexts_conf_previousQuestions_label_newQuestionDesc: "A new question"
 ticketPanelConfigTexts_conf_previousQuestions_label_desc: "The label of the question that will be displayed to the user"
 ticketPanelConfigTexts_conf_previousQuestions_label_placeholder: "E.g. What is your age?"
 ticketPanelConfigTexts_conf_previousQuestions_placeholder_label: "Placeholder"
@@ -807,5 +813,8 @@ editor_color: "Color"
 
 reactionRoles: "Reaction Roles"
 reactionRoles__desc: "Helps you create a message where users can react to add or remove roles for themselves."
+
+letsGo: "Lets go"
+
 
 # 2025 - Shard Team
