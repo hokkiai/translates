@@ -175,7 +175,6 @@ rr:
             en-US: "The emoji of the reaction role to remove."
             es-ES: "El emoji del rol por reacción a eliminar."
             es-419: "El emoji del rol por reacción a eliminar."
-            rr:
   responses:
     noPermission:
       en-US: "You need the `Manage Roles` permission to use this command."
