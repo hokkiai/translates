@@ -129,6 +129,52 @@ help:
     en-US: "Displays some useful information about Hokki."
     es-ES: "Muestra información útil sobre Hokki."
     es-419: "Muestra información útil sobre Hokki."
+# /rr - conditional command
+rr: 
+  description:
+    en-US: "Commands of the reaction roles plugin."
+    es-ES: "Comandos del plugin de roles por reacción."
+    es-419: "Comandos del plugin de roles por reacción."
+  subcommands:
+    # /rr add - command
+    add:
+      description:
+        en-US: "Adds a reaction role to a message."
+        es-ES: "Añade un rol por reacción a un mensaje."
+        es-419: "Añade un rol por reacción a un mensaje."
+      options:
+        messageLink:
+          description:
+            en-US: "The message link where you want to add the reaction role."
+            es-ES: "El enlace del mensaje donde quieres añadir el rol por reacción."
+            es-419: "El enlace del mensaje donde quieres añadir el rol por reacción."
+        emoji:
+          description:
+            en-US: "The emoji for the reaction role."
+            es-ES: "El emoji para el rol por reacción."
+            es-419: "El emoji para el rol por reacción."
+        role:
+          description:
+            en-US: "The role to assign when the emoji is reacted."
+            es-ES: "El rol a asignar cuando se reacciona con el emoji."
+            es-419: "El rol a asignar cuando se reacciona con el emoji."
+    # /rr remove - command
+    remove:
+      description:
+        en-US: "Removes a reaction role from a message."
+        es-ES: "Elimina un rol por reacción de un mensaje."
+        es-419: "Elimina un rol por reacción de un mensaje."
+      options:
+        messageLink:
+          description:
+            en-US: "The message link where you want to remove the reaction role."
+            es-ES: "El enlace del mensaje donde quieres eliminar el rol por reacción."
+            es-419: "El enlace del mensaje donde quieres eliminar el rol por reacción."
+        emoji:
+          description:
+            en-US: "The emoji of the reaction role to remove."
+            es-ES: "El emoji del rol por reacción a eliminar."
+            es-419: "El emoji del rol por reacción a eliminar."
 # /ticket - conditional command
 ticket:
   description:
