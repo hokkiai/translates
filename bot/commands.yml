@@ -175,6 +175,51 @@ rr:
             en-US: "The emoji of the reaction role to remove."
             es-ES: "El emoji del rol por reacción a eliminar."
             es-419: "El emoji del rol por reacción a eliminar."
+            rr:
+  responses:
+    noPermission:
+      en-US: "You need the `Manage Roles` permission to use this command."
+      es-ES: "Necesitas el permiso `Gestionar roles` para usar este comando."
+      es-419: "Necesitas el permiso `Gestionar roles` para usar este comando."
+    add:
+      usage:
+        en-US: "Usage: /rr add <message-link> <emoji> <role>"
+        es-ES: "Uso: /rr add <enlace-mensaje> <emoji> <rol>"
+        es-419: "Uso: /rr add <enlace-mensaje> <emoji> <rol>"
+      success:
+        en-US: "Reaction role added successfully."
+        es-ES: "Rol por reacción añadido correctamente."
+        es-419: "Rol por reacción añadido correctamente."
+      invalidRole:
+        en-US: "The specified role is invalid."
+        es-ES: "El rol especificado no es válido."
+        es-419: "El rol especificado no es válido."
+      invalidMessage:
+        en-US: "I couldn't find that message. Check the link or my permissions."
+        es-ES: "No he podido encontrar ese mensaje. Revisa el enlace o mis permisos."
+        es-419: "No he podido encontrar ese mensaje. Revisa el enlace o mis permisos."
+      invalidEmoji:
+        en-US: "The emoji is invalid or I can't use it."
+        es-ES: "El emoji no es válido o no puedo usarlo."
+        es-419: "El emoji no es válido o no puedo usarlo."
+    remove:
+      usage:
+        en-US: "Usage: /rr remove <message-link> <emoji>"
+        es-ES: "Uso: /rr remove <enlace-mensaje> <emoji>"
+        es-419: "Uso: /rr remove <enlace-mensaje> <emoji>"
+      success:
+        en-US: "Reaction role removed."
+        es-ES: "Rol por reacción eliminado."
+        es-419: "Rol por reacción eliminado."
+      notFound:
+        en-US: "No reaction role found for that message and emoji."
+        es-ES: "No se ha encontrado un rol por reacción para ese mensaje y emoji."
+        es-419: "No se ha encontrado un rol por reacción para ese mensaje y emoji."
+    errors:
+      generic:
+        en-US: "Something went wrong, please try again in a few seconds."
+        es-ES: "Algo ha ido mal, inténtalo de nuevo en unos segundos."
+        es-419: "Algo ha ido mal, inténtalo de nuevo en unos segundos."
 # /ticket - conditional command
 ticket:
   description:
