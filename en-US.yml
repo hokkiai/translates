@@ -838,7 +838,8 @@ editor_color: "Color"
 
 reactionRoles: "Reaction Roles"
 reactionRoles__desc: "Helps you create a message where users can react to add or remove roles for themselves."
-
+statisticsChannels: "Statistics Channels"
+statisticsChannels__desc: "Display your server's statistics directly in the channel sidebar and stay on track."
 letsGo: "Lets go"
 
 
