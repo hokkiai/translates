@@ -855,4 +855,8 @@ ticketPanelConfigTexts_default_component4: Abrir un nuevo ticket
 ticketPanelConfigTexts_default_component5: Ticket
 ticketPanelConfigTexts_default_component6: Tu ticket ha sido creado. El personal llegará pronto y te ayudará.
 letsGo: Vamos
+
+reactionRoles_desc: "Permite a tus usuarios asignarse roles a través de las reacciones de un mensaje."
+joinRoles_desc: "Permite a tus usuarios asignarse roles a través de las reacciones de un mensaje."
+
 # 2025 - Shard Team

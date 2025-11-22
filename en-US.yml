@@ -843,4 +843,7 @@ statisticsChannels__desc: "Display your server's statistics directly in the chan
 letsGo: "Lets go"
 
 
+reactionRoles_desc: "Allows your users to assign roles to themselves through reactions on a message."
+joinRoles_desc: "Automatically assign roles to users and bots when they join your server."
+
 # 2025 - Shard Team
