@@ -614,5 +614,229 @@ buttonVariants_primary: "Bleu"
 buttonVariants_secondary: "Gris"
 buttonVariants_destructive: "Rouge"
 buttonVariants_success: "Vert"
-
+landing_moderationSection_desc: 'Intéressé par la modération ? <b
+  style="font-weight: 600!important;">Nous avons plein d''autres fonctionnalités que vous allez adorer.</b>'
+ticketPanelConfigTexts_var_answerToTheQuestion: Réponse à la question "%s".
+ticketPanelConfigTexts_var_ticketauthor_mention: Une mention à l'auteur du ticket.
+ticketPanelConfigTexts_var_tickettype_description: La description du type de ticket.
+ticketPanelConfigTexts_conf_publishMessage: Publier le message
+ticketPanelConfigTexts_conf_general: Général
+ticketPanelConfigTexts_conf_ticketTypes: Types de tickets
+ticketPanelConfigTexts_conf_ticketCreationChannel: Canal de création de tickets
+ticketPanelConfigTexts_conf_ticketCreationMessage: Message de création de ticket
+ticketPanelConfigTexts_conf_ticketCreationMessage_showManagementButtons: Afficher les boutons de gestion
+ticketPanelConfigTexts_conf_ticketCreationMessage_showManagementButtons_desc:
+  Afficher ou non les boutons de gestion de ticket (Réclamer, Fermer, etc.) dans
+  le message de création du ticket.
+ticketPanelConfigTexts_conf_waitlist: Liste d'attente
+ticketPanelConfigTexts_conf_waitlist_desc: Si le nombre de tickets ouverts est
+  égal ou supérieur à ce nombre, les nouveaux tickets seront placés dans une liste
+  d'attente au lieu d'être créés immédiatement. Définir à 0 pour désactiver.
+ticketPanelConfigTexts_conf_ticketChannelName: Nom du canal de ticket
+ticketPanelConfigTexts_conf_ticketChannelNameDesc: Comment les nouveaux tickets seront nommés
+ticketPanelConfigTexts_conf_ticketTranscripts: Transcriptions de tickets
+ticketPanelConfigTexts_conf_ticketTranscripts_enable: Activer les transcriptions
+ticketPanelConfigTexts_conf_ticketTranscripts_sendToCreator: Envoyer les transcriptions au créateur du ticket
+ticketPanelConfigTexts_conf_ticketTranscripts_sendToCreator_desc: Envoyer ou non les transcriptions du ticket au créateur du ticket par MP.
+ticketPanelConfigTexts_conf_ticketTranscripts_logsChannel: Canal de journaux
+ticketPanelConfigTexts_conf_ticketTranscripts_logsChannel_desc: Un canal où les transcriptions des tickets seront enregistrées.
+ticketPanelConfigTexts_conf_ticketTypes_buttons: Boutons
+ticketPanelConfigTexts_conf_ticketTypes_dropdown: Menu déroulant
+ticketPanelConfigTexts_conf_ticketTypes_dropdownPlaceholder: Espace réservé du menu déroulant
+ticketPanelConfigTexts_conf_ticketTypes_dropdownPlaceholder_placeholder: Tapez un espace réservé pour le menu déroulant ici.
+ticketPanelConfigTexts_conf_ticketTypes_dropdownOptions: Options du menu déroulant
+ticketPanelConfigTexts_conf_ticketTypes_item_optionTitle_placeholder: Titre de l'option
+ticketPanelConfigTexts_conf_ticketTypes_item_optionDesc_placeholder: Description de l'option
+ticketPanelConfigTexts_conf_ticketTypes_item_delete: Supprimer
+ticketPanelConfigTexts_conf_ticketTypes_item_otherOptions: Autres options
+ticketPanelConfigTexts_conf_ticketTypes_item_createCategory: Créer une catégorie
+ticketPanelConfigTexts_conf_ticketTypes_item_createCategory_desc: Catégorie où les tickets de ce type seront créés.
+ticketPanelConfigTexts_conf_ticketTypes_item_claimedCategory: Catégorie réclamée
+ticketPanelConfigTexts_conf_ticketTypes_item_claimedCategory_desc: Catégorie où les tickets de ce type seront déplacés lorsque quelqu'un les réclame.
+ticketPanelConfigTexts_conf_ticketTypes_item_closedCategory: Catégorie fermée
+ticketPanelConfigTexts_conf_ticketTypes_item_closedCategory_desc: Catégorie où les tickets de ce type seront déplacés lorsque quelqu'un les ferme.
+ticketPanelConfigTexts_conf_ticketTypes_itemName: Nouvelle option
+ticketPanelConfigTexts_conf_ticketTypes_itemDesc: Décrivez ce type de ticket
+ticketPanelConfigTexts_commands_addDesc: Ajouter un utilisateur à un ticket
+ticketPanelConfigTexts_commands_removeDesc: Retirer un utilisateur d'un ticket
+ticketPanelConfigTexts_commands_infoDesc: Obtenir des informations sur un ticket
+ticketPanelConfigTexts_conf_previousQuestions: Questions préalables
+ticketPanelConfigTexts_conf_previousQuestions_disabled: (DÉSACTIVÉ)
+ticketPanelConfigTexts_conf_previousQuestions_enable: Activer les questions préalables
+ticketPanelConfigTexts_conf_previousQuestions_questions: Questions
+ticketPanelConfigTexts_conf_previousQuestions_clickToEdit: Cliquez pour modifier la question
+ticketPanelConfigTexts_conf_previousQuestions_label_label: Étiquette
+ticketPanelConfigTexts_conf_previousQuestions_label_newQuestion: Nouvelle question
+ticketPanelConfigTexts_conf_previousQuestions_label_newQuestionDesc: Une nouvelle question
+ticketPanelConfigTexts_conf_previousQuestions_label_desc: L'étiquette de la question qui sera affichée à l'utilisateur
+ticketPanelConfigTexts_conf_previousQuestions_label_placeholder: Ex. Quel est votre âge ?
+ticketPanelConfigTexts_conf_previousQuestions_placeholder_label: Espace réservé
+ticketPanelConfigTexts_conf_previousQuestions_placeholder_desc: L'espace réservé qui sera affiché lorsque l'utilisateur n'a pas encore répondu
+ticketPanelConfigTexts_conf_previousQuestions_placeholder_placeholder: Ex. Tapez votre réponse ici...
+ticketPanelConfigTexts_conf_previousQuestions_type_label: Type
+ticketPanelConfigTexts_conf_previousQuestions_type_desc: Le type du champ de saisie
+ticketPanelConfigTexts_conf_previousQuestions_type_shortAnswer: Réponse courte
+ticketPanelConfigTexts_conf_previousQuestions_type_longAnswer: Réponse longue
+ticketPanelConfigTexts_conf_previousQuestions_required_label: Obligatoire
+ticketPanelConfigTexts_betaWarning: Cette fonctionnalité est en BETA. Si vous rencontrez des problèmes, veuillez les signaler sur notre
+ticketPanelConfigTexts_betaWarning_reportThem: serveur de support
+ticketPanelConfigTexts_conf_variables: Variables
+ticketPanelConfigTexts_conf_option_title_placeholder: Titre de l'option
+ticketPanelConfigTexts_conf_option_untitledCategory: Catégorie sans titre
+ticketPanelConfigTexts_conf_option_noDescription: Aucune description fournie.
+ticketPanelConfigTexts_conf_option_newQuestion_label: Nouvelle question
+ticketPanelConfigTexts_conf_option_newQuestion_placeholder: Tapez votre réponse ici
+ticketPanelConfigTexts_conf_transcripts_title: Transcriptions
+ticketPanelConfigTexts_conf_transcripts_description: Consultez et gérez vos transcriptions de tickets.
+ticketPanelConfigTexts_tutorial_step1_title: Commencez à recevoir des entrées
+ticketPanelConfigTexts_tutorial_step1_desc: Un panneau de tickets est un message à partir duquel vos membres peuvent ouvrir des tickets.
+ticketPanelConfigTexts_tutorial_step2_title: Restez organisé avec des catégories
+ticketPanelConfigTexts_tutorial_step2_desc: Vous pouvez définir des catégories de tickets personnalisées pour garder les choses bien rangées.
+ticketPanelConfigTexts_tutorial_step3_title: Posez quelques questions au préalable
+ticketPanelConfigTexts_tutorial_step3_desc: Vous pouvez configurer un formulaire que les utilisateurs devront remplir avant d'ouvrir un ticket.
+ticketPanelConfigTexts_tutorial_step4_title: Ne gérez pas des milliers de tickets
+ticketPanelConfigTexts_tutorial_step4_desc: Vous pouvez configurer une liste
+  d'attente qui sera activée lorsque votre serveur aura trop de tickets ouverts.
+ticketPanelConfigTexts_tutorial_step5_title: Transcriptions gratuites, pour toujours
+ticketPanelConfigTexts_tutorial_step5_desc: Lorsqu'un ticket est fermé, tous les
+  messages seront enregistrés dans une transcription accessible ultérieurement dans
+  l'onglet des transcriptions.
+ticketPanelConfigTexts_untitledPanel: Panneau sans titre
+ticketPanelConfigTexts_defaultPanelName: Nouveau panneau de tickets
+ticketPanelConfigTexts_default_component1: Comment pouvons-nous vous aider ?
+ticketPanelConfigTexts_default_component2: Bienvenue sur notre canal de tickets.
+  Si vous avez des questions ou besoin d'assistance, veuillez cliquer sur le bouton
+  'Ouvrir un ticket' ci-dessous pour contacter le personnel !
+ticketPanelConfigTexts_default_component3: Ouvrir un ticket
+ticketPanelConfigTexts_default_component4: Ouvrir un nouveau ticket
+ticketPanelConfigTexts_default_component5: Ticket
+ticketPanelConfigTexts_default_component6: Votre ticket est maintenant ouvert. Un membre du personnel sera avec vous sous peu pour vous aider.
+ticketPanelConfigTexts_transcripts: Transcriptions
+ticketPanelConfigTexts_transcripts_noTranscripts: Aucune transcription trouvée
+ticketPanelConfigTexts_success1: Message du panneau publié !
+ticketPanelConfigTexts_err1: "Impossible de publier : Noms de types de tickets dupliqués trouvés"
+ticketPanelConfigTexts_err1_title: Impossible d'avoir des noms de types de tickets dupliqués
+ticketPanelConfigTexts_err1_desc: Chaque type de ticket doit avoir un nom unique.
+  Veuillez renommer les types de tickets dupliqués avant de publier.
+ticketPanelConfigTexts_err2: Échec de la publication du message du panneau.
+ticketPanelConfigTexts_commands_assignDesc: Attribue un ticket à un membre du personnel
+ticketPanelConfigTexts_commands_statsDesc: Affiche vos statistiques (ou les statistiques d'un utilisateur) du plugin de tickets.
+homepage_ManageSubscription: Gérer votre abonnement
+homepage_daily: Quotidien
+homepage_monthly: Mensuel
+premium_belongsTo: L'abonnement appartient à
+premium_planBenefits: Avantages du plan
+premium_manageYourSubscription: Gérer l'abonnement
+premium_nextBilling: Prochaine facturation
+premium_err1: Vous n'êtes pas le propriétaire de cet abonnement
+premium_billingHistory: Historique de facturation
+messages_add: Ajouter
+messages_addWithoutEditing: Ajouter sans modifier
+messages_element: "élément %s"
+messages_elements: "éléments %s"
+voice_Alloy: Doux et régulier
+voice_Ash: Calme et apaisant
+voice_Ballad: Curieuse et mélodique
+voice_Cedar: Détendue et confiante
+voice_Coral: Brillante et amicale
+voice_Echo: Amicale et douce
+voice_Fable: Douce et calme
+voice_Marin: Légère et accessible
+voice_Nova: Nette et claire
+voice_Onyx: Profonde et stable
+voice_Sage: Sage et posée
+voice_Shimmer: Douce et régulière
+commandPalette_searchPlaceholder: Rechercher des pages...
+commandPalette_searchButton: Rechercher des pages...
+commandPalette_noResults: Aucun résultat trouvé
+commandPalette_navigate: Naviguer
+commandPalette_select: Sélectionner
+commandPalette_close: Fermer
+chatFunctions_pageDescription: "Lorsque vous parlez à l'IA, elle peut utiliser des
+  fonctions spéciales pour améliorer la conversation et faire ce que vous demandez
+  (comme créer des canaux, gérer des rôles, etc.). Voici toutes les fonctions que
+  l'IA peut faire pour vous sur votre serveur :"
+chatFunctions_userRequiredPermissions_label: "Permissions utilisateur requises :"
+chatFunctions_userRequiredPermissions_tooltip: Si un utilisateur demande à Hokki
+  d'exécuter cette fonction et que l'utilisateur n'a pas ces permissions, Hokki ne
+  le laissera pas faire.
+chatFunctions_examples_banUser_userMessage: Salut @HokkiAI, peux-tu s'il te plaît bannir l'utilisateur "zNikto" ?
+chatFunctions_examples_banUser_searching: Recherche de l'utilisateur "zNikto"...
+chatFunctions_examples_banUser_banning: Bannissement de l'utilisateur "zNikto"...
+chatFunctions_examples_banUser_success: L'utilisateur "zNikto" a été banni avec succès.
+chatFunctions_examples_banUser_doneMessage: Terminé ! J'ai banni l'utilisateur "zNikto"
+  du serveur. Si vous avez besoin d'autre chose, faites-le moi savoir !
+chatFunctions_examples_kickUser_userMessage: Salut @HokkiAI, peux-tu s'il te plaît expulser l'utilisateur "zNikto" ?
+chatFunctions_examples_kickUser_searching: Recherche de l'utilisateur "zNikto"...
+chatFunctions_examples_kickUser_kicking: Expulsion de l'utilisateur "zNikto"...
+chatFunctions_examples_kickUser_success: L'utilisateur "zNikto" a été expulsé avec succès.
+chatFunctions_examples_kickUser_doneMessage: Terminé ! J'ai expulsé l'utilisateur "zNikto"
+  du serveur. Si vous avez besoin d'autre chose, faites-le moi savoir !
+chatFunctions_examples_updateChannels_userMessage: Salut @HokkiAI, peux-tu s'il te plaît créer 4 canaux sur le Gaming ?
+chatFunctions_examples_updateChannels_apply: Appliquer
+chatFunctions_examples_updateChannels_deny: Refuser
+chatFunctions_examples_bulkDelete_userMessage: "Salut @HokkiAI, peux-tu s'il te plaît supprimer les 10 derniers messages dans #general ?"
+chatFunctions_examples_bulkDelete_clearing: Suppression des messages...
+chatFunctions_examples_bulkDelete_success: Certains messages supprimés.
+chatFunctions_examples_bulkDelete_doneMessage: "Terminé ! J'ai supprimé les 10 derniers
+  messages dans #general. Si vous avez besoin d'autre chose, faites-le moi savoir !"
+chatFunctions_examples_editRoles_userMessage: Salut @HokkiAI, peux-tu s'il te plaît donner le rôle "Membre" à "zNikto" ?
+chatFunctions_examples_editRoles_searching: Recherche de l'utilisateur "zNikto"...
+chatFunctions_examples_editRoles_assigning: Attribution du rôle "Membre" à l'utilisateur "zNikto"...
+chatFunctions_examples_editRoles_success: Le rôle "Membre" a été attribué à l'utilisateur "zNikto" avec succès.
+chatFunctions_examples_editRoles_doneMessage: Terminé ! J'ai donné le rôle "Membre"
+  à "zNikto". Si vous avez besoin d'autre chose, faites-le moi savoir !
+chatFunctions_examples_muteChats_userMessage: Salut @HokkiAI, peux-tu s'il te plaît mettre ce canal en sourdine ?
+chatFunctions_examples_muteChats_muting: Mise en sourdine du canal...
+chatFunctions_examples_muteChats_success: Le canal a été mis en sourdine avec succès.
+chatFunctions_examples_muteChats_doneMessage: Terminé ! J'ai mis ce canal en sourdine. Si vous avez besoin d'autre chose, faites-le moi savoir !
+chatFunctions_examples_muteChats_embed_title: Canal en sourdine
+chatFunctions_examples_muteChats_embed_desc: Un administrateur a mis ce canal en
+  sourdine. Les utilisateurs ne pourront pas envoyer de messages.
+chatFunctions_examples_changeNickname_userMessage: Salut @HokkiAI, peux-tu s'il te plaît changer mon pseudo en "ProGamer" ?
+chatFunctions_examples_changeNickname_changing: Changement de votre pseudo en "ProGamer"...
+chatFunctions_examples_changeNickname_success: Votre pseudo a été changé en "ProGamer" avec succès.
+chatFunctions_examples_changeNickname_doneMessage: Terminé ! J'ai changé votre pseudo
+  en "ProGamer". Si vous avez besoin d'autre chose, faites-le moi savoir !
+chatFunctions_examples_polls_userMessage: 'Salut @HokkiAI, peux-tu s''il te plaît créer un
+  sondage avec les options suivantes : "Option 1", "Option 2", "Option 3" ?'
+chatFunctions_examples_polls_creating: Création du sondage...
+chatFunctions_examples_polls_success: Le sondage a été créé avec succès.
+chatFunctions_examples_polls_doneMessage: Terminé ! J'ai créé le sondage. Si vous avez besoin d'autre chose, faites-le moi savoir !
+chatFunctions_examples_polls_poll_title: Sondage
+chatFunctions_examples_polls_poll_subtitle: Sélectionnez une réponse
+chatFunctions_examples_polls_poll_option1: Option 1
+chatFunctions_examples_polls_poll_option2: Option 2
+chatFunctions_examples_polls_poll_option3: Option 3
+chatFunctions_examples_polls_poll_votes: 0 votes
+chatFunctions_examples_polls_poll_timeLeft: 27m restantes
+chatFunctions_examples_polls_poll_showResults: Afficher les résultats
+chatFunctions_examples_polls_poll_vote: Voter
+chatFunctions_examples_createThreads_userMessage: Salut @HokkiAI, peux-tu s'il te plaît
+  créer un fil dans ce canal nommé "Fil de discussion" ?
+chatFunctions_examples_createThreads_creating: Création du fil "Fil de discussion"...
+chatFunctions_examples_createThreads_success: Le fil "Fil de discussion" a été créé avec succès.
+chatFunctions_examples_createThreads_doneMessage: Terminé ! J'ai créé le fil "Fil de
+  discussion". Si vous avez besoin d'autre chose, faites-le moi savoir !
+chatFunctions_examples_sendEmbeds_userMessage: Salut @HokkiAI, peux-tu s'il te plaît envoyer
+  un message intégré dans ce canal avec le titre "Bienvenue" et la description
+  "Bienvenue sur le serveur !" ?
+chatFunctions_examples_sendEmbeds_sending: Envoi du message intégré...
+chatFunctions_examples_sendEmbeds_embed_title: Bienvenue
+chatFunctions_examples_sendEmbeds_embed_desc: Bienvenue sur le serveur !
+editor_editMode: Mode édition
+editor_separatorSpacingSize: Taille de l'espacement du séparateur
+editor_separatorSpacingSize_small: Petit
+editor_separatorSpacingSize_large: Grand
+editor_showLine: Afficher la ligne
+editor_color: Couleur
+reactionRoles: Rôles de réaction
+reactionRoles__desc: Vous aide à créer un message où les utilisateurs peuvent
+  réagir pour ajouter ou supprimer des rôles pour eux-mêmes.
+statisticsChannels: Canaux de statistiques
+statisticsChannels__desc: Affichez les statistiques de votre serveur directement dans
+  la barre latérale des canaux et restez à jour.
+letsGo: Allons-y
+reactionRoles_desc: Permet à vos utilisateurs de s'attribuer des rôles par le biais de réactions à un message.
+joinRoles_desc: Attribue automatiquement des rôles aux utilisateurs et aux bots lorsqu'ils rejoignent votre serveur.
 # 2025 - Shard Team

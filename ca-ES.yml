@@ -613,4 +613,229 @@ buttonVariants_secondary: "Gris"
 buttonVariants_destructive: "Vermell"
 buttonVariants_success: "Verd"
 
+# ---
+landing_moderationSection_desc: "Interessat en la moderació? <b style='font-weight: 600!important;'>Tenim un munt de funcions més que t'encantaran.</b>"
+ticketPanelConfigTexts_var_answerToTheQuestion: Resposta a la pregunta "%s".
+ticketPanelConfigTexts_var_ticketauthor_mention: Una menció a l'autor del tiquet.
+ticketPanelConfigTexts_var_tickettype_description: La descripció del tipus de tiquet.
+ticketPanelConfigTexts_conf_publishMessage: Publicar missatge
+ticketPanelConfigTexts_conf_general: General
+ticketPanelConfigTexts_conf_ticketTypes: Tipus de tiquets
+ticketPanelConfigTexts_conf_ticketCreationChannel: Canal de creació de tiquets
+ticketPanelConfigTexts_conf_ticketCreationMessage: Missatge de creació de tiquets
+ticketPanelConfigTexts_conf_ticketCreationMessage_showManagementButtons: Mostrar botons de gestió
+ticketPanelConfigTexts_conf_ticketCreationMessage_showManagementButtons_desc:
+  Si es mostren els botons de gestió de tiquets (Reclamar, Tancar, etc.) al
+  missatge de creació del tiquet.
+ticketPanelConfigTexts_conf_waitlist: Llista d'espera
+ticketPanelConfigTexts_conf_waitlist_desc: Si el nombre de tiquets oberts està
+  en aquest número o per sobre, els nous tiquets es posaran en una llista
+  d'espera en lloc de crear-se immediatament. Estableix-ho a 0 per desactivar.
+ticketPanelConfigTexts_conf_ticketChannelName: Nom del canal de tiquets
+ticketPanelConfigTexts_conf_ticketChannelNameDesc: Com es nomenaran els nous tiquets
+ticketPanelConfigTexts_conf_ticketTranscripts: Transcripcions de tiquets
+ticketPanelConfigTexts_conf_ticketTranscripts_enable: Activar transcripcions
+ticketPanelConfigTexts_conf_ticketTranscripts_sendToCreator: Enviar transcripcions al creador del tiquet
+ticketPanelConfigTexts_conf_ticketTranscripts_sendToCreator_desc: Si s'han d'enviar les transcripcions del tiquet al creador del tiquet per MD.
+ticketPanelConfigTexts_conf_ticketTranscripts_logsChannel: Canal de registres
+ticketPanelConfigTexts_conf_ticketTranscripts_logsChannel_desc: Un canal on es registraran les transcripcions dels tiquets.
+ticketPanelConfigTexts_conf_ticketTypes_buttons: Botons
+ticketPanelConfigTexts_conf_ticketTypes_dropdown: Menú desplegable
+ticketPanelConfigTexts_conf_ticketTypes_dropdownPlaceholder: Marcador de posició del menú desplegable
+ticketPanelConfigTexts_conf_ticketTypes_dropdownPlaceholder_placeholder: Escriu aquí un marcador de posició per al menú desplegable.
+ticketPanelConfigTexts_conf_ticketTypes_dropdownOptions: Opcions del menú desplegable
+ticketPanelConfigTexts_conf_ticketTypes_item_optionTitle_placeholder: Títol de l'opció
+ticketPanelConfigTexts_conf_ticketTypes_item_optionDesc_placeholder: Descripció de l'opció
+ticketPanelConfigTexts_conf_ticketTypes_item_delete: Eliminar
+ticketPanelConfigTexts_conf_ticketTypes_item_otherOptions: Altres opcions
+ticketPanelConfigTexts_conf_ticketTypes_item_createCategory: Crear categoria
+ticketPanelConfigTexts_conf_ticketTypes_item_createCategory_desc: Categoria on es crearan els tiquets d'aquest tipus.
+ticketPanelConfigTexts_conf_ticketTypes_item_claimedCategory: Categoria reclamada
+ticketPanelConfigTexts_conf_ticketTypes_item_claimedCategory_desc: Categoria on es mouran els tiquets d'aquest tipus quan algú els reclami.
+ticketPanelConfigTexts_conf_ticketTypes_item_closedCategory: Categoria tancada
+ticketPanelConfigTexts_conf_ticketTypes_item_closedCategory_desc: Categoria on es mouran els tiquets d'aquest tipus quan algú els tanqui.
+ticketPanelConfigTexts_conf_ticketTypes_itemName: Nova opció
+ticketPanelConfigTexts_conf_ticketTypes_itemDesc: Descriu aquest tipus de tiquet
+ticketPanelConfigTexts_commands_addDesc: Afegir un usuari a un tiquet
+ticketPanelConfigTexts_commands_removeDesc: Eliminar un usuari d'un tiquet
+ticketPanelConfigTexts_commands_infoDesc: Obtenir informació sobre un tiquet
+ticketPanelConfigTexts_conf_previousQuestions: Preguntes prèvies
+ticketPanelConfigTexts_conf_previousQuestions_disabled: (DESACTIVAT)
+ticketPanelConfigTexts_conf_previousQuestions_enable: Activar preguntes prèvies
+ticketPanelConfigTexts_conf_previousQuestions_questions: Preguntes
+ticketPanelConfigTexts_conf_previousQuestions_clickToEdit: Fes clic per editar la pregunta
+ticketPanelConfigTexts_conf_previousQuestions_label_label: Etiqueta
+ticketPanelConfigTexts_conf_previousQuestions_label_newQuestion: Nova pregunta
+ticketPanelConfigTexts_conf_previousQuestions_label_newQuestionDesc: Una nova pregunta
+ticketPanelConfigTexts_conf_previousQuestions_label_desc: L'etiqueta de la pregunta que es mostrarà a l'usuari
+ticketPanelConfigTexts_conf_previousQuestions_label_placeholder: P. ex. Quina és la teva edat?
+ticketPanelConfigTexts_conf_previousQuestions_placeholder_label: Marcador de posició
+ticketPanelConfigTexts_conf_previousQuestions_placeholder_desc: El marcador de posició que es mostrarà quan l'usuari encara no hagi respost
+ticketPanelConfigTexts_conf_previousQuestions_placeholder_placeholder: P. ex. Escriu la teva resposta aquí...
+ticketPanelConfigTexts_conf_previousQuestions_type_label: Tipus
+ticketPanelConfigTexts_conf_previousQuestions_type_desc: El tipus del camp d'entrada
+ticketPanelConfigTexts_conf_previousQuestions_type_shortAnswer: Resposta curta
+ticketPanelConfigTexts_conf_previousQuestions_type_longAnswer: Resposta llarga
+ticketPanelConfigTexts_conf_previousQuestions_required_label: Obligatori
+ticketPanelConfigTexts_betaWarning: Aquesta funció està en BETA. Si trobes algun problema, si us plau informa'n al nostre
+ticketPanelConfigTexts_betaWarning_reportThem: servidor de suport
+ticketPanelConfigTexts_conf_variables: Variables
+ticketPanelConfigTexts_conf_option_title_placeholder: Títol de l'opció
+ticketPanelConfigTexts_conf_option_untitledCategory: Categoria sense títol
+ticketPanelConfigTexts_conf_option_noDescription: No s'ha proporcionat cap descripció.
+ticketPanelConfigTexts_conf_option_newQuestion_label: Nova pregunta
+ticketPanelConfigTexts_conf_option_newQuestion_placeholder: Escriu la teva resposta aquí
+ticketPanelConfigTexts_conf_transcripts_title: Transcripcions
+ticketPanelConfigTexts_conf_transcripts_description: Visualitza i gestiona les teves transcripcions de tiquets.
+ticketPanelConfigTexts_tutorial_step1_title: Comença a rebre entrades
+ticketPanelConfigTexts_tutorial_step1_desc: Un panell de tiquets és un missatge des d'on els teus membres poden obrir tiquets.
+ticketPanelConfigTexts_tutorial_step2_title: Mantén-te organitzat amb categories
+ticketPanelConfigTexts_tutorial_step2_desc: Pots definir categories de tiquets personalitzades per mantenir les coses ordenades.
+ticketPanelConfigTexts_tutorial_step3_title: Fes algunes preguntes amb antelació
+ticketPanelConfigTexts_tutorial_step3_desc: Pots configurar un formulari que els usuaris hauran d'omplir abans d'obrir un tiquet.
+ticketPanelConfigTexts_tutorial_step4_title: No lidis amb milers de tiquets
+ticketPanelConfigTexts_tutorial_step4_desc: Pots configurar una llista d'espera
+  que s'activarà quan el teu servidor tingui massa tiquets oberts.
+ticketPanelConfigTexts_tutorial_step5_title: Transcripcions gratuïtes, per sempre
+ticketPanelConfigTexts_tutorial_step5_desc: Quan es tanca un tiquet, tots els
+  missatges es guardaran en una transcripció a la qual es pot accedir més tard a
+  la pestanya de transcripcions.
+ticketPanelConfigTexts_untitledPanel: Panell sense títol
+ticketPanelConfigTexts_defaultPanelName: Nou panell de tiquets
+ticketPanelConfigTexts_default_component1: Com et podem ajudar?
+ticketPanelConfigTexts_default_component2: Benvingut al nostre canal de tiquets.
+  Si tens alguna pregunta o necessites assistència, si us plau fes clic al botó
+  'Obrir tiquet' a continuació per contactar amb el personal!
+ticketPanelConfigTexts_default_component3: Obrir tiquet
+ticketPanelConfigTexts_default_component4: Obrir un nou tiquet
+ticketPanelConfigTexts_default_component5: Tiquet
+ticketPanelConfigTexts_default_component6: El teu tiquet ja està obert. Un membre del personal estarà amb tu en breu per ajudar-te.
+ticketPanelConfigTexts_transcripts: Transcripcions
+ticketPanelConfigTexts_transcripts_noTranscripts: No s'han trobat transcripcions
+ticketPanelConfigTexts_success1: Missatge del panell publicat!
+ticketPanelConfigTexts_err1: "No es pot publicar: S'han trobat noms de tipus de tiquet duplicats"
+ticketPanelConfigTexts_err1_title: No es poden tenir noms de tipus de tiquet duplicats
+ticketPanelConfigTexts_err1_desc: Cada tipus de tiquet ha de tenir un nom únic.
+  Si us plau, canvia el nom dels tipus de tiquet duplicats abans de publicar.
+ticketPanelConfigTexts_err2: Error en publicar el missatge del panell.
+ticketPanelConfigTexts_commands_assignDesc: Assigna un tiquet a un membre del personal
+ticketPanelConfigTexts_commands_statsDesc: Mostra les teves estadístiques (o les d'un usuari) del complement de tiquets.
+homepage_ManageSubscription: Gestiona la teva subscripció
+homepage_daily: Diari
+homepage_monthly: Mensual
+premium_belongsTo: La subscripció pertany a
+premium_planBenefits: Beneficis del pla
+premium_manageYourSubscription: Gestionar subscripció
+premium_nextBilling: Següent facturació
+premium_err1: No ets el propietari d'aquesta subscripció
+premium_billingHistory: Historial de facturació
+messages_add: Afegir
+messages_addWithoutEditing: Afegir sense editar
+messages_element: "element %s"
+messages_elements: "elements %s"
+voice_Alloy: Suau i constant
+voice_Ash: Calmat i relaxant
+voice_Ballad: Curiosa i melòdica
+voice_Cedar: Relaxada i segura
+voice_Coral: Brillant i amigable
+voice_Echo: Amigable i suau
+voice_Fable: Gentil i calmat
+voice_Marin: Lleugera i accessible
+voice_Nova: Nítida i clara
+voice_Onyx: Profunda i constant
+voice_Sage: Sàvia i serena
+voice_Shimmer: Suau i constant
+commandPalette_searchPlaceholder: Cerca pàgines...
+commandPalette_searchButton: Cerca pàgines...
+commandPalette_noResults: No s'han trobat resultats
+commandPalette_navigate: Navegar
+commandPalette_select: Seleccionar
+commandPalette_close: Tancar
+chatFunctions_pageDescription: "Quan parles amb la IA, pot utilitzar funcions
+  especials per millorar la conversa i fer el que demanes (com crear canals,
+  gestionar rols, etc.). Aquestes són totes les funcions que la IA pot fer per tu
+  al teu servidor:"
+chatFunctions_userRequiredPermissions_label: "Permisos requerits de l'usuari:"
+chatFunctions_userRequiredPermissions_tooltip: Si un usuari demana a Hokki que
+  executi aquesta funció i l'usuari no té aquests permisos, Hokki no li permetrà
+  fer-ho.
+chatFunctions_examples_banUser_userMessage: Hola @HokkiAI, pots si us plau prohibir l'usuari "zNikto"?
+chatFunctions_examples_banUser_searching: Cercant l'usuari "zNikto"...
+chatFunctions_examples_banUser_banning: Prohibint l'usuari "zNikto"...
+chatFunctions_examples_banUser_success: L'usuari "zNikto" ha estat prohibit correctament.
+chatFunctions_examples_banUser_doneMessage: Fet! He prohibit l'usuari "zNikto"
+  del servidor. Si necessites alguna cosa més, només fes-m'ho saber!
+chatFunctions_examples_kickUser_userMessage: Hola @HokkiAI, pots si us plau expulsar l'usuari "zNikto"?
+chatFunctions_examples_kickUser_searching: Cercant l'usuari "zNikto"...
+chatFunctions_examples_kickUser_kicking: Expulsant l'usuari "zNikto"...
+chatFunctions_examples_kickUser_success: L'usuari "zNikto" ha estat expulsat correctament.
+chatFunctions_examples_kickUser_doneMessage: Fet! He expulsat l'usuari "zNikto"
+  del servidor. Si necessites alguna cosa més, només fes-m'ho saber!
+chatFunctions_examples_updateChannels_userMessage: Hola @HokkiAI, pots si us plau crear 4 canals sobre Gaming?
+chatFunctions_examples_updateChannels_apply: Aplicar
+chatFunctions_examples_updateChannels_deny: Denegar
+chatFunctions_examples_bulkDelete_userMessage: "Hola @HokkiAI, pots si us plau eliminar els últims 10 missatges a #general?"
+chatFunctions_examples_bulkDelete_clearing: Netejant missatges...
+chatFunctions_examples_bulkDelete_success: Alguns missatges netejats.
+chatFunctions_examples_bulkDelete_doneMessage: "Fet! He eliminat els últims 10
+  missatges a #general. Si necessites alguna cosa més, només fes-m'ho saber!"
+chatFunctions_examples_editRoles_userMessage: Hola @HokkiAI, pots si us plau donar el rol de "Membre" a "zNikto"?
+chatFunctions_examples_editRoles_searching: Cercant l'usuari "zNikto"...
+chatFunctions_examples_editRoles_assigning: Assignant el rol "Membre" a l'usuari "zNikto"...
+chatFunctions_examples_editRoles_success: El rol "Membre" ha estat assignat a l'usuari "zNikto" correctament.
+chatFunctions_examples_editRoles_doneMessage: Fet! He donat el rol de "Membre" a
+  "zNikto". Si necessites alguna cosa més, només fes-m'ho saber!
+chatFunctions_examples_muteChats_userMessage: Hola @HokkiAI, pots si us plau silenciar aquest canal?
+chatFunctions_examples_muteChats_muting: Silenciant el canal...
+chatFunctions_examples_muteChats_success: El canal ha estat silenciat correctament.
+chatFunctions_examples_muteChats_doneMessage: Fet! He silenciat aquest canal. Si necessites alguna cosa més, només fes-m'ho saber!
+chatFunctions_examples_muteChats_embed_title: Canal silenciat
+chatFunctions_examples_muteChats_embed_desc: Un administrador ha silenciat aquest
+  canal. Els usuaris no podran enviar missatges.
+chatFunctions_examples_changeNickname_userMessage: Hola @HokkiAI, pots si us plau canviar el meu sobrenom a "ProGamer"?
+chatFunctions_examples_changeNickname_changing: Canviant el teu sobrenom a "ProGamer"...
+chatFunctions_examples_changeNickname_success: El teu sobrenom ha estat canviat a "ProGamer" correctament.
+chatFunctions_examples_changeNickname_doneMessage: Fet! He canviat el teu sobrenom
+  a "ProGamer". Si necessites alguna cosa més, només fes-m'ho saber!
+chatFunctions_examples_polls_userMessage: 'Hola @HokkiAI, pots si us plau crear una
+  enquesta amb les següents opcions: "Opció 1", "Opció 2", "Opció 3"?'
+chatFunctions_examples_polls_creating: Creant enquesta...
+chatFunctions_examples_polls_success: L'enquesta ha estat creada correctament.
+chatFunctions_examples_polls_doneMessage: Fet! He creat l'enquesta. Si necessites alguna cosa més, només fes-m'ho saber!
+chatFunctions_examples_polls_poll_title: Enquesta
+chatFunctions_examples_polls_poll_subtitle: Selecciona una resposta
+chatFunctions_examples_polls_poll_option1: Opció 1
+chatFunctions_examples_polls_poll_option2: Opció 2
+chatFunctions_examples_polls_poll_option3: Opció 3
+chatFunctions_examples_polls_poll_votes: 0 vots
+chatFunctions_examples_polls_poll_timeLeft: Queden 27m
+chatFunctions_examples_polls_poll_showResults: Mostrar resultats
+chatFunctions_examples_polls_poll_vote: Votar
+chatFunctions_examples_createThreads_userMessage: Hola @HokkiAI, pots si us plau
+  crear un fil en aquest canal anomenat "Fil de discussió"?
+chatFunctions_examples_createThreads_creating: Creant fil "Fil de discussió"...
+chatFunctions_examples_createThreads_success: El fil "Fil de discussió" ha estat creat correctament.
+chatFunctions_examples_createThreads_doneMessage: Fet! He creat el fil "Fil de
+  discussió". Si necessites alguna cosa més, només fes-m'ho saber!
+chatFunctions_examples_sendEmbeds_userMessage: Hola @HokkiAI, pots si us plau enviar
+  un missatge incrustat en aquest canal amb el títol "Benvingut" i la descripció
+  "Benvingut al servidor!"?
+chatFunctions_examples_sendEmbeds_sending: Enviant missatge incrustat...
+chatFunctions_examples_sendEmbeds_embed_title: Benvingut
+chatFunctions_examples_sendEmbeds_embed_desc: Benvingut al servidor!
+editor_editMode: Mode d'edició
+editor_separatorSpacingSize: Mida de l'espaiat del separador
+editor_separatorSpacingSize_small: Petit
+editor_separatorSpacingSize_large: Gran
+editor_showLine: Mostrar línia
+editor_color: Color
+reactionRoles: Rols de reacció
+reactionRoles__desc: T'ajuda a crear un missatge on els usuaris poden reaccionar
+  per afegir o eliminar rols per a ells mateixos.
+statisticsChannels: Canals d'estadístiques
+statisticsChannels__desc: Mostra les estadístiques del teu servidor directament a
+  la barra lateral del canal i mantén-te al dia.
+letsGo: Anem-hi
+reactionRoles_desc: Permet als teus usuaris assignar-se rols a si mateixos mitjançant reaccions a un missatge.
+joinRoles_desc: Assigna automàticament rols als usuaris i bots quan s'uneixen al teu servidor.
 # 2025 - Shard Team
