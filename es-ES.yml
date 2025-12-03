@@ -857,6 +857,6 @@ ticketPanelConfigTexts_default_component6: Tu ticket ha sido creado. El personal
 letsGo: Vamos
 
 reactionRoles_desc: "Permite a tus usuarios asignarse roles a través de las reacciones de un mensaje."
-joinRoles_desc: "Permite a tus usuarios asignarse roles a través de las reacciones de un mensaje."
+joinRoles_desc: "Asigna roles automáticamente a los usuarios y bots cuando se unen a tu servidor."
 
 # 2025 - Shard Team
