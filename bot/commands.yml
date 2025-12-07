@@ -314,4 +314,203 @@ ticket:
             en-US: "View stats for specific user (optional)"
             es-ES: "Ver estadísticas para un usuario específico (opcional)"
             es-419: "Ver estadísticas para un usuario específico (opcional)"
+# /mod - conditional command
+mod:
+  description:
+    en-US: "Moderation commands for managing your server."
+    es-ES: "Comandos de moderación para gestionar tu servidor."
+    es-419: "Comandos de moderación para gestionar tu servidor."
+  subcommands:
+    # /mod ban - command
+    ban:
+      description:
+        en-US: "Ban a user from the server."
+        es-ES: "Banea a un usuario del servidor."
+        es-419: "Banea a un usuario del servidor."
+      options:
+        user:
+          description:
+            en-US: "The user you want to ban."
+            es-ES: "El usuario que quieres banear."
+            es-419: "El usuario que quieres banear."
+        reason:
+          description:
+            en-US: "The reason for banning the user."
+            es-ES: "La razón para banear al usuario."
+            es-419: "La razón para banear al usuario."
+    # /mod unban - command
+    unban:
+      description:
+        en-US: "Unban a user from the server."
+        es-ES: "Desbanea a un usuario del servidor."
+        es-419: "Desbanea a un usuario del servidor."
+      options:
+        username:
+          description:
+            en-US: "The username or ID of the user you want to unban."
+            es-ES: "El nombre de usuario o ID del usuario que quieres desbanear."
+            es-419: "El nombre de usuario o ID del usuario que quieres desbanear."
+    # /mod timeout - command
+    timeout:
+      description:
+        en-US: "Timeout (mute) a user for a specific time."
+        es-ES: "Mutea a un usuario por un tiempo específico."
+        es-419: "Mutea a un usuario por un tiempo específico."
+      options:
+        user:
+          description:
+            en-US: "The user you want to timeout."
+            es-ES: "El usuario que quieres mutear."
+            es-419: "El usuario que quieres mutear."
+        time:
+          description:
+            en-US: "How long you want to timeout the user."
+            es-ES: "Por cuánto tiempo quieres mutear al usuario."
+            es-419: "Por cuánto tiempo quieres mutear al usuario."
+    # /mod clear - command
+    clear:
+      description:
+        en-US: "Delete multiple messages from a channel."
+        es-ES: "Elimina múltiples mensajes de un canal."
+        es-419: "Elimina múltiples mensajes de un canal."
+      options:
+        messages:
+          description:
+            en-US: "The number of messages you want to delete. (1-1000)"
+            es-ES: "El número de mensajes que quieres eliminar. (1-1000)"
+            es-419: "El número de mensajes que quieres eliminar. (1-1000)"
+        channel:
+          description:
+            en-US: "The channel from where you want to delete the messages."
+            es-ES: "El canal del que quieres eliminar los mensajes."
+            es-419: "El canal del que quieres eliminar los mensajes."
+        filter_user:
+          description:
+            en-US: "Delete only messages from this user."
+            es-ES: "Eliminar solo mensajes de este usuario."
+            es-419: "Eliminar solo mensajes de este usuario."
+        filter_text:
+          description:
+            en-US: "Delete only messages that contain this text."
+            es-ES: "Eliminar solo mensajes que contengan este texto."
+            es-419: "Eliminar solo mensajes que contengan este texto."
+    # /mod channel - commands
+    channel:
+      description:
+        en-US: "Manage channel permissions."
+        es-ES: "Gestiona los permisos del canal."
+        es-419: "Gestiona los permisos del canal."
+      subcommands:
+        # /mod channel lock - command
+        lock:
+          description:
+            en-US: "Lock (mute) a channel."
+            es-ES: "Bloquea (mutea) un canal."
+            es-419: "Bloquea (mutea) un canal."
+          options:
+            channel:
+              description:
+                en-US: "The channel you want to lock."
+                es-ES: "El canal que quieres bloquear."
+                es-419: "El canal que quieres bloquear."
+        # /mod channel unlock - command
+        unlock:
+          description:
+            en-US: "Unlock (unmute) a channel."
+            es-ES: "Desbloquea (desmutea) un canal."
+            es-419: "Desbloquea (desmutea) un canal."
+          options:
+            channel:
+              description:
+                en-US: "The channel you want to unlock."
+                es-ES: "El canal que quieres desbloquear."
+                es-419: "El canal que quieres desbloquear."
+  responses:
+    notEnabled:
+      en-US: "The moderation module is not enabled on this server."
+      es-ES: "El módulo de moderación no está activado en este servidor."
+      es-419: "El módulo de moderación no está activado en este servidor."
+    ban:
+      success:
+        en-US: "User banned"
+        es-ES: "Usuario baneado"
+        es-419: "Usuario baneado"
+      successDescription:
+        en-US: "You just banned <@{userId}>{reason}."
+        es-ES: "Acabas de banear a <@{userId}>{reason}."
+        es-419: "Acabas de banear a <@{userId}>{reason}."
+      error:
+        en-US: "Error while banning user"
+        es-ES: "Error al banear al usuario"
+        es-419: "Error al banear al usuario"
+    unban:
+      success:
+        en-US: "User unbanned"
+        es-ES: "Usuario desbaneado"
+        es-419: "Usuario desbaneado"
+      successDescription:
+        en-US: "You just unbanned **{userTag}**."
+        es-ES: "Acabas de desbanear a **{userTag}**."
+        es-419: "Acabas de desbanear a **{userTag}**."
+      notFound:
+        en-US: "Could not find user"
+        es-ES: "No se pudo encontrar al usuario"
+        es-419: "No se pudo encontrar al usuario"
+      error:
+        en-US: "Error while unbanning user"
+        es-ES: "Error al desbanear al usuario"
+        es-419: "Error al desbanear al usuario"
+    timeout:
+      success:
+        en-US: "User muted"
+        es-ES: "Usuario muteado"
+        es-419: "Usuario muteado"
+      successDescription:
+        en-US: "You just muted <@{userId}> for `{time}`."
+        es-ES: "Acabas de mutear a <@{userId}> por `{time}`."
+        es-419: "Acabas de mutear a <@{userId}> por `{time}`."
+      error:
+        en-US: "Error while muting user"
+        es-ES: "Error al mutear al usuario"
+        es-419: "Error al mutear al usuario"
+    clear:
+      deleting:
+        en-US: "Deleting messages..."
+        es-ES: "Eliminando mensajes..."
+        es-419: "Eliminando mensajes..."
+      success:
+        en-US: "Messages cleared"
+        es-ES: "Mensajes eliminados"
+        es-419: "Mensajes eliminados"
+      successDescription:
+        en-US: "We have deleted `{count}` messages."
+        es-ES: "Hemos eliminado `{count}` mensajes."
+        es-419: "Hemos eliminado `{count}` mensajes."
+    channel:
+      lock:
+        success:
+          en-US: "Channel locked"
+          es-ES: "Canal bloqueado"
+          es-419: "Canal bloqueado"
+        successDescription:
+          en-US: "You just locked {channelMention}."
+          es-ES: "Acabas de bloquear {channelMention}."
+          es-419: "Acabas de bloquear {channelMention}."
+        publicMessage:
+          en-US: ":lock: Channel locked\nAn administrator just locked this channel."
+          es-ES: ":lock: Canal bloqueado\nUn administrador acaba de bloquear este canal."
+          es-419: ":lock: Canal bloqueado\nUn administrador acaba de bloquear este canal."
+      unlock:
+        success:
+          en-US: "Channel unlocked"
+          es-ES: "Canal desbloqueado"
+          es-419: "Canal desbloqueado"
+        successDescription:
+          en-US: "You just unlocked {channelMention}."
+          es-ES: "Acabas de desbloquear {channelMention}."
+          es-419: "Acabas de desbloquear {channelMention}."
+        publicMessage:
+          en-US: ":unlock: Channel unlocked\nAn administrator just unlocked this channel."
+          es-ES: ":unlock: Canal desbloqueado\nUn administrador acaba de desbloquear este canal."
+          es-419: ":unlock: Canal desbloqueado\nUn administrador acaba de desbloquear este canal."
 # -- SOME OTHER COMMANDS ARE ABOUT TO BE ADDED --
