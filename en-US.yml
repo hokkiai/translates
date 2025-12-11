@@ -845,6 +845,33 @@ letsGo: "Lets go"
 
 reactionRoles_desc: "Allows your users to assign roles to themselves through reactions on a message."
 joinRoles_desc: "Automatically assign roles to users and bots when they join your server."
+#
 noMessages: "There are no messages yet."
 noReactionRoles: "There are no reaction roles yet."
+
+reactionRolesLength_singular: "1 reaction role"
+reactionRolesLength_plural: "%s reaction roles"
+reactionRolesLength_part2_singular: "across 1 message"
+reactionRolesLength_part2_plural: "across %s messages"
+
+newReactionRole: "New reaction role"
+newReactionRole_step1_introductiontext1: "Let's get started by selecting a message."
+newReactionRole_step1_introductiontext2: "Did you already sent a message to apply reaction roles on or should Hokki create a new one for you?"
+newReactionRole_step1_useExistingMessage: "Use existing message" # 2.1
+newReactionRole_step1_createNewMessage: "Create new message" # create new message step choice does not require any text
+
+newReactionRole_step2.1_title: "Paste the message link"
+newReactionRole_step2.1_subtitle: "Simply right click the message you want to use and select \"Copy Message Link\"."
+newReactionRole_step2.1_validating: "Validating message link..."
+newReactionRole_step2.1_valid: "Message link is valid!"
+newReactionRole_step2.1_invalid: "Invalid message link. Make sure the bot has access to the channel where the message is located."
+next: "Next"
+
+newReactionRole_step3_title: "Choose an emoji"
+newReactionRole_step3_subtitle: "Select the emoji that users will react with to get the roles."
+
+newReactionRole_step4_title: "Select roles"
+newReactionRole_step4_subtitle: "Choose which roles users will get when they react with"
+newReactionRole_adding: "Adding..."
+newReactionRole_add: "Add Reaction Role"
 # 2025 - Shard Team
