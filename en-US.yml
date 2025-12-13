@@ -874,4 +874,15 @@ newReactionRole_step4_title: "Select roles"
 newReactionRole_step4_subtitle: "Choose which roles users will get when they react with"
 newReactionRole_adding: "Adding..."
 newReactionRole_add: "Add Reaction Role"
+
+users: "👤 Users"
+apps: "🤖 Apps"
+peakOnline: "📈 Peak online"
+onlineMembers: "🟢 Online members"
+textChannels: "💬 Text channels"
+voiceChannels: "🔊 Voice channels"
+totalChannels: "📂 Total channels"
+totalMembers: "📂 Total members"
+totalRoles: "📂 Total roles"
+
 # 2025 - Shard Team
