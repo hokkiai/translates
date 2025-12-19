@@ -893,13 +893,14 @@ customBranding__desc: "Make Hokki truly yours by adding your own profile picture
 
 # statistics channels
 
-statisticsChannels_basicCounters: "Basic counters"
-statisticsChannels_basicCountersDesc: "Count channels, members and roles for your server. You can only create %s basic counters, and only 1 by type."
-statisticsChannels_noCounters: "There are no counting channels yet"
 statisticsChannels_createNewCounter: "Create new counter"
+statisticsChannels_editCounter: "Edit counter"
 statisticsChannels_counterType: "Counter type"
-statisticsChannels_counterType_placeholder: "Select a counter type"
+statisticsChannels_counterType_placeholder: "Select a type"
 statisticsChannels_discordChannelName: "Discord channel name"
 statisticsChannels_createCounter: "Create counter"
-
+statisticsChannels_updateCounter: "Update counter"
+statisticsChannels_basicCounters: "Basic counters"
+statisticsChannels_basicCountersDesc: "Create voice channels that automatically update with server statistics. There are {var1} types available."
+statisticsChannels_noCounters: "No counters configured"
 # 2025 - Shard Team
