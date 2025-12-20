@@ -891,8 +891,10 @@ starboard__desc: "Let your community highlight the best messages by starring the
 customBranding: "Custom Branding"
 customBranding__desc: "Make Hokki truly yours by adding your own profile picture, bio, banner and more!"
 
-# statistics channels
+new: "NEW"
+premium_feature: "This is a premium feature."
 
+# statistics channels
 statisticsChannels_createNewCounter: "Create new counter"
 statisticsChannels_editCounter: "Edit counter"
 statisticsChannels_counterType: "Counter type"
@@ -901,6 +903,7 @@ statisticsChannels_discordChannelName: "Discord channel name"
 statisticsChannels_createCounter: "Create counter"
 statisticsChannels_updateCounter: "Update counter"
 statisticsChannels_basicCounters: "Basic counters"
-statisticsChannels_basicCountersDesc: "Create voice channels that automatically update with server statistics. There are {var1} types available."
+statisticsChannels_basicCountersDesc: "Create voice channels that automatically update with server statistics. There are %s types available."
 statisticsChannels_noCounters: "No counters configured"
+statisticsChannels_soon: "Coming soon: role counters, and more!"
 # 2025 - Shard Team
