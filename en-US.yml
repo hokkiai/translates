@@ -845,7 +845,6 @@ letsGo: "Lets go"
 
 reactionRoles_desc: "Allows your users to assign roles to themselves through reactions on a message."
 joinRoles_desc: "Automatically assign roles to users and bots when they join your server."
-#
 noMessages: "There are no messages yet."
 noReactionRoles: "There are no reaction roles yet."
 
@@ -894,7 +893,6 @@ customBranding__desc: "Make Hokki truly yours by adding your own profile picture
 new: "NEW"
 premium_feature: "This is a premium feature."
 
-# statistics channels
 statisticsChannels_createNewCounter: "Create new counter"
 statisticsChannels_editCounter: "Edit counter"
 statisticsChannels_counterType: "Counter type"

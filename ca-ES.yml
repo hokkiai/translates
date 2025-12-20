@@ -838,4 +838,55 @@ statisticsChannels__desc: Mostra les estadístiques del teu servidor directament
 letsGo: Anem-hi
 reactionRoles_desc: Permet als teus usuaris assignar-se rols a si mateixos mitjançant reaccions a un missatge.
 joinRoles_desc: Assigna automàticament rols als usuaris i bots quan s'uneixen al teu servidor.
+statisticsChannels: Canals d'Estadístiques
+statisticsChannels__desc: Mostra les estadístiques del teu servidor directament a la barra lateral de canals i mantén-te informat.
+noMessages: Encara no hi ha missatges.
+noReactionRoles: Encara no hi ha rols de reacció.
+reactionRolesLength_singular: 1 rol de reacció
+reactionRolesLength_plural: "%s rols de reacció"
+reactionRolesLength_part2_singular: en 1 missatge
+reactionRolesLength_part2_plural: en %s missatges
+newReactionRole: Nou rol de reacció
+newReactionRole_step1_introductiontext1: Comencem seleccionant un missatge.
+newReactionRole_step1_introductiontext2: Ja has enviat un missatge per aplicar rols de reacció o Hokki n'hauria de crear un de nou per a tu?
+newReactionRole_step1_useExistingMessage: Utilitzar missatge existent
+newReactionRole_step1_createNewMessage: Crear nou missatge
+newReactionRole_step2.1_title: Enganxa l'enllaç del missatge
+newReactionRole_step2.1_subtitle: Simplement fes clic dret al missatge que vols utilitzar i selecciona "Copiar enllaç del missatge".
+newReactionRole_step2.1_validating: Validant enllaç del missatge...
+newReactionRole_step2.1_valid: L'enllaç del missatge és vàlid!
+newReactionRole_step2.1_invalid: Enllaç de missatge no vàlid. Assegura't que el bot tingui accés al canal on es troba el missatge.
+next: Següent
+newReactionRole_step3_title: Tria un emoji
+newReactionRole_step3_subtitle: Selecciona l'emoji amb el qual els usuaris reaccionaran per obtenir els rols.
+newReactionRole_step4_title: Seleccionar rols
+newReactionRole_step4_subtitle: Tria quins rols obtindran els usuaris quan reaccionin amb
+newReactionRole_adding: Afegint...
+newReactionRole_add: Afegir Rol de Reacció
+users: 👤 Usuaris
+apps: 🤖 Aplicacions
+peakOnline: 📈 Pic de connectats
+onlineMembers: 🟢 Membres connectats
+textChannels: 💬 Canals de text
+voiceChannels: 🔊 Canals de veu
+totalChannels: 📂 Total de canals
+totalMembers: 📂 Total de membres
+totalRoles: 📂 Total de rols
+starboard: Tauler d'Estrelles
+starboard__desc: Deixa que la teva comunitat destaqui els millors missatges marcant-los amb estrelles!
+customBranding: Marca Personalitzada
+customBranding__desc: Fes que Hokki sigui realment teu afegint la teva pròpia foto de perfil, biografia, bàner i més!
+statisticsChannels_createNewCounter: Crear nou comptador
+statisticsChannels_editCounter: Editar comptador
+statisticsChannels_counterType: Tipus de comptador
+statisticsChannels_counterType_placeholder: Selecciona un tipus
+statisticsChannels_discordChannelName: Nom del canal de Discord
+statisticsChannels_createCounter: Crear comptador
+statisticsChannels_updateCounter: Actualitzar comptador
+statisticsChannels_basicCounters: Comptadors bàsics
+statisticsChannels_basicCountersDesc: "Crea canals de veu que s'actualitzin automàticament amb les estadístiques del servidor. Hi ha %s tipus disponibles."
+statisticsChannels_soon: "Properament: comptadors de rols, i més!"
+statisticsChannels_noCounters: No hi ha comptadors configurats
+new: "NOU"
+premium_feature: "Aquesta és una funció premium."
 # 2025 - Shard Team

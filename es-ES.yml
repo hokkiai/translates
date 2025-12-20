@@ -859,4 +859,55 @@ letsGo: Vamos
 reactionRoles_desc: "Permite a tus usuarios asignarse roles a través de las reacciones de un mensaje."
 joinRoles_desc: "Asigna roles automáticamente a los usuarios y bots cuando se unen a tu servidor."
 
+statisticsChannels: Canales de Estadísticas
+statisticsChannels__desc: Muestra las estadísticas de tu servidor directamente en la barra lateral de canales y mantente informado.
+noMessages: Aún no hay mensajes.
+noReactionRoles: Aún no hay roles de reacción.
+reactionRolesLength_singular: 1 rol de reacción
+reactionRolesLength_plural: "%s roles de reacción"
+reactionRolesLength_part2_singular: en 1 mensaje
+reactionRolesLength_part2_plural: en %s mensajes
+newReactionRole: Nuevo rol de reacción
+newReactionRole_step1_introductiontext1: Comencemos seleccionando un mensaje.
+newReactionRole_step1_introductiontext2: ¿Ya enviaste un mensaje para aplicar roles de reacción o Hokki debería crear uno nuevo para ti?
+newReactionRole_step1_useExistingMessage: Usar mensaje existente
+newReactionRole_step1_createNewMessage: Crear nuevo mensaje
+newReactionRole_step2.1_title: Pega el enlace del mensaje
+newReactionRole_step2.1_subtitle: Simplemente haz clic derecho en el mensaje que quieres usar y selecciona "Copiar enlace del mensaje".
+newReactionRole_step2.1_validating: Validando enlace del mensaje...
+newReactionRole_step2.1_valid: ¡El enlace del mensaje es válido!
+newReactionRole_step2.1_invalid: Enlace de mensaje inválido. Asegúrate de que el bot tenga acceso al canal donde se encuentra el mensaje.
+next: Siguiente
+newReactionRole_step3_title: Elige un emoji
+newReactionRole_step3_subtitle: Selecciona el emoji con el que los usuarios reaccionarán para obtener los roles.
+newReactionRole_step4_title: Seleccionar roles
+newReactionRole_step4_subtitle: Elige qué roles obtendrán los usuarios cuando reaccionen con
+newReactionRole_adding: Añadiendo...
+newReactionRole_add: Añadir Rol de Reacción
+users: 👤 Usuarios
+apps: 🤖 Aplicaciones
+peakOnline: 📈 Pico de conectados
+onlineMembers: 🟢 Miembros conectados
+textChannels: 💬 Canales de texto
+voiceChannels: 🔊 Canales de voz
+totalChannels: 📂 Total de canales
+totalMembers: 📂 Total de miembros
+totalRoles: 📂 Total de roles
+starboard: Tablón de Estrellas
+starboard__desc: ¡Deja que tu comunidad destaque los mejores mensajes marcándolos con estrellas!
+customBranding: Marca Personalizada
+customBranding__desc: ¡Haz que Hokki sea verdaderamente tuyo añadiendo tu propia foto de perfil, biografía, banner y más!
+statisticsChannels_createNewCounter: Crear nuevo contador
+statisticsChannels_editCounter: Editar contador
+statisticsChannels_counterType: Tipo de contador
+statisticsChannels_counterType_placeholder: Selecciona un tipo
+statisticsChannels_discordChannelName: Nombre del canal de Discord
+statisticsChannels_createCounter: Crear contador
+statisticsChannels_updateCounter: Actualizar contador
+statisticsChannels_basicCounters: Contadores básicos
+statisticsChannels_basicCountersDesc: "Crea canales de voz que se actualicen automáticamente con las estadísticas del servidor. Hay %s tipos disponibles."
+statisticsChannels_soon: "Próximamente: contadores de roles, ¡y más!"
+statisticsChannels_noCounters: No hay contadores configurados
+new: "NUEVO"
+premium_feature: "Esta es una función premium."
 # 2025 - Shard Team
