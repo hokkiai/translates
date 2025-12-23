@@ -904,4 +904,58 @@ statisticsChannels_basicCounters: "Basic counters"
 statisticsChannels_basicCountersDesc: "Create voice channels that automatically update with server statistics. There are %s types available."
 statisticsChannels_noCounters: "No counters configured"
 statisticsChannels_soon: "Coming soon: role counters, and more!"
+
+#
+extra-options: "Extra options"
+yes: "Yes"
+no: "No"
+
+# levels
+levels.xp-gain: "XP Gain"
+levels.xp-gain.desc: "Whenever a member sends a message in a text channel, they gain a certain amount of XP. The amount of XP gained per message can be configured here. You can also set cooldowns to prevent spam and define which channels or roles are excluded from gaining XP."
+levels.xp-gain.basic_settings: "Basic settings"
+levels.xp-gain.basic_settings.xp_per_message: "XP per message"
+levels.xp-gain.basic_settings.xp_per_message.desc: "Select the range of the random XP that members can gain per message. (<b>%s</b> - <b>%s</b>)"
+levels.xp-gain.basic_settings.cooldown: "Cooldown"
+levels.xp-gain.basic_settings.cooldown.desc: "Members must wait this many seconds before gaining XP again."
+levels.xp-gain.level_scaling: "Level scaling"
+levels.xp-gain.level_scaling.curve_type: "Curve Type"
+levels.xp-gain.level_scaling.curve_type.desc: "This will determine how much XP is required to level up as levels increase."
+levels.xp-gain.level_scaling.curve_type.placeholder: "Select curve type"
+levels.xp-gain.level_scaling.curve_type.types.Constant: "Constant"
+levels.xp-gain.level_scaling.curve_type.types.Linear: "Linear"
+levels.xp-gain.level_scaling.curve_type.types.Exponential: "Exponential"
+levels.xp-gain.level_scaling.curve_type.types.Quadratic: "Quadratic"
+levels.xp-gain.level_scaling.curve_type.types.Logarithmic: "Logarithmic"
+levels.xp-gain.level_scaling.curve_multiplier: "Curve Multiplier"
+levels.xp-gain.level_scaling.curve_multiplier.desc: "This will determine the overall difficulty of leveling up. A higher multiplier means more XP is required to level up."
+levels.xp-gain.level_scaling.preview: "Preview"
+levels.xp-gain.level_scaling.preview.table_col_name.Level: "Level"
+levels.xp-gain.level_scaling.preview.table_col_name.RequiredXP: "Required XP"
+
+levels.reward-roles: "Reward roles"
+levels.reward-roles.desc: "Automatically assign roles to users when they reach certain levels."
+levels.reward-roles.noRewardRoles: "No reward roles have been set yet."
+levels.reward-roles.table.col_name.Level: "Level"
+levels.reward-roles.table.col_name.Role: "Role"
+levels.reward-roles.table.col_name.Keep: "Keep"
+levels.reward-roles.table.roleNotFound: "Role not found"
+levels.reward-roles.add_role_modal.title: "Add Reward Role"
+levels.reward-roles.add_role_modal.level: "Level"
+levels.reward-roles.add_role_modal.level.desc: "Select the level at which the role will be awarded."
+levels.reward-roles.add_role_modal.role: "Role"
+levels.reward-roles.add_role_modal.role.desc: "Select the role to be awarded at the specified level."
+levels.reward-roles.add_role_modal.role.placeholder: "Select a role."
+levels.reward-roles.add_role_modal.keep: "Keep this role even when a higher role is obtained"
+levels.reward-roles.add_role_modal.finish: "Add Role"
+
+# soon
+levels.level-up-message: "Level-up message"
+
+levels.multipliers: "Multipliers"
+
+levels.leaderboard: "Leaderboard"
+
+levels.data: "Data"
+
 # 2025 - Shard Team
