@@ -488,14 +488,14 @@ landingv2_pricingSection_proPlan_check1: "Personnaliser la façon de parler de l
 landingv2_pricingSection_proPlan_check2: "Accès aux modèles d'IA avancés"
 landingv2_pricingSection_proPlan_check3: "Moins de limitations"
 landingv2_pricingSection_proPlan_cross4: "Branding personnalisé"
-landingv2_pricingSection_proPlan_disclaimer: "1000 messages IA / mois\\n\\nNote : Une fois la limite dépassée, des frais seront appliqués pour chaque message supplémentaire."
+landingv2_pricingSection_proPlan_disclaimer: "1000 messages IA / mois\\n0 générations d'images / mois"
 
 landingv2_pricingSection_ultraPlan_callToAction: "Obtenir Ultra"
 landingv2_pricingSection_ultraPlan_text: "Tout du plan pro, plus :"
 landingv2_pricingSection_ultraPlan_check1: "Messages illimités"
 landingv2_pricingSection_ultraPlan_check2: "Branding personnalisé (PAS DISPONIBLE ACTUELLEMENT)"
 landingv2_pricingSection_ultraPlan_check3: "Moins de limitations"
-landingv2_pricingSection_ultraPlan_disclaimer: "20 générations d'images / mois\\n\\nNote : Une fois la limite dépassée, des frais seront appliqués pour chaque message supplémentaire."
+landingv2_pricingSection_ultraPlan_disclaimer: "Illimité messages IA / mois\\n20 générations d'images / mois"
 
 landingv2_switchToHokkiSection_title: "Passez à Hokki"
 landingv2_switchToHokkiSection_subtitle: "Qu'attendez-vous ? Nous avons beaucoup à vous offrir."

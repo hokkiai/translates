@@ -487,14 +487,14 @@ landingv2_pricingSection_proPlan_check1: "Personalitzar la manera de parlar de l
 landingv2_pricingSection_proPlan_check2: "Accés a models avançats d'IA"
 landingv2_pricingSection_proPlan_check3: "Menys limitacions"
 landingv2_pricingSection_proPlan_cross4: "Marca personalitzada"
-landingv2_pricingSection_proPlan_disclaimer: "1000 missatges d'IA / mes\\n\\nNota: Un cop superat el límit, s'aplicaran càrrecs per cada missatge addicional."
+landingv2_pricingSection_proPlan_disclaimer: "1000 missatges d'IA / mes\\nNo inclou generacions d'imatges."
 
 landingv2_pricingSection_ultraPlan_callToAction: "Obtenir Ultra"
 landingv2_pricingSection_ultraPlan_text: "Tot del pla pro, més:"
 landingv2_pricingSection_ultraPlan_check1: "Missatges il·limitats"
 landingv2_pricingSection_ultraPlan_check2: "Marca personalitzada (NO DISPONIBLE ARA MATEIX)"
 landingv2_pricingSection_ultraPlan_check3: "Menys limitacions"
-landingv2_pricingSection_ultraPlan_disclaimer: "20 generacions d'imatges / mes\\n\\nNota: Un cop superat el límit, s'aplicaran càrrecs per cada missatge addicional."
+landingv2_pricingSection_ultraPlan_disclaimer: "Missatges ilimitats\\n20 generacions d'imatges / mes"
 
 landingv2_switchToHokkiSection_title: "Canvia a Hokki"
 landingv2_switchToHokkiSection_subtitle: "Què estàs esperant? Tenim molt a oferir-te."
