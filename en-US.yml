@@ -958,4 +958,36 @@ levels.leaderboard: "Leaderboard"
 
 levels.data: "Data"
 
+# new-tickets
+ticketPanelConfigTexts_conf_threads_archiveDuration_1hour: "1 hour"
+ticketPanelConfigTexts_conf_threads_archiveDuration_1day: "1 day (default)"
+ticketPanelConfigTexts_conf_threads_archiveDuration_3days: "3 days"
+ticketPanelConfigTexts_conf_threads_archiveDuration_7days: "1 week"
+ticketPanelConfigTexts_conf_threads: "Private Threads"
+ticketPanelConfigTexts_conf_threads_enable: "Create tickets as private threads"
+ticketPanelConfigTexts_conf_threads_enable_desc: "When enabled, tickets will be created as private threads within the publication channel instead of separate text channels in categories."
+ticketPanelConfigTexts_conf_threads_archiveDuration: "Thread Auto-Archive Duration"
+ticketPanelConfigTexts_conf_threads_archiveDuration_desc: "How long a thread should remain active before being automatically archived. This applies to inactive threads."
+
+# Link Moderation Page
+linkModeration: "Link Moderation"
+linkModeration_desc: "Block Discord invites and filter domains using AutoMod"
+linkModeration_footer: "Link moderation uses Discord's native AutoMod system. Rules are created and managed automatically by the bot. Blocked messages will not be posted to channels."
+
+# Discord Invite Blocker
+discordInviteBlocker: "Discord Invite Blocker"
+discordInviteBlocker_desc: "Automatically block Discord server invites"
+discordInviteBlocker_info: "All Discord invite links (discord.gg, discord.com/invite) will be blocked automatically using AutoMod rules."
+
+# Domain Filter
+domainFilter: "Domain Filter"
+domainFilter_desc: "Control which domains can be posted in your server"
+filterMode: "Filter Mode"
+whitelist: "Whitelist"
+blacklist: "Blacklist"
+whitelist_info: "Only allow links from specified domains. All other domains will be blocked."
+blacklist_info: "Block links from specified domains. All other domains will be allowed."
+domains: "Domains"
+examples: "Examples"
+
 # 2025 - Shard Team
