@@ -990,4 +990,7 @@ blacklist_info: "Block links from specified domains. All other domains will be a
 domains: "Domains"
 examples: "Examples"
 
+roadmap: "Hokki's Roadmap"
+roadmap_desc: "View our progress and upcoming features we are building for your server."
+
 # 2025 - Shard Team

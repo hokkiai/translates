@@ -910,4 +910,8 @@ statisticsChannels_soon: "Próximamente: contadores de roles, ¡y más!"
 statisticsChannels_noCounters: No hay contadores configurados
 new: "NUEVO"
 premium_feature: "Esta es una función premium."
+
+roadmap: "Hoja de ruta de Hokki"
+roadmap_desc: "Mira lo que estamos planeando para el futuro de Hokki."
+
 # 2025 - Shard Team
