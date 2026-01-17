@@ -999,6 +999,8 @@ notInSupportServer_c2: "Join now"
 areYouEnjoyingHokki: "Are you enjoying Hokki?"
 areYouEnjoyingHokki_desc: "If you like Hokki, please consider voting or giving us a 5-star rating at %s. It really helps us grow and reach more servers!"
 
+mainSettings: "Main settings"
+mainSettings__desc: "Change the main bot settings, such as command prefixes and similar options."
 
 
 # 2025 - Shard Team
