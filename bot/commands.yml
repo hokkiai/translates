@@ -1,3 +1,18 @@
+# /pixelify - command
+pixelify:
+  description:
+    en-US: "Convert any image into a pixelart."
+    es-ES: "Convierte cualquier imagen en un pixelart."
+    es-419: "Convierte cualquier imagen en un pixelart."
+  imageParam:
+    en-US: "The image you want to pixelify"
+    es-ES: "La imagen que quieres pixelar"
+    es-419: "La imagen que quieres pixelar"
+  styleParam:
+    en-US: "The style of the pixelart"
+    es-ES: "El estilo del pixelart"
+    es-419: "El estilo del pixelart"
+
 # /fun - commands
 fun:
   description:
