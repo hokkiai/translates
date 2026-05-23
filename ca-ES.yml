@@ -894,4 +894,134 @@ premium_feature: "Aquesta és una funció premium."
 roadmap_abbr: "Full de ruta"
 roadmap: "Full de ruta de Hokki"
 roadmap_desc: "Descobreix què estem preparant per a tu i el teu servidor."
+
+# new landing
+# Hero
+landingv2_hero_title: "L'Agent d'IA Autònom per a la teva Comunitat"
+landingv2_hero_announcement: "Hokki ara és Hokki Agent: l'assistent d'IA més intel·ligent de Discord"
+
+# Nav
+nav_features_soon: "Aviat..."
+nav_status_page: "Pàgina d'estat"
+
+# Footer
+footer_select_language: "Selecciona un idioma"
+
+# Moderation section
+landingv2_moderation_badge: "Moderació Autònoma"
+landingv2_moderation_title: "Hokki ho revisa tot. Sempre. Automàticament."
+landingv2_moderation_highlight: "Automàticament"
+landingv2_moderation_description: "Hokki analitza cada missatge del teu servidor 24/7 i actua a l'instant. Sense necessitat de comandaments."
+
+# Memory section
+landingv2_memory_badge: "Memòria"
+landingv2_memory_title: "Hokki ho recorda tot."
+landingv2_memory_description: "Hokki té memòria a llarg termini i entén la teva comunitat a través de canals, fils i el temps."
+
+# Integration section
+landingv2_integration_badge: "Integracions i accions"
+landingv2_integration_title1: "Un agent d'IA."
+landingv2_integration_title2: "Totes les eines."
+landingv2_integration_description: "Hokki es connecta amb les eines que ja fas servir i actua a tot el teu ecosistema."
+landingv2_integration_github_title: "GitHub i GitLab"
+landingv2_integration_github_desc: "Revisa PRs, crea issues i gestiona fluxos de desenvolupament."
+landingv2_integration_notion_title: "Notion i Jira"
+landingv2_integration_notion_desc: "Crea tasques, actualitza documents i mantén-ho tot sincronitzat."
+landingv2_integration_calendar_title: "Calendari i reunions"
+landingv2_integration_calendar_desc: "Programa esdeveniments, troba disponibilitat i envia recordatoris intel·ligents."
+landingv2_integration_custom_title: "APIs personalitzades"
+landingv2_integration_custom_desc: "Connecta Hokki a les teves pròpies APIs i automatitza qualsevol cosa."
+landingv2_integration_disclaimer: "Això és un concepte i encara no està disponible."
+
+# Voice section
+landingv2_voice_badge: "IA de veu"
+landingv2_voice_title: "IA que s'uneix a la conversa."
+landingv2_voice_description: "Hokki escolta, parla i entén en temps real. Converses naturals, resums automàtics i accions instantànies als canals de veu."
+
+# Community Intelligence section
+landingv2_communityIntelligence_badge: "Intel·ligència de comunitat"
+landingv2_communityIntelligence_title: "La teva comunitat, entesa per IA."
+landingv2_communityIntelligence_description: "Hokki analitza activitat, compromís, sentiment, converses, tendències i patrons de comportament per ajudar les comunitats a créixer més sanes i ràpid."
+landingv2_communityIntelligence_live: "Intel·ligència en viu - Actualitzada en temps real"
+
+# Switch to Hokki section
+landingv2_switchToHokki_title: "La propera generació de comunitats a internet."
+landingv2_switchToHokki_description: "Hokki està redefinint com les comunitats en línia es gestionen, moderen i experimenten a través d'IA."
+landingv2_switchToHokki_button: "Afegir Hokki a Discord"
+
+# Pricing features
+landingv2_pricingSection_off: "DESCOMPTE"
+landingv2_pricingSection_inDevelopment: "* EN DESENVOLUPAMENT"
+landingv2_pricingSection_hobby_chat: "Xat d'IA bàsic"
+landingv2_pricingSection_hobby_moderation: "Moderació bàsica"
+landingv2_pricingSection_hobby_memory: "Memòria limitada*"
+landingv2_pricingSection_hobby_actions: "Accions d'IA limitades"
+landingv2_pricingSection_hobby_voice: "Funcions bàsiques de veu*"
+landingv2_pricingSection_hobby_integrations: "Integracions estàndard*"
+landingv2_pricingSection_hobby_analytics: "Analítiques de comunitat*"
+landingv2_pricingSection_pro_imagegen: "Generació d'imatges simple*"
+landingv2_pricingSection_pro_models: "Models d'IA avançats*"
+landingv2_pricingSection_pro_moderation: "Moderació intel·ligent amb IA*"
+landingv2_pricingSection_pro_memory: "Memòria a llarg termini*"
+landingv2_pricingSection_pro_actions: "Accions d'IA il·limitades"
+landingv2_pricingSection_pro_voice: "Veu IA i transcripcions*"
+landingv2_pricingSection_pro_summaries: "Resums intel·ligents*"
+landingv2_pricingSection_pro_analytics: "Analítiques de comunitat avançades*"
+landingv2_pricingSection_ultra_imagegen: "Generació d'imatges avançada*"
+landingv2_pricingSection_ultra_agents: "Agents d'IA autònoms*"
+landingv2_pricingSection_ultra_workflows: "Fluxos multi-agent*"
+landingv2_pricingSection_ultra_moderation: "Moderació predictiva*"
+landingv2_pricingSection_ultra_voice: "Veu IA en temps real*"
+landingv2_pricingSection_ultra_memory: "Memòria profunda i intel·ligència*"
+landingv2_pricingSection_ultra_custom: "Eines i personalitats d'IA personalitzades*"
+
+# Moderation demo messages
+landingv2_moderation_demoMessage1: "Aquest no és un bon missatge."
+landingv2_moderation_demoMessage2: "Odio les patates"
+landingv2_moderation_demoMessage3: "Un altre missatge dolent"
+landingv2_moderation_deleted: "ELIMINAT"
+
+# Memory demo messages
+landingv2_memory_demo_question: "Què va decidir Biel sobre l'esdeveniment de Minecraft?"
+landingv2_memory_demo_replyHeaderPrefix: "Fa 3 dies a"
+landingv2_memory_demo_replyHeaderSuffix: ", Biel va dir:"
+landingv2_memory_demo_quote: "\"Hauríem de moure l'esdeveniment de Minecraft al dissabte perquè vingui més gent.\""
+
+# Integrate AI section
+landingv2_integrateAI_summarize: "resumir"
+
+# Community intelligence cover SVG
+landingv2_communityIntelligenceCover_communityMood: "Estat de la comunitat"
+landingv2_communityIntelligenceCover_positive: "Positiu"
+landingv2_communityIntelligenceCover_topTopic: "Tema principal"
+landingv2_communityIntelligenceCover_percentOfConversations: "32% de les converses"
+landingv2_communityIntelligenceCover_activeHours: "Hores actives"
+landingv2_communityIntelligenceCover_activeHoursRange: "7 PM - 11 PM"
+landingv2_communityIntelligenceCover_engagement: "Participació"
+landingv2_communityIntelligenceCover_vsLast7Days: "vs últims 7 dies"
+landingv2_communityIntelligenceCover_newMembers: "Nous membres"
+landingv2_communityIntelligenceCover_activity: "+28% activitat"
+landingv2_communityIntelligenceCover_topicLine1: "Torneig de"
+landingv2_communityIntelligenceCover_topicLine2: "Minecraft"
+
+# Integration cover SVG tiles
+landingv2_integrationTile_github: "GitHub"
+landingv2_integrationTile_prReviewed: "PR #128 revisat"
+landingv2_integrationTile_2min: "Fa 2 min"
+landingv2_integrationTile_googleCalendar: "Google Calendar"
+landingv2_integrationTile_eventScheduled: "Esdeveniment programat"
+landingv2_integrationTile_3min: "Fa 3 min"
+landingv2_integrationTile_twitch: "Twitch"
+landingv2_integrationTile_streamSummarized: "Stream resumit"
+landingv2_integrationTile_spotify: "Spotify"
+landingv2_integrationTile_playlistUpdated: "Llista actualitzada"
+landingv2_integrationTile_7min: "Fa 7 min"
+landingv2_integrationTile_discord: "Discord"
+landingv2_integrationTile_announcementSent: "Anunci enviat"
+landingv2_integrationTile_justNow: "Ara mateix"
+landingv2_integrationTile_notion: "Notion"
+landingv2_integrationTile_tasksCreated: "Tasques creades"
+landingv2_integrationTile_1min: "Fa 1 min"
+
+
 # 2025 - Shard Team

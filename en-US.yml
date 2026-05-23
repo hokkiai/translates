@@ -1002,5 +1002,137 @@ areYouEnjoyingHokki_desc: "If you like Hokki, please consider voting or giving u
 mainSettings: "Main settings"
 mainSettings__desc: "Change the main bot settings, such as command prefixes and similar options."
 
+answers_advanced: "Advanced"
+answers_advanced_customApiKey: "OpenRouter custom API Key"
+answers_advanced_customApiKey_desc: "You can now add a custom [OpenRouter API Key](https://openrouter.ai/workspaces/default/keys) to Hokki. It will be custom, fast, and unlimited."
+
+
+# new landing
+# Hero
+landingv2_hero_title: "The Autonomous Community AI Agent"
+landingv2_hero_announcement: "Hokki is now Hokki Agent: The smartest AI assistant of Discord!"
+
+# Nav
+nav_features_soon: "Soon..."
+nav_status_page: "Status page"
+
+# Footer
+footer_select_language: "Select a language"
+
+# Moderation section
+landingv2_moderation_badge: "Autonomous Moderation"
+landingv2_moderation_title: "Hokki reviews everything. Always. Automatically."
+landingv2_moderation_highlight: "Automatically"
+landingv2_moderation_description: "Hokki analyzes every message in your server 24/7 and takes action instantly. No commands needed."
+
+# Memory section
+landingv2_memory_badge: "Memory"
+landingv2_memory_title: "Hokki remembers everything."
+landingv2_memory_description: "Hokki has long-term memory and understands your community across channels, threads and time."
+
+# Integration section
+landingv2_integration_badge: "Integrations & actions"
+landingv2_integration_title1: "One AI agent."
+landingv2_integration_title2: "Every tool."
+landingv2_integration_description: "Hokki connects to the tools you already use and takes action across your entire ecosystem."
+landingv2_integration_github_title: "GitHub & GitLab"
+landingv2_integration_github_desc: "Review PRs, create issues and manage development workflows."
+landingv2_integration_notion_title: "Notion & Jira"
+landingv2_integration_notion_desc: "Create tasks, update docs and keep everything in sync."
+landingv2_integration_calendar_title: "Calendar & Meetings"
+landingv2_integration_calendar_desc: "Schedule events, find availability and send smart reminders."
+landingv2_integration_custom_title: "Custom APIs"
+landingv2_integration_custom_desc: "Connect Hokki to your own APIs and automate anything."
+landingv2_integration_disclaimer: "This is a concept and it is not available yet."
+
+# Voice section
+landingv2_voice_badge: "Voice-native AI"
+landingv2_voice_title: "AI that joins the conversation."
+landingv2_voice_description: "Hokki listens, speaks and understands in real time. Natural conversations, automatic summaries and instant actions inside voice channels."
+
+# Community Intelligence section
+landingv2_communityIntelligence_badge: "Community Intelligence"
+landingv2_communityIntelligence_title: "Your community, understood by AI."
+landingv2_communityIntelligence_description: "Hokki analyzes activity, engagement, sentiment, conversations, trends, and behaviour patterns to help communities grow healthier and faster."
+landingv2_communityIntelligence_live: "Live intelligence - Updated in real time"
+
+# Switch to Hokki section
+landingv2_switchToHokki_title: "The internet's next generation of communities."
+landingv2_switchToHokki_description: "Hokki is redefining how online communities are managed, moderated and experienced through AI."
+landingv2_switchToHokki_button: "Add Hokki to Discord"
+
+# Pricing features
+landingv2_pricingSection_off: "OFF"
+landingv2_pricingSection_inDevelopment: "* IN DEVELOPMENT"
+landingv2_pricingSection_hobby_chat: "Basic AI chat"
+landingv2_pricingSection_hobby_moderation: "Basic moderation"
+landingv2_pricingSection_hobby_memory: "Limited memory*"
+landingv2_pricingSection_hobby_actions: "Limited AI actions"
+landingv2_pricingSection_hobby_voice: "Basic voice features*"
+landingv2_pricingSection_hobby_integrations: "Standard integrations*"
+landingv2_pricingSection_hobby_analytics: "Community analytics*"
+landingv2_pricingSection_pro_imagegen: "Simple image generation*"
+landingv2_pricingSection_pro_models: "Advanced AI models*"
+landingv2_pricingSection_pro_moderation: "Smart AI moderation*"
+landingv2_pricingSection_pro_memory: "Long-term memory*"
+landingv2_pricingSection_pro_actions: "Unlimited AI actions"
+landingv2_pricingSection_pro_voice: "Voice AI & transcriptions*"
+landingv2_pricingSection_pro_summaries: "Smart summaries*"
+landingv2_pricingSection_pro_analytics: "Expanded community analytics*"
+landingv2_pricingSection_ultra_imagegen: "Advanced image generation*"
+landingv2_pricingSection_ultra_agents: "Autonomous AI agents*"
+landingv2_pricingSection_ultra_workflows: "Multi-agent workflows*"
+landingv2_pricingSection_ultra_moderation: "Predictive moderation*"
+landingv2_pricingSection_ultra_voice: "Real-time voice AI*"
+landingv2_pricingSection_ultra_memory: "Deep memory & intelligence*"
+landingv2_pricingSection_ultra_custom: "Custom AI tools & personalities*"
+
+# Moderation demo messages
+landingv2_moderation_demoMessage1: "This is not a good message."
+landingv2_moderation_demoMessage2: "I hate potatoes"
+landingv2_moderation_demoMessage3: "Also a bad message"
+landingv2_moderation_deleted: "DELETED"
+
+# Memory demo messages
+landingv2_memory_demo_question: "What did Biel decide about the Minecraft event?"
+landingv2_memory_demo_replyHeaderPrefix: "3 days ago in"
+landingv2_memory_demo_replyHeaderSuffix: ", Biel said:"
+landingv2_memory_demo_quote: "\"We should move the Minecraft event to Saturday to get more people online.\""
+
+# Integrate AI section
+landingv2_integrateAI_summarize: "summarize"
+
+# Community intelligence cover SVG
+landingv2_communityIntelligenceCover_communityMood: "Community mood"
+landingv2_communityIntelligenceCover_positive: "Positive"
+landingv2_communityIntelligenceCover_topTopic: "Top topic"
+landingv2_communityIntelligenceCover_percentOfConversations: "32% of conversations"
+landingv2_communityIntelligenceCover_activeHours: "Active hours"
+landingv2_communityIntelligenceCover_activeHoursRange: "7 PM - 11 PM"
+landingv2_communityIntelligenceCover_engagement: "Engagement"
+landingv2_communityIntelligenceCover_vsLast7Days: "vs last 7 days"
+landingv2_communityIntelligenceCover_newMembers: "New members"
+landingv2_communityIntelligenceCover_activity: "+28% activity"
+landingv2_communityIntelligenceCover_topicLine1: "Minecraft"
+landingv2_communityIntelligenceCover_topicLine2: "tournament"
+
+# Integration cover SVG tiles
+landingv2_integrationTile_github: "GitHub"
+landingv2_integrationTile_prReviewed: "PR #128 reviewed"
+landingv2_integrationTile_2min: "2 min ago"
+landingv2_integrationTile_googleCalendar: "Google Calendar"
+landingv2_integrationTile_eventScheduled: "Event scheduled"
+landingv2_integrationTile_3min: "3 min ago"
+landingv2_integrationTile_twitch: "Twitch"
+landingv2_integrationTile_streamSummarized: "Stream summarized"
+landingv2_integrationTile_spotify: "Spotify"
+landingv2_integrationTile_playlistUpdated: "Playlist updated"
+landingv2_integrationTile_7min: "7 min ago"
+landingv2_integrationTile_discord: "Discord"
+landingv2_integrationTile_announcementSent: "Announcement send"
+landingv2_integrationTile_justNow: "Just now"
+landingv2_integrationTile_notion: "Notion"
+landingv2_integrationTile_tasksCreated: "Tasks created"
+landingv2_integrationTile_1min: "1 min ago"
 
 # 2025 - Shard Team
