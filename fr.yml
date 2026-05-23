@@ -839,8 +839,6 @@ statisticsChannels__desc: Affichez les statistiques de votre serveur directement
 letsGo: Allons-y
 reactionRoles_desc: Permet à vos utilisateurs de s'attribuer des rôles par le biais de réactions à un message.
 joinRoles_desc: Attribue automatiquement des rôles aux utilisateurs et aux bots lorsqu'ils rejoignent votre serveur.
-statisticsChannels: Canaux de Statistiques
-statisticsChannels__desc: Affichez les statistiques de votre serveur directement dans la barre latérale des canaux et restez informé.
 noMessages: Il n'y a pas encore de messages.
 noReactionRoles: Il n'y a pas encore de rôles de réaction.
 reactionRolesLength_singular: 1 rôle de réaction
