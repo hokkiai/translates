@@ -838,8 +838,6 @@ statisticsChannels__desc: Mostra les estadístiques del teu servidor directament
 letsGo: Anem-hi
 reactionRoles_desc: Permet als teus usuaris assignar-se rols a si mateixos mitjançant reaccions a un missatge.
 joinRoles_desc: Assigna automàticament rols als usuaris i bots quan s'uneixen al teu servidor.
-statisticsChannels: Canals d'Estadístiques
-statisticsChannels__desc: Mostra les estadístiques del teu servidor directament a la barra lateral de canals i mantén-te informat.
 noMessages: Encara no hi ha missatges.
 noReactionRoles: Encara no hi ha rols de reacció.
 reactionRolesLength_singular: 1 rol de reacció
